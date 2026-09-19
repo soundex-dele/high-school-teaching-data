@@ -17,6 +17,43 @@ keywords:
 competency_tags:
 - 数学抽象
 - 逻辑推理
+knowledge_items:
+- id: algebraic-form
+  type: definition
+  name: 复数的代数形式
+  content: 实部与虚部共同确定复数。
+  review_status: self_checked
+  formulas:
+  - z=a+bi
+  - i^2=-1
+- id: equality
+  type: theorem
+  name: 复数相等
+  content: 两个复数相等当且仅当其实部与虚部分别相等。
+  review_status: self_checked
+  formulas:
+  - a+bi=c+di\iff a=c,\ b=d
+  conditions: []
+  conclusion: 实部、虚部分别相等。
+- id: operations
+  type: formula
+  name: 复数四则运算
+  content: 加减按实部、虚部分别运算，乘除利用 i²=-1 和共轭复数化简。
+  review_status: self_checked
+- id: conjugate-modulus
+  type: formula
+  name: 共轭复数与复数模
+  content: 共轭复数改变虚部符号，模表示复平面中点到原点的距离。
+  review_status: self_checked
+  formulas:
+  - \bar z=a-bi
+  - '|z|=\sqrt{a^2+b^2}'
+  - z\bar z=|z|^2
+- id: complex-plane
+  type: model
+  name: 复数的几何意义
+  content: 复数 a+bi 与复平面上的点 (a,b) 或从原点出发的向量对应。
+  review_status: self_checked
 review_status: self_checked
 reference:
   publisher: 湖南教育出版社

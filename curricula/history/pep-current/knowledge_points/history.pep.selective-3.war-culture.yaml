@@ -18,6 +18,32 @@ competency_tags:
 - 时空观念
 - 史料实证
 - 历史解释
+knowledge_items:
+- id: topic-1
+  type: event
+  name: 古代战争与区域文化
+  content: 围绕“古代战争与区域文化”梳理其时空背景、核心内容及其在“战争与文化交锋”历史进程中的作用。
+  review_status: self_checked
+- id: topic-2
+  type: concept
+  name: 蒙古西征
+  content: 围绕“蒙古西征”梳理其时空背景、核心内容及其在“战争与文化交锋”历史进程中的作用。
+  review_status: self_checked
+- id: topic-3
+  type: event
+  name: 近代殖民战争
+  content: 围绕“近代殖民战争”梳理其时空背景、核心内容及其在“战争与文化交锋”历史进程中的作用。
+  review_status: self_checked
+- id: topic-4
+  type: concept
+  name: 两次世界大战中的文化
+  content: 围绕“两次世界大战中的文化”梳理其时空背景、核心内容及其在“战争与文化交锋”历史进程中的作用。
+  review_status: self_checked
+- id: topic-5
+  type: event
+  name: 战争后的文化重构
+  content: 围绕“战争后的文化重构”梳理其时空背景、核心内容及其在“战争与文化交锋”历史进程中的作用。
+  review_status: self_checked
 review_status: self_checked
 reference:
   publisher: 人民教育出版社

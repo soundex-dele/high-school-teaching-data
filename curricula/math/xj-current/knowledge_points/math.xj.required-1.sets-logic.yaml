@@ -17,6 +17,51 @@ keywords:
 competency_tags:
 - 数学抽象
 - 逻辑推理
+knowledge_items:
+- id: membership
+  type: definition
+  name: 元素与集合的关系
+  content: 用属于和不属于描述对象与集合之间的关系。
+  review_status: self_checked
+  formulas:
+  - a\in A
+  - a\notin A
+- id: set-operations
+  type: formula
+  name: 集合的交、并、补运算
+  content: 交集取公共元素，并集汇总元素，补集依赖给定全集。
+  review_status: self_checked
+  formulas:
+  - A\cap B
+  - A\cup B
+  - \complement_U A
+- id: subset
+  type: definition
+  name: 子集与集合相等
+  content: 若 A 的每个元素都属于 B，则 A 是 B 的子集；互为子集的集合相等。
+  review_status: self_checked
+  formulas:
+  - A\subseteq B
+  - A=B\iff A\subseteq B\land B\subseteq A
+- id: implication
+  type: definition
+  name: 充分条件与必要条件
+  content: 用命题间的推出关系判断充分性、必要性和充要性。
+  review_status: self_checked
+  formulas:
+  - p\Rightarrow q
+  - p\Leftrightarrow q
+- id: demorgan
+  type: theorem
+  name: 集合的德摩根定律
+  content: 取补会把并集与交集相互转换。
+  review_status: self_checked
+  formulas:
+  - \complement_U(A\cup B)=(\complement_U A)\cap(\complement_U B)
+  - \complement_U(A\cap B)=(\complement_U A)\cup(\complement_U B)
+  conditions:
+  - 全集 U 已确定
+  conclusion: 并集的补等于补集的交，交集的补等于补集的并。
 review_status: self_checked
 reference:
   publisher: 湖南教育出版社

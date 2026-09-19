@@ -18,6 +18,32 @@ competency_tags:
 - 时空观念
 - 史料实证
 - 历史解释
+knowledge_items:
+- id: topic-1
+  type: concept
+  name: 丝绸之路
+  content: 围绕“丝绸之路”梳理其时空背景、核心内容及其在“商路、贸易与文化交流”历史进程中的作用。
+  review_status: self_checked
+- id: topic-2
+  type: concept
+  name: 欧亚草原商路
+  content: 围绕“欧亚草原商路”梳理其时空背景、核心内容及其在“商路、贸易与文化交流”历史进程中的作用。
+  review_status: self_checked
+- id: topic-3
+  type: concept
+  name: 海上丝绸之路
+  content: 围绕“海上丝绸之路”梳理其时空背景、核心内容及其在“商路、贸易与文化交流”历史进程中的作用。
+  review_status: self_checked
+- id: topic-4
+  type: concept
+  name: 近代世界贸易网络
+  content: 围绕“近代世界贸易网络”梳理其时空背景、核心内容及其在“商路、贸易与文化交流”历史进程中的作用。
+  review_status: self_checked
+- id: topic-5
+  type: process
+  name: 商品与文化传播
+  content: 围绕“商品与文化传播”梳理其时空背景、核心内容及其在“商路、贸易与文化交流”历史进程中的作用。
+  review_status: self_checked
 review_status: self_checked
 reference:
   publisher: 人民教育出版社

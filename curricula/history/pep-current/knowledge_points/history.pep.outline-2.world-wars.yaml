@@ -18,6 +18,32 @@ competency_tags:
 - 时空观念
 - 史料实证
 - 历史解释
+knowledge_items:
+- id: topic-1
+  type: concept
+  name: 第一次世界大战
+  content: 围绕“第一次世界大战”梳理其时空背景、核心内容及其在“两次世界大战与国际秩序的演变”历史进程中的作用。
+  review_status: self_checked
+- id: topic-2
+  type: institution
+  name: 凡尔赛—华盛顿体系
+  content: 围绕“凡尔赛—华盛顿体系”梳理其时空背景、核心内容及其在“两次世界大战与国际秩序的演变”历史进程中的作用。
+  review_status: self_checked
+- id: topic-3
+  type: event
+  name: 俄国十月革命
+  content: 围绕“俄国十月革命”梳理其时空背景、核心内容及其在“两次世界大战与国际秩序的演变”历史进程中的作用。
+  review_status: self_checked
+- id: topic-4
+  type: concept
+  name: 第二次世界大战
+  content: 围绕“第二次世界大战”梳理其时空背景、核心内容及其在“两次世界大战与国际秩序的演变”历史进程中的作用。
+  review_status: self_checked
+- id: topic-5
+  type: institution
+  name: 雅尔塔体系与联合国
+  content: 围绕“雅尔塔体系与联合国”梳理其时空背景、核心内容及其在“两次世界大战与国际秩序的演变”历史进程中的作用。
+  review_status: self_checked
 review_status: self_checked
 reference:
   publisher: 人民教育出版社

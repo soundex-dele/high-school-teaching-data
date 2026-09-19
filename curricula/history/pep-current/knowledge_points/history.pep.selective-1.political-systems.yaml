@@ -18,6 +18,32 @@ competency_tags:
 - 时空观念
 - 史料实证
 - 历史解释
+knowledge_items:
+- id: topic-1
+  type: institution
+  name: 先秦到秦汉政治制度
+  content: 围绕“先秦到秦汉政治制度”梳理其时空背景、核心内容及其在“政治制度”历史进程中的作用。
+  review_status: self_checked
+- id: topic-2
+  type: institution
+  name: 隋唐到明清政治制度
+  content: 围绕“隋唐到明清政治制度”梳理其时空背景、核心内容及其在“政治制度”历史进程中的作用。
+  review_status: self_checked
+- id: topic-3
+  type: institution
+  name: 古希腊罗马政治制度
+  content: 围绕“古希腊罗马政治制度”梳理其时空背景、核心内容及其在“政治制度”历史进程中的作用。
+  review_status: self_checked
+- id: topic-4
+  type: institution
+  name: 近代西方政治制度
+  content: 围绕“近代西方政治制度”梳理其时空背景、核心内容及其在“政治制度”历史进程中的作用。
+  review_status: self_checked
+- id: topic-5
+  type: institution
+  name: 近现代中国政治制度
+  content: 围绕“近现代中国政治制度”梳理其时空背景、核心内容及其在“政治制度”历史进程中的作用。
+  review_status: self_checked
 review_status: self_checked
 reference:
   publisher: 人民教育出版社

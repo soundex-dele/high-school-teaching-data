@@ -17,6 +17,49 @@ keywords:
 competency_tags:
 - 数学抽象
 - 逻辑推理
+knowledge_items:
+- id: linear
+  type: formula
+  name: 向量的线性运算
+  content: 向量加减和数乘同时反映大小与方向的变化。
+  review_status: self_checked
+  formulas:
+  - \lambda\vec a+\mu\vec b
+- id: coordinates
+  type: formula
+  name: 平面向量坐标运算
+  content: 对应坐标分别相加、相减或数乘。
+  review_status: self_checked
+  formulas:
+  - (x_1,y_1)+(x_2,y_2)=(x_1+x_2,y_1+y_2)
+- id: dot-product
+  type: definition
+  name: 向量数量积
+  content: 数量积联系向量夹角、长度与垂直关系。
+  review_status: self_checked
+  formulas:
+  - \vec a\cdot\vec b=|\vec a||\vec b|\cos\theta
+- id: perpendicular
+  type: theorem
+  name: 向量垂直判定
+  content: 两个非零向量的数量积为零等价于它们垂直。
+  review_status: self_checked
+  formulas:
+  - \vec a\cdot\vec b=0
+  conditions:
+  - a、b 均为非零向量
+  conclusion: a 与 b 垂直。
+- id: sine-cosine-laws
+  type: theorem
+  name: 正弦定理与余弦定理
+  content: 利用边角关系求解一般三角形。
+  review_status: self_checked
+  formulas:
+  - \frac a{\sin A}=\frac b{\sin B}=\frac c{\sin C}=2R
+  - a^2=b^2+c^2-2bc\cos A
+  conditions:
+  - A、B、C 为三角形内角
+  conclusion: 可由已知边角计算其余边角。
 review_status: self_checked
 reference:
   publisher: 湖南教育出版社

@@ -18,6 +18,32 @@ competency_tags:
 - 时空观念
 - 史料实证
 - 历史解释
+knowledge_items:
+- id: topic-1
+  type: concept
+  name: 十一届三中全会
+  content: 围绕“十一届三中全会”梳理其时空背景、核心内容及其在“改革开放与社会主义现代化建设新时期”历史进程中的作用。
+  review_status: self_checked
+- id: topic-2
+  type: process
+  name: 农村与城市经济体制改革
+  content: 围绕“农村与城市经济体制改革”梳理其时空背景、核心内容及其在“改革开放与社会主义现代化建设新时期”历史进程中的作用。
+  review_status: self_checked
+- id: topic-3
+  type: concept
+  name: 对外开放格局
+  content: 围绕“对外开放格局”梳理其时空背景、核心内容及其在“改革开放与社会主义现代化建设新时期”历史进程中的作用。
+  review_status: self_checked
+- id: topic-4
+  type: concept
+  name: 社会主义市场经济体制
+  content: 围绕“社会主义市场经济体制”梳理其时空背景、核心内容及其在“改革开放与社会主义现代化建设新时期”历史进程中的作用。
+  review_status: self_checked
+- id: topic-5
+  type: concept
+  name: 新时代中国特色社会主义
+  content: 围绕“新时代中国特色社会主义”梳理其时空背景、核心内容及其在“改革开放与社会主义现代化建设新时期”历史进程中的作用。
+  review_status: self_checked
 review_status: self_checked
 reference:
   publisher: 人民教育出版社

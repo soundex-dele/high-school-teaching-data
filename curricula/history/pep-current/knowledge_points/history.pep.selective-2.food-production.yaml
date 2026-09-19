@@ -18,6 +18,32 @@ competency_tags:
 - 时空观念
 - 史料实证
 - 历史解释
+knowledge_items:
+- id: topic-1
+  type: concept
+  name: 农业与畜牧业起源
+  content: 围绕“农业与畜牧业起源”梳理其时空背景、核心内容及其在“食物生产与社会生活”历史进程中的作用。
+  review_status: self_checked
+- id: topic-2
+  type: concept
+  name: 不同区域食物生产
+  content: 围绕“不同区域食物生产”梳理其时空背景、核心内容及其在“食物生产与社会生活”历史进程中的作用。
+  review_status: self_checked
+- id: topic-3
+  type: process
+  name: 美洲作物全球传播
+  content: 围绕“美洲作物全球传播”梳理其时空背景、核心内容及其在“食物生产与社会生活”历史进程中的作用。
+  review_status: self_checked
+- id: topic-4
+  type: concept
+  name: 现代农业与食品工业
+  content: 围绕“现代农业与食品工业”梳理其时空背景、核心内容及其在“食物生产与社会生活”历史进程中的作用。
+  review_status: self_checked
+- id: topic-5
+  type: impact
+  name: 食物生产的社会影响
+  content: 围绕“食物生产的社会影响”梳理其时空背景、核心内容及其在“食物生产与社会生活”历史进程中的作用。
+  review_status: self_checked
 review_status: self_checked
 reference:
   publisher: 人民教育出版社

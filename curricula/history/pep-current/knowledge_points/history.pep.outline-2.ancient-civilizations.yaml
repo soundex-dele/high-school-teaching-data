@@ -18,6 +18,32 @@ competency_tags:
 - 时空观念
 - 史料实证
 - 历史解释
+knowledge_items:
+- id: topic-1
+  type: concept
+  name: 西亚与埃及文明
+  content: 围绕“西亚与埃及文明”梳理其时空背景、核心内容及其在“古代文明的产生与发展”历史进程中的作用。
+  review_status: self_checked
+- id: topic-2
+  type: concept
+  name: 古代印度文明
+  content: 围绕“古代印度文明”梳理其时空背景、核心内容及其在“古代文明的产生与发展”历史进程中的作用。
+  review_status: self_checked
+- id: topic-3
+  type: concept
+  name: 古代希腊文明
+  content: 围绕“古代希腊文明”梳理其时空背景、核心内容及其在“古代文明的产生与发展”历史进程中的作用。
+  review_status: self_checked
+- id: topic-4
+  type: process
+  name: 古代帝国扩张
+  content: 围绕“古代帝国扩张”梳理其时空背景、核心内容及其在“古代文明的产生与发展”历史进程中的作用。
+  review_status: self_checked
+- id: topic-5
+  type: concept
+  name: 文明交流与区域联系
+  content: 围绕“文明交流与区域联系”梳理其时空背景、核心内容及其在“古代文明的产生与发展”历史进程中的作用。
+  review_status: self_checked
 review_status: self_checked
 reference:
   publisher: 人民教育出版社

@@ -18,6 +18,32 @@ competency_tags:
 - 时空观念
 - 史料实证
 - 历史解释
+knowledge_items:
+- id: topic-1
+  type: concept
+  name: 三国两晋南北朝政权更替
+  content: 围绕“三国两晋南北朝政权更替”梳理其时空背景、核心内容及其在“三国两晋南北朝的民族交融与隋唐统一多民族封建国家的发展”历史进程中的作用。
+  review_status: self_checked
+- id: topic-2
+  type: process
+  name: 北方民族交融
+  content: 围绕“北方民族交融”梳理其时空背景、核心内容及其在“三国两晋南北朝的民族交融与隋唐统一多民族封建国家的发展”历史进程中的作用。
+  review_status: self_checked
+- id: topic-3
+  type: institution
+  name: 隋朝统一与制度建设
+  content: 围绕“隋朝统一与制度建设”梳理其时空背景、核心内容及其在“三国两晋南北朝的民族交融与隋唐统一多民族封建国家的发展”历史进程中的作用。
+  review_status: self_checked
+- id: topic-4
+  type: process
+  name: 唐朝政治与经济发展
+  content: 围绕“唐朝政治与经济发展”梳理其时空背景、核心内容及其在“三国两晋南北朝的民族交融与隋唐统一多民族封建国家的发展”历史进程中的作用。
+  review_status: self_checked
+- id: topic-5
+  type: concept
+  name: 隋唐中外文化交流
+  content: 围绕“隋唐中外文化交流”梳理其时空背景、核心内容及其在“三国两晋南北朝的民族交融与隋唐统一多民族封建国家的发展”历史进程中的作用。
+  review_status: self_checked
 review_status: self_checked
 reference:
   publisher: 人民教育出版社

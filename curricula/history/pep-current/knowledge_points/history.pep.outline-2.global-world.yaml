@@ -18,6 +18,32 @@ competency_tags:
 - 时空观念
 - 史料实证
 - 历史解释
+knowledge_items:
+- id: topic-1
+  type: concept
+  name: 新航路开辟动因
+  content: 围绕“新航路开辟动因”梳理其时空背景、核心内容及其在“走向整体的世界”历史进程中的作用。
+  review_status: self_checked
+- id: topic-2
+  type: concept
+  name: 主要航海活动
+  content: 围绕“主要航海活动”梳理其时空背景、核心内容及其在“走向整体的世界”历史进程中的作用。
+  review_status: self_checked
+- id: topic-3
+  type: concept
+  name: 人口迁移与物种交换
+  content: 围绕“人口迁移与物种交换”梳理其时空背景、核心内容及其在“走向整体的世界”历史进程中的作用。
+  review_status: self_checked
+- id: topic-4
+  type: process
+  name: 早期殖民扩张
+  content: 围绕“早期殖民扩张”梳理其时空背景、核心内容及其在“走向整体的世界”历史进程中的作用。
+  review_status: self_checked
+- id: topic-5
+  type: process
+  name: 世界市场初步形成
+  content: 围绕“世界市场初步形成”梳理其时空背景、核心内容及其在“走向整体的世界”历史进程中的作用。
+  review_status: self_checked
 review_status: self_checked
 reference:
   publisher: 人民教育出版社

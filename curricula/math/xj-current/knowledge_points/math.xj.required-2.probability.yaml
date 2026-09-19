@@ -17,6 +17,49 @@ keywords:
 competency_tags:
 - 数学抽象
 - 逻辑推理
+knowledge_items:
+- id: events
+  type: definition
+  name: 样本空间与随机事件
+  content: 样本空间由全部可能结果构成，事件是样本空间的子集。
+  review_status: self_checked
+- id: addition
+  type: theorem
+  name: 概率加法公式
+  content: 两个事件并集的概率需要扣除重复计算的交集。
+  review_status: self_checked
+  formulas:
+  - P(A\cup B)=P(A)+P(B)-P(A\cap B)
+  conditions: []
+  conclusion: 给出任意两个事件并集的概率。
+- id: conditional
+  type: definition
+  name: 条件概率
+  content: 在事件 B 已发生条件下重新计算事件 A 的概率。
+  review_status: self_checked
+  formulas:
+  - P(A\mid B)=\frac{P(A\cap B)}{P(B)}
+  conditions:
+  - P(B)>0
+- id: independence
+  type: theorem
+  name: 事件独立性
+  content: 独立事件同时发生的概率等于各自概率之积。
+  review_status: self_checked
+  formulas:
+  - P(A\cap B)=P(A)P(B)
+  conditions:
+  - A 与 B 相互独立
+  conclusion: A、B 同时发生的概率可相乘。
+- id: total-probability
+  type: formula
+  name: 全概率公式
+  content: 把复杂事件按互斥且完备的条件分解后求概率。
+  review_status: self_checked
+  formulas:
+  - P(A)=\sum_iP(B_i)P(A\mid B_i)
+  conditions:
+  - \{B_i\}\text{ 构成样本空间的一个划分}
 review_status: self_checked
 reference:
   publisher: 湖南教育出版社

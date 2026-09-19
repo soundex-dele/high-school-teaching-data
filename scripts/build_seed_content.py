@@ -6,6 +6,8 @@ from pathlib import Path
 
 import yaml
 
+from detail_seed import HISTORY_TOPICS, MATH_ITEMS, history_items
+
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -161,6 +163,11 @@ def build(subject: str, curriculum_id: str, prefix: str, publisher: str, volumes
                 "common_mistakes": [mistake],
                 "keywords": [core, chapter_name],
                 "competency_tags": ["数学抽象", "逻辑推理"] if subject == "math" else ["时空观念", "史料实证", "历史解释"],
+                "knowledge_items": (
+                    MATH_ITEMS[slug]
+                    if subject == "math"
+                    else history_items(slug, chapter_name)
+                ),
                 "review_status": "self_checked",
                 "reference": {
                     "publisher": publisher,
@@ -181,6 +188,12 @@ def build(subject: str, curriculum_id: str, prefix: str, publisher: str, volumes
 
 
 def main():
+    math_slugs = {chapter[0] for _, _, chapters in MATH for chapter in chapters}
+    history_slugs = {chapter[0] for _, _, chapters in HISTORY for chapter in chapters}
+    if math_slugs != set(MATH_ITEMS):
+        raise ValueError(f"数学详细知识项覆盖不完整：{sorted(math_slugs ^ set(MATH_ITEMS))}")
+    if history_slugs != set(HISTORY_TOPICS):
+        raise ValueError(f"历史详细知识项覆盖不完整：{sorted(history_slugs ^ set(HISTORY_TOPICS))}")
     build("math", "xj-math-current", "math.xj", "湖南教育出版社", MATH)
     build("history", "pep-history-current", "history.pep", "人民教育出版社", HISTORY)
 

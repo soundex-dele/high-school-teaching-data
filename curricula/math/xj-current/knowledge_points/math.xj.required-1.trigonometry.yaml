@@ -17,6 +17,48 @@ keywords:
 competency_tags:
 - 数学抽象
 - 逻辑推理
+knowledge_items:
+- id: radian
+  type: definition
+  name: 弧度制
+  content: 圆心角的弧度数等于所对弧长与半径之比。
+  review_status: self_checked
+  formulas:
+  - \alpha=\frac lr
+- id: unit-circle
+  type: definition
+  name: 任意角三角函数
+  content: 单位圆上终边交点的坐标给出余弦和正弦。
+  review_status: self_checked
+  formulas:
+  - \cos\alpha=x
+  - \sin\alpha=y
+  - \tan\alpha=\frac yx
+- id: basic-identity
+  type: theorem
+  name: 同角三角函数基本关系
+  content: 正弦平方与余弦平方之和恒为 1。
+  review_status: self_checked
+  formulas:
+  - \sin^2\alpha+\cos^2\alpha=1
+  conditions: []
+  conclusion: 恒等式对任意有定义的角成立。
+- id: periodicity
+  type: property
+  name: 三角函数的周期性
+  content: 正弦和余弦的最小正周期为 2π，正切的最小正周期为 π。
+  review_status: self_checked
+  formulas:
+  - \sin(x+2\pi)=\sin x
+  - \tan(x+\pi)=\tan x
+- id: addition
+  type: formula
+  name: 两角和与差公式
+  content: 把复合角的三角函数转化为单角三角函数。
+  review_status: self_checked
+  formulas:
+  - \sin(\alpha+\beta)=\sin\alpha\cos\beta+\cos\alpha\sin\beta
+  - \cos(\alpha+\beta)=\cos\alpha\cos\beta-\sin\alpha\sin\beta
 review_status: self_checked
 reference:
   publisher: 湖南教育出版社

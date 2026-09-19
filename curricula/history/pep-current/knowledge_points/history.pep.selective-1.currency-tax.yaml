@@ -18,6 +18,32 @@ competency_tags:
 - 时空观念
 - 史料实证
 - 历史解释
+knowledge_items:
+- id: topic-1
+  type: process
+  name: 中国古代货币演进
+  content: 围绕“中国古代货币演进”梳理其时空背景、核心内容及其在“货币与赋税制度”历史进程中的作用。
+  review_status: self_checked
+- id: topic-2
+  type: institution
+  name: 世界货币体系
+  content: 围绕“世界货币体系”梳理其时空背景、核心内容及其在“货币与赋税制度”历史进程中的作用。
+  review_status: self_checked
+- id: topic-3
+  type: institution
+  name: 中国古代赋役制度
+  content: 围绕“中国古代赋役制度”梳理其时空背景、核心内容及其在“货币与赋税制度”历史进程中的作用。
+  review_status: self_checked
+- id: topic-4
+  type: concept
+  name: 近代关税与个人所得税
+  content: 围绕“近代关税与个人所得税”梳理其时空背景、核心内容及其在“货币与赋税制度”历史进程中的作用。
+  review_status: self_checked
+- id: topic-5
+  type: concept
+  name: 货币赋税与国家治理
+  content: 围绕“货币赋税与国家治理”梳理其时空背景、核心内容及其在“货币与赋税制度”历史进程中的作用。
+  review_status: self_checked
 review_status: self_checked
 reference:
   publisher: 人民教育出版社

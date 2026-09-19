@@ -18,6 +18,32 @@ competency_tags:
 - 时空观念
 - 史料实证
 - 历史解释
+knowledge_items:
+- id: topic-1
+  type: concept
+  name: 古代陆路交通
+  content: 围绕“古代陆路交通”梳理其时空背景、核心内容及其在“交通与社会变迁”历史进程中的作用。
+  review_status: self_checked
+- id: topic-2
+  type: concept
+  name: 古代水路与海路
+  content: 围绕“古代水路与海路”梳理其时空背景、核心内容及其在“交通与社会变迁”历史进程中的作用。
+  review_status: self_checked
+- id: topic-3
+  type: concept
+  name: 铁路与轮船
+  content: 围绕“铁路与轮船”梳理其时空背景、核心内容及其在“交通与社会变迁”历史进程中的作用。
+  review_status: self_checked
+- id: topic-4
+  type: concept
+  name: 汽车航空与高速交通
+  content: 围绕“汽车航空与高速交通”梳理其时空背景、核心内容及其在“交通与社会变迁”历史进程中的作用。
+  review_status: self_checked
+- id: topic-5
+  type: impact
+  name: 交通对社会变迁的影响
+  content: 围绕“交通对社会变迁的影响”梳理其时空背景、核心内容及其在“交通与社会变迁”历史进程中的作用。
+  review_status: self_checked
 review_status: self_checked
 reference:
   publisher: 人民教育出版社

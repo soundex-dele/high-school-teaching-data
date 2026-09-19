@@ -18,6 +18,32 @@ competency_tags:
 - 时空观念
 - 史料实证
 - 历史解释
+knowledge_items:
+- id: topic-1
+  type: concept
+  name: 中国古代民族关系
+  content: 围绕“中国古代民族关系”梳理其时空背景、核心内容及其在“民族关系与国家关系”历史进程中的作用。
+  review_status: self_checked
+- id: topic-2
+  type: concept
+  name: 中国古代边疆治理
+  content: 围绕“中国古代边疆治理”梳理其时空背景、核心内容及其在“民族关系与国家关系”历史进程中的作用。
+  review_status: self_checked
+- id: topic-3
+  type: concept
+  name: 中国古代对外交往
+  content: 围绕“中国古代对外交往”梳理其时空背景、核心内容及其在“民族关系与国家关系”历史进程中的作用。
+  review_status: self_checked
+- id: topic-4
+  type: institution
+  name: 近代国际法与外交制度
+  content: 围绕“近代国际法与外交制度”梳理其时空背景、核心内容及其在“民族关系与国家关系”历史进程中的作用。
+  review_status: self_checked
+- id: topic-5
+  type: institution
+  name: 当代中国民族与外交政策
+  content: 围绕“当代中国民族与外交政策”梳理其时空背景、核心内容及其在“民族关系与国家关系”历史进程中的作用。
+  review_status: self_checked
 review_status: self_checked
 reference:
   publisher: 人民教育出版社

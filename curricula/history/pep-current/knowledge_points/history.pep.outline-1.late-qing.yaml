@@ -18,6 +18,32 @@ competency_tags:
 - 时空观念
 - 史料实证
 - 历史解释
+knowledge_items:
+- id: topic-1
+  type: event
+  name: 鸦片战争与不平等条约
+  content: 围绕“鸦片战争与不平等条约”梳理其时空背景、核心内容及其在“晚清时期的内忧外患与救亡图存”历史进程中的作用。
+  review_status: self_checked
+- id: topic-2
+  type: event
+  name: 太平天国运动
+  content: 围绕“太平天国运动”梳理其时空背景、核心内容及其在“晚清时期的内忧外患与救亡图存”历史进程中的作用。
+  review_status: self_checked
+- id: topic-3
+  type: event
+  name: 洋务运动
+  content: 围绕“洋务运动”梳理其时空背景、核心内容及其在“晚清时期的内忧外患与救亡图存”历史进程中的作用。
+  review_status: self_checked
+- id: topic-4
+  type: event
+  name: 甲午战争与瓜分危机
+  content: 围绕“甲午战争与瓜分危机”梳理其时空背景、核心内容及其在“晚清时期的内忧外患与救亡图存”历史进程中的作用。
+  review_status: self_checked
+- id: topic-5
+  type: event
+  name: 戊戌变法与义和团运动
+  content: 围绕“戊戌变法与义和团运动”梳理其时空背景、核心内容及其在“晚清时期的内忧外患与救亡图存”历史进程中的作用。
+  review_status: self_checked
 review_status: self_checked
 reference:
   publisher: 人民教育出版社

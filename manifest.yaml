@@ -1,6 +1,6 @@
 schema_version: 1
-data_version: "2026.1"
-generated_at: "2026-09-19"
+data_version: "2026.2"
+generated_at: "2026-09-20"
 curricula:
   - id: xj-math-current
     subject: math
@@ -14,4 +14,3 @@ curricula:
     publisher: 人民教育出版社
     catalog: curricula/history/pep-current/catalog.yaml
     knowledge_glob: curricula/history/pep-current/knowledge_points/*.yaml
-

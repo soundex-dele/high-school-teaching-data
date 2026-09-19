@@ -18,6 +18,32 @@ competency_tags:
 - 时空观念
 - 史料实证
 - 历史解释
+knowledge_items:
+- id: topic-1
+  type: process
+  name: 文艺复兴与宗教改革
+  content: 围绕“文艺复兴与宗教改革”梳理其时空背景、核心内容及其在“资本主义制度的确立”历史进程中的作用。
+  review_status: self_checked
+- id: topic-2
+  type: event
+  name: 近代科学与启蒙运动
+  content: 围绕“近代科学与启蒙运动”梳理其时空背景、核心内容及其在“资本主义制度的确立”历史进程中的作用。
+  review_status: self_checked
+- id: topic-3
+  type: event
+  name: 英国资产阶级革命
+  content: 围绕“英国资产阶级革命”梳理其时空背景、核心内容及其在“资本主义制度的确立”历史进程中的作用。
+  review_status: self_checked
+- id: topic-4
+  type: institution
+  name: 美国独立与共和制度
+  content: 围绕“美国独立与共和制度”梳理其时空背景、核心内容及其在“资本主义制度的确立”历史进程中的作用。
+  review_status: self_checked
+- id: topic-5
+  type: event
+  name: 法国大革命与拿破仑时代
+  content: 围绕“法国大革命与拿破仑时代”梳理其时空背景、核心内容及其在“资本主义制度的确立”历史进程中的作用。
+  review_status: self_checked
 review_status: self_checked
 reference:
   publisher: 人民教育出版社

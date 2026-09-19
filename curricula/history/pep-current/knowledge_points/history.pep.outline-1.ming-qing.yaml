@@ -18,6 +18,32 @@ competency_tags:
 - 时空观念
 - 史料实证
 - 历史解释
+knowledge_items:
+- id: topic-1
+  type: institution
+  name: 明朝政治制度变化
+  content: 围绕“明朝政治制度变化”梳理其时空背景、核心内容及其在“明清中国版图的奠定与面临的挑战”历史进程中的作用。
+  review_status: self_checked
+- id: topic-2
+  type: concept
+  name: 清朝统一版图奠定
+  content: 围绕“清朝统一版图奠定”梳理其时空背景、核心内容及其在“明清中国版图的奠定与面临的挑战”历史进程中的作用。
+  review_status: self_checked
+- id: topic-3
+  type: process
+  name: 明清商品经济发展
+  content: 围绕“明清商品经济发展”梳理其时空背景、核心内容及其在“明清中国版图的奠定与面临的挑战”历史进程中的作用。
+  review_status: self_checked
+- id: topic-4
+  type: concept
+  name: 明清思想文化
+  content: 围绕“明清思想文化”梳理其时空背景、核心内容及其在“明清中国版图的奠定与面临的挑战”历史进程中的作用。
+  review_status: self_checked
+- id: topic-5
+  type: impact
+  name: 海禁闭关与外部挑战
+  content: 围绕“海禁闭关与外部挑战”梳理其时空背景、核心内容及其在“明清中国版图的奠定与面临的挑战”历史进程中的作用。
+  review_status: self_checked
 review_status: self_checked
 reference:
   publisher: 人民教育出版社

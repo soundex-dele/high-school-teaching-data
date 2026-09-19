@@ -17,6 +17,40 @@ keywords:
 competency_tags:
 - 数学抽象
 - 逻辑推理
+knowledge_items:
+- id: definition-domain
+  type: definition
+  name: 函数、定义域和值域
+  content: 函数要求定义域中的每个自变量都有唯一确定的函数值。
+  review_status: self_checked
+  formulas:
+  - y=f(x),\ x\in D
+- id: monotonicity
+  type: definition
+  name: 函数的单调性
+  content: 在给定区间内比较自变量与函数值的同向或反向变化。
+  review_status: self_checked
+- id: parity
+  type: theorem
+  name: 奇函数与偶函数
+  content: 奇偶性必须在关于原点对称的定义域上讨论。
+  review_status: self_checked
+  formulas:
+  - f(-x)=-f(x)
+  - f(-x)=f(x)
+  conditions:
+  - 定义域关于原点对称
+  conclusion: 分别对应奇函数和偶函数。
+- id: max-min
+  type: concept
+  name: 函数的最大值与最小值
+  content: 最值是函数在指定定义域或区间内能够取得的最大或最小函数值。
+  review_status: self_checked
+- id: piecewise
+  type: method
+  name: 分段函数分析
+  content: 先按自变量所属区间选择解析式，再分别研究图象、性质与取值。
+  review_status: self_checked
 review_status: self_checked
 reference:
   publisher: 湖南教育出版社

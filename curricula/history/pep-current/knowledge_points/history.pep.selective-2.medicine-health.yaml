@@ -18,6 +18,32 @@ competency_tags:
 - 时空观念
 - 史料实证
 - 历史解释
+knowledge_items:
+- id: topic-1
+  type: impact
+  name: 传统医学成就
+  content: 围绕“传统医学成就”梳理其时空背景、核心内容及其在“医疗与公共卫生”历史进程中的作用。
+  review_status: self_checked
+- id: topic-2
+  type: process
+  name: 近代西医发展
+  content: 围绕“近代西医发展”梳理其时空背景、核心内容及其在“医疗与公共卫生”历史进程中的作用。
+  review_status: self_checked
+- id: topic-3
+  type: concept
+  name: 疫病与社会
+  content: 围绕“疫病与社会”梳理其时空背景、核心内容及其在“医疗与公共卫生”历史进程中的作用。
+  review_status: self_checked
+- id: topic-4
+  type: institution
+  name: 公共卫生体系
+  content: 围绕“公共卫生体系”梳理其时空背景、核心内容及其在“医疗与公共卫生”历史进程中的作用。
+  review_status: self_checked
+- id: topic-5
+  type: concept
+  name: 现代医疗保障
+  content: 围绕“现代医疗保障”梳理其时空背景、核心内容及其在“医疗与公共卫生”历史进程中的作用。
+  review_status: self_checked
 review_status: self_checked
 reference:
   publisher: 人民教育出版社

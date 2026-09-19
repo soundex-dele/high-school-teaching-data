@@ -17,6 +17,44 @@ keywords:
 competency_tags:
 - 数学抽象
 - 逻辑推理
+knowledge_items:
+- id: general-term
+  type: concept
+  name: 数列与通项公式
+  content: 数列可看作定义在正整数集或其有限子集上的函数。
+  review_status: self_checked
+  formulas:
+  - a_n=f(n)
+- id: arithmetic
+  type: formula
+  name: 等差数列通项
+  content: 相邻两项之差为同一常数。
+  review_status: self_checked
+  formulas:
+  - a_n=a_1+(n-1)d
+- id: arithmetic-sum
+  type: formula
+  name: 等差数列前 n 项和
+  content: 首末项平均数乘项数得到前 n 项和。
+  review_status: self_checked
+  formulas:
+  - S_n=\frac{n(a_1+a_n)}2=na_1+\frac{n(n-1)}2d
+- id: geometric
+  type: formula
+  name: 等比数列通项
+  content: 从第二项起后一项与前一项之比为同一非零常数。
+  review_status: self_checked
+  formulas:
+  - a_n=a_1q^{n-1}
+- id: geometric-sum
+  type: formula
+  name: 等比数列前 n 项和
+  content: 公比不为 1 时使用等比求和公式。
+  review_status: self_checked
+  formulas:
+  - S_n=\frac{a_1(1-q^n)}{1-q}
+  conditions:
+  - q\ne1
 review_status: self_checked
 reference:
   publisher: 湖南教育出版社

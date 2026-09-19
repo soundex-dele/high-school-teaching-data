@@ -29,7 +29,7 @@ def main() -> int:
     point_validator = Draft202012Validator(load_schema("knowledge-point.schema.json"))
     errors: list[str] = []
     all_ids: set[str] = set()
-    total_points = total_questions = 0
+    total_points = total_questions = total_items = 0
 
     for curriculum in manifest.get("curricula", []):
         catalog_path = ROOT / curriculum["catalog"]
@@ -59,6 +59,33 @@ def main() -> int:
             points[point_id] = point
             total_points += 1
 
+            knowledge_items = point.get("knowledge_items", [])
+            item_ids = [item.get("id") for item in knowledge_items]
+            item_names = [item.get("name") for item in knowledge_items]
+            if len(item_ids) != len(set(item_ids)):
+                errors.append(f"{point_id}: duplicate detailed knowledge item ids")
+            if len(item_names) != len(set(item_names)):
+                errors.append(f"{point_id}: duplicate detailed knowledge item names")
+            total_items += len(knowledge_items)
+            if point.get("subject") == "math":
+                formulas = [
+                    formula
+                    for item in knowledge_items
+                    for formula in item.get("formulas", [])
+                ]
+                if not formulas:
+                    errors.append(f"{point_id}: math point must include formulas")
+                for formula in formulas:
+                    if formula.count("{") != formula.count("}"):
+                        errors.append(f"{point_id}: unbalanced LaTeX braces in {formula}")
+                for item in knowledge_items:
+                    if item.get("type") == "theorem" and (
+                        "conditions" not in item or not item.get("conclusion")
+                    ):
+                        errors.append(
+                            f"{point_id}.{item.get('id')}: theorem requires conditions and conclusion"
+                        )
+
             question_ids = [question.get("id") for question in point.get("questions", [])]
             if len(question_ids) != len(set(question_ids)):
                 errors.append(f"{point_id}: duplicate question ids")
@@ -84,10 +111,15 @@ def main() -> int:
             errors.append(f"{curriculum['id']}: unreferenced knowledge files: {unreferenced}")
         print(
             f"{curriculum['label']}: {len(catalog.get('volumes', []))} volumes, "
-            f"{len(points)} knowledge points, {sum(len(p['questions']) for p in points.values())} questions"
+            f"{len(points)} knowledge points, "
+            f"{sum(len(p.get('knowledge_items', [])) for p in points.values())} detailed items, "
+            f"{sum(len(p['questions']) for p in points.values())} questions"
         )
 
-    print(f"TOTAL: {total_points} knowledge points, {total_questions} questions")
+    print(
+        f"TOTAL: {total_points} knowledge points, {total_items} detailed items, "
+        f"{total_questions} questions"
+    )
     if errors:
         print("\nVALIDATION FAILED", file=sys.stderr)
         for error in errors:
@@ -99,4 +131,3 @@ def main() -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
-

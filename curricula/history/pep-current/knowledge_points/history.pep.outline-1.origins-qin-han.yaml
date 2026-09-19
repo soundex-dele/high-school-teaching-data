@@ -18,6 +18,32 @@ competency_tags:
 - 时空观念
 - 史料实证
 - 历史解释
+knowledge_items:
+- id: topic-1
+  type: concept
+  name: 中华文明多元一体起源
+  content: 围绕“中华文明多元一体起源”梳理其时空背景、核心内容及其在“从中华文明起源到秦汉统一多民族封建国家的建立与巩固”历史进程中的作用。
+  review_status: self_checked
+- id: topic-2
+  type: concept
+  name: 夏商周早期国家
+  content: 围绕“夏商周早期国家”梳理其时空背景、核心内容及其在“从中华文明起源到秦汉统一多民族封建国家的建立与巩固”历史进程中的作用。
+  review_status: self_checked
+- id: topic-3
+  type: concept
+  name: 春秋战国社会变革
+  content: 围绕“春秋战国社会变革”梳理其时空背景、核心内容及其在“从中华文明起源到秦汉统一多民族封建国家的建立与巩固”历史进程中的作用。
+  review_status: self_checked
+- id: topic-4
+  type: concept
+  name: 秦朝统一与中央集权
+  content: 围绕“秦朝统一与中央集权”梳理其时空背景、核心内容及其在“从中华文明起源到秦汉统一多民族封建国家的建立与巩固”历史进程中的作用。
+  review_status: self_checked
+- id: topic-5
+  type: process
+  name: 汉代大一统巩固
+  content: 围绕“汉代大一统巩固”梳理其时空背景、核心内容及其在“从中华文明起源到秦汉统一多民族封建国家的建立与巩固”历史进程中的作用。
+  review_status: self_checked
 review_status: self_checked
 reference:
   publisher: 人民教育出版社

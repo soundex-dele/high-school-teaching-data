@@ -18,6 +18,32 @@ competency_tags:
 - 时空观念
 - 史料实证
 - 历史解释
+knowledge_items:
+- id: topic-1
+  type: concept
+  name: 察举制与九品中正制
+  content: 围绕“察举制与九品中正制”梳理其时空背景、核心内容及其在“官员的选拔与管理”历史进程中的作用。
+  review_status: self_checked
+- id: topic-2
+  type: concept
+  name: 科举制
+  content: 围绕“科举制”梳理其时空背景、核心内容及其在“官员的选拔与管理”历史进程中的作用。
+  review_status: self_checked
+- id: topic-3
+  type: concept
+  name: 古代官员考核监察
+  content: 围绕“古代官员考核监察”梳理其时空背景、核心内容及其在“官员的选拔与管理”历史进程中的作用。
+  review_status: self_checked
+- id: topic-4
+  type: institution
+  name: 西方文官制度
+  content: 围绕“西方文官制度”梳理其时空背景、核心内容及其在“官员的选拔与管理”历史进程中的作用。
+  review_status: self_checked
+- id: topic-5
+  type: institution
+  name: 近现代中国公务员制度
+  content: 围绕“近现代中国公务员制度”梳理其时空背景、核心内容及其在“官员的选拔与管理”历史进程中的作用。
+  review_status: self_checked
 review_status: self_checked
 reference:
   publisher: 人民教育出版社

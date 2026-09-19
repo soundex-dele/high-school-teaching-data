@@ -18,6 +18,32 @@ competency_tags:
 - 时空观念
 - 史料实证
 - 历史解释
+knowledge_items:
+- id: topic-1
+  type: concept
+  name: 辽宋夏金政权并立
+  content: 围绕“辽宋夏金政权并立”梳理其时空背景、核心内容及其在“辽宋夏金多民族政权的并立与元朝的统一”历史进程中的作用。
+  review_status: self_checked
+- id: topic-2
+  type: concept
+  name: 宋代中央集权强化
+  content: 围绕“宋代中央集权强化”梳理其时空背景、核心内容及其在“辽宋夏金多民族政权的并立与元朝的统一”历史进程中的作用。
+  review_status: self_checked
+- id: topic-3
+  type: impact
+  name: 宋元经济与社会变化
+  content: 围绕“宋元经济与社会变化”梳理其时空背景、核心内容及其在“辽宋夏金多民族政权的并立与元朝的统一”历史进程中的作用。
+  review_status: self_checked
+- id: topic-4
+  type: concept
+  name: 宋元科技文化
+  content: 围绕“宋元科技文化”梳理其时空背景、核心内容及其在“辽宋夏金多民族政权的并立与元朝的统一”历史进程中的作用。
+  review_status: self_checked
+- id: topic-5
+  type: institution
+  name: 元朝统一与行省制度
+  content: 围绕“元朝统一与行省制度”梳理其时空背景、核心内容及其在“辽宋夏金多民族政权的并立与元朝的统一”历史进程中的作用。
+  review_status: self_checked
 review_status: self_checked
 reference:
   publisher: 人民教育出版社

@@ -18,6 +18,32 @@ competency_tags:
 - 时空观念
 - 史料实证
 - 历史解释
+knowledge_items:
+- id: topic-1
+  type: concept
+  name: 古代商业贸易
+  content: 围绕“古代商业贸易”梳理其时空背景、核心内容及其在“商业贸易与日常生活”历史进程中的作用。
+  review_status: self_checked
+- id: topic-2
+  type: process
+  name: 世界市场形成
+  content: 围绕“世界市场形成”梳理其时空背景、核心内容及其在“商业贸易与日常生活”历史进程中的作用。
+  review_status: self_checked
+- id: topic-3
+  type: concept
+  name: 货币信贷与金融
+  content: 围绕“货币信贷与金融”梳理其时空背景、核心内容及其在“商业贸易与日常生活”历史进程中的作用。
+  review_status: self_checked
+- id: topic-4
+  type: concept
+  name: 现代商业经营
+  content: 围绕“现代商业经营”梳理其时空背景、核心内容及其在“商业贸易与日常生活”历史进程中的作用。
+  review_status: self_checked
+- id: topic-5
+  type: concept
+  name: 商业贸易与日常生活
+  content: 围绕“商业贸易与日常生活”梳理其时空背景、核心内容及其在“商业贸易与日常生活”历史进程中的作用。
+  review_status: self_checked
 review_status: self_checked
 reference:
   publisher: 人民教育出版社

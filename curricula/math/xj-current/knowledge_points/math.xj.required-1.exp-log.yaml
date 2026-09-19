@@ -17,6 +17,61 @@ keywords:
 competency_tags:
 - 数学抽象
 - 逻辑推理
+knowledge_items:
+- id: power-laws
+  type: formula
+  name: 实数指数幂运算
+  content: 同底数幂相乘指数相加，乘方时指数相乘。
+  review_status: self_checked
+  formulas:
+  - a^ma^n=a^{m+n}
+  - (a^m)^n=a^{mn}
+  conditions:
+  - a>0
+- id: exponential
+  type: definition
+  name: 指数函数
+  content: 底数大于 1 时递增，底数在 0 与 1 之间时递减。
+  review_status: self_checked
+  formulas:
+  - y=a^x
+  conditions:
+  - a>0
+  - a\ne1
+- id: log-definition
+  type: definition
+  name: 对数的定义
+  content: 对数表示指数运算的逆运算。
+  review_status: self_checked
+  formulas:
+  - a^x=N\iff\log_aN=x
+  conditions:
+  - a>0
+  - a\ne1
+  - N>0
+- id: log-laws
+  type: formula
+  name: 对数运算法则
+  content: 积、商和幂的对数可分别转化为和、差与倍数。
+  review_status: self_checked
+  formulas:
+  - \log_a(MN)=\log_aM+\log_aN
+  - \log_a\frac{M}{N}=\log_aM-\log_aN
+  - \log_aM^n=n\log_aM
+  conditions:
+  - M>0
+  - N>0
+- id: change-base
+  type: formula
+  name: 换底公式
+  content: 可借助任意合法的新底数计算对数。
+  review_status: self_checked
+  formulas:
+  - \log_aN=\frac{\log_bN}{\log_ba}
+  conditions:
+  - a,b>0
+  - a,b\ne1
+  - N>0
 review_status: self_checked
 reference:
   publisher: 湖南教育出版社

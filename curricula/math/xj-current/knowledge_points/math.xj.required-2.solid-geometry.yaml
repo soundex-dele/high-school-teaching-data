@@ -17,6 +17,50 @@ keywords:
 competency_tags:
 - 数学抽象
 - 逻辑推理
+knowledge_items:
+- id: line-plane-parallel
+  type: theorem
+  name: 直线与平面平行判定
+  content: 平面外一直线若平行于平面内一直线，则该直线平行于此平面。
+  review_status: self_checked
+  conditions:
+  - 直线不在平面内
+  - 平面内存在与之平行的直线
+  conclusion: 直线与平面平行。
+- id: planes-parallel
+  type: theorem
+  name: 平面与平面平行判定
+  content: 一个平面内两条相交直线分别平行于另一平面，则两平面平行。
+  review_status: self_checked
+  conditions:
+  - 两条直线相交
+  - 两直线均平行于另一平面
+  conclusion: 两个平面平行。
+- id: line-plane-perpendicular
+  type: theorem
+  name: 直线与平面垂直判定
+  content: 一直线若垂直于平面内两条相交直线，则垂直于此平面。
+  review_status: self_checked
+  conditions:
+  - 平面内两条直线相交
+  - 给定直线分别与二者垂直
+  conclusion: 直线与平面垂直。
+- id: volume
+  type: formula
+  name: 柱、锥体积
+  content: 柱体体积等于底面积乘高，锥体体积是同底等高柱体的三分之一。
+  review_status: self_checked
+  formulas:
+  - V_{柱}=Sh
+  - V_{锥}=\frac13Sh
+- id: sphere
+  type: formula
+  name: 球的表面积与体积
+  content: 球的度量只由半径决定。
+  review_status: self_checked
+  formulas:
+  - S=4\pi R^2
+  - V=\frac43\pi R^3
 review_status: self_checked
 reference:
   publisher: 湖南教育出版社

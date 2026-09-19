@@ -18,6 +18,32 @@ competency_tags:
 - 时空观念
 - 史料实证
 - 历史解释
+knowledge_items:
+- id: topic-1
+  type: concept
+  name: 中华人民共和国成立
+  content: 围绕“中华人民共和国成立”梳理其时空背景、核心内容及其在“中华人民共和国成立和社会主义革命与建设”历史进程中的作用。
+  review_status: self_checked
+- id: topic-2
+  type: process
+  name: 人民政权巩固
+  content: 围绕“人民政权巩固”梳理其时空背景、核心内容及其在“中华人民共和国成立和社会主义革命与建设”历史进程中的作用。
+  review_status: self_checked
+- id: topic-3
+  type: institution
+  name: 社会主义基本制度建立
+  content: 围绕“社会主义基本制度建立”梳理其时空背景、核心内容及其在“中华人民共和国成立和社会主义革命与建设”历史进程中的作用。
+  review_status: self_checked
+- id: topic-4
+  type: process
+  name: 全面建设社会主义探索
+  content: 围绕“全面建设社会主义探索”梳理其时空背景、核心内容及其在“中华人民共和国成立和社会主义革命与建设”历史进程中的作用。
+  review_status: self_checked
+- id: topic-5
+  type: impact
+  name: 社会主义建设成就与经验
+  content: 围绕“社会主义建设成就与经验”梳理其时空背景、核心内容及其在“中华人民共和国成立和社会主义革命与建设”历史进程中的作用。
+  review_status: self_checked
 review_status: self_checked
 reference:
   publisher: 人民教育出版社

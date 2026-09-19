@@ -18,6 +18,32 @@ competency_tags:
 - 时空观念
 - 史料实证
 - 历史解释
+knowledge_items:
+- id: topic-1
+  type: concept
+  name: 古代农业工具
+  content: 围绕“古代农业工具”梳理其时空背景、核心内容及其在“生产工具与劳作方式”历史进程中的作用。
+  review_status: self_checked
+- id: topic-2
+  type: concept
+  name: 手工业工具与分工
+  content: 围绕“手工业工具与分工”梳理其时空背景、核心内容及其在“生产工具与劳作方式”历史进程中的作用。
+  review_status: self_checked
+- id: topic-3
+  type: concept
+  name: 机器大生产
+  content: 围绕“机器大生产”梳理其时空背景、核心内容及其在“生产工具与劳作方式”历史进程中的作用。
+  review_status: self_checked
+- id: topic-4
+  type: concept
+  name: 自动化与人工智能
+  content: 围绕“自动化与人工智能”梳理其时空背景、核心内容及其在“生产工具与劳作方式”历史进程中的作用。
+  review_status: self_checked
+- id: topic-5
+  type: concept
+  name: 劳作方式和生产关系
+  content: 围绕“劳作方式和生产关系”梳理其时空背景、核心内容及其在“生产工具与劳作方式”历史进程中的作用。
+  review_status: self_checked
 review_status: self_checked
 reference:
   publisher: 人民教育出版社

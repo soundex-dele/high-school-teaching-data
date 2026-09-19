@@ -17,6 +17,50 @@ keywords:
 competency_tags:
 - 数学抽象
 - 逻辑推理
+knowledge_items:
+- id: quadratic
+  type: formula
+  name: 一元二次函数的一般式
+  content: 二次项系数不为零时，函数图象是抛物线。
+  review_status: self_checked
+  formulas:
+  - y=ax^2+bx+c\quad(a\ne0)
+- id: discriminant
+  type: theorem
+  name: 判别式与实根个数
+  content: 判别式的符号决定一元二次方程实根的个数。
+  review_status: self_checked
+  formulas:
+  - \Delta=b^2-4ac
+  conditions:
+  - a\ne0
+  conclusion: Δ>0 有两个不等实根，Δ=0 有两个相等实根，Δ<0 没有实根。
+- id: quadratic-formula
+  type: formula
+  name: 一元二次方程求根公式
+  content: 在有实根时可由系数直接计算方程的根。
+  review_status: self_checked
+  formulas:
+  - x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}
+  conditions:
+  - a\ne0
+  - \Delta\ge0
+- id: sign-chart
+  type: method
+  name: 一元二次不等式解法
+  content: 结合二次函数开口方向、零点与图象在横轴上下的位置确定解集。
+  review_status: self_checked
+- id: am-gm
+  type: theorem
+  name: 基本不等式
+  content: 两个正数的算术平均数不小于几何平均数，等号在两数相等时成立。
+  review_status: self_checked
+  formulas:
+  - \frac{a+b}{2}\ge\sqrt{ab}
+  conditions:
+  - a>0
+  - b>0
+  conclusion: 当且仅当 a=b 时等号成立。
 review_status: self_checked
 reference:
   publisher: 湖南教育出版社

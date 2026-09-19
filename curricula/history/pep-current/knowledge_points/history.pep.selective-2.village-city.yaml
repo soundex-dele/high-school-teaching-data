@@ -18,6 +18,32 @@ competency_tags:
 - 时空观念
 - 史料实证
 - 历史解释
+knowledge_items:
+- id: topic-1
+  type: process
+  name: 村落形成
+  content: 围绕“村落形成”梳理其时空背景、核心内容及其在“村落、城镇与居住环境”历史进程中的作用。
+  review_status: self_checked
+- id: topic-2
+  type: process
+  name: 古代城市发展
+  content: 围绕“古代城市发展”梳理其时空背景、核心内容及其在“村落、城镇与居住环境”历史进程中的作用。
+  review_status: self_checked
+- id: topic-3
+  type: concept
+  name: 近代城市化
+  content: 围绕“近代城市化”梳理其时空背景、核心内容及其在“村落、城镇与居住环境”历史进程中的作用。
+  review_status: self_checked
+- id: topic-4
+  type: concept
+  name: 居住条件改善
+  content: 围绕“居住条件改善”梳理其时空背景、核心内容及其在“村落、城镇与居住环境”历史进程中的作用。
+  review_status: self_checked
+- id: topic-5
+  type: impact
+  name: 城市治理与环境问题
+  content: 围绕“城市治理与环境问题”梳理其时空背景、核心内容及其在“村落、城镇与居住环境”历史进程中的作用。
+  review_status: self_checked
 review_status: self_checked
 reference:
   publisher: 人民教育出版社

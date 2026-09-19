@@ -18,6 +18,32 @@ competency_tags:
 - 时空观念
 - 史料实证
 - 历史解释
+knowledge_items:
+- id: topic-1
+  type: concept
+  name: 学校教育与文化传承
+  content: 围绕“学校教育与文化传承”梳理其时空背景、核心内容及其在“文化传承的多种载体及其发展”历史进程中的作用。
+  review_status: self_checked
+- id: topic-2
+  type: concept
+  name: 印刷书籍与图书馆
+  content: 围绕“印刷书籍与图书馆”梳理其时空背景、核心内容及其在“文化传承的多种载体及其发展”历史进程中的作用。
+  review_status: self_checked
+- id: topic-3
+  type: process
+  name: 博物馆发展
+  content: 围绕“博物馆发展”梳理其时空背景、核心内容及其在“文化传承的多种载体及其发展”历史进程中的作用。
+  review_status: self_checked
+- id: topic-4
+  type: concept
+  name: 世界文化遗产保护
+  content: 围绕“世界文化遗产保护”梳理其时空背景、核心内容及其在“文化传承的多种载体及其发展”历史进程中的作用。
+  review_status: self_checked
+- id: topic-5
+  type: concept
+  name: 非物质文化遗产传承
+  content: 围绕“非物质文化遗产传承”梳理其时空背景、核心内容及其在“文化传承的多种载体及其发展”历史进程中的作用。
+  review_status: self_checked
 review_status: self_checked
 reference:
   publisher: 人民教育出版社

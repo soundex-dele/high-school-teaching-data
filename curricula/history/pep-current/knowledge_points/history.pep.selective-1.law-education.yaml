@@ -18,6 +18,32 @@ competency_tags:
 - 时空观念
 - 史料实证
 - 历史解释
+knowledge_items:
+- id: topic-1
+  type: institution
+  name: 先秦秦汉法律与教化
+  content: 围绕“先秦秦汉法律与教化”梳理其时空背景、核心内容及其在“法律与教化”历史进程中的作用。
+  review_status: self_checked
+- id: topic-2
+  type: institution
+  name: 魏晋隋唐法律体系
+  content: 围绕“魏晋隋唐法律体系”梳理其时空背景、核心内容及其在“法律与教化”历史进程中的作用。
+  review_status: self_checked
+- id: topic-3
+  type: institution
+  name: 宋元明清法律教化
+  content: 围绕“宋元明清法律教化”梳理其时空背景、核心内容及其在“法律与教化”历史进程中的作用。
+  review_status: self_checked
+- id: topic-4
+  type: institution
+  name: 近代西方法律制度
+  content: 围绕“近代西方法律制度”梳理其时空背景、核心内容及其在“法律与教化”历史进程中的作用。
+  review_status: self_checked
+- id: topic-5
+  type: concept
+  name: 当代中国法治与精神文明
+  content: 围绕“当代中国法治与精神文明”梳理其时空背景、核心内容及其在“法律与教化”历史进程中的作用。
+  review_status: self_checked
 review_status: self_checked
 reference:
   publisher: 人民教育出版社

@@ -18,6 +18,32 @@ competency_tags:
 - 时空观念
 - 史料实证
 - 历史解释
+knowledge_items:
+- id: topic-1
+  type: concept
+  name: 冷战与两极格局
+  content: 围绕“冷战与两极格局”梳理其时空背景、核心内容及其在“20世纪下半叶世界的新变化”历史进程中的作用。
+  review_status: self_checked
+- id: topic-2
+  type: process
+  name: 社会主义国家发展与改革
+  content: 围绕“社会主义国家发展与改革”梳理其时空背景、核心内容及其在“20世纪下半叶世界的新变化”历史进程中的作用。
+  review_status: self_checked
+- id: topic-3
+  type: institution
+  name: 殖民体系瓦解
+  content: 围绕“殖民体系瓦解”梳理其时空背景、核心内容及其在“20世纪下半叶世界的新变化”历史进程中的作用。
+  review_status: self_checked
+- id: topic-4
+  type: impact
+  name: 资本主义国家新变化
+  content: 围绕“资本主义国家新变化”梳理其时空背景、核心内容及其在“20世纪下半叶世界的新变化”历史进程中的作用。
+  review_status: self_checked
+- id: topic-5
+  type: event
+  name: 社会运动与科技文化
+  content: 围绕“社会运动与科技文化”梳理其时空背景、核心内容及其在“20世纪下半叶世界的新变化”历史进程中的作用。
+  review_status: self_checked
 review_status: self_checked
 reference:
   publisher: 人民教育出版社

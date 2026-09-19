@@ -18,6 +18,32 @@ competency_tags:
 - 时空观念
 - 史料实证
 - 历史解释
+knowledge_items:
+- id: topic-1
+  type: concept
+  name: 中国古代基层组织
+  content: 围绕“中国古代基层组织”梳理其时空背景、核心内容及其在“基层治理与社会保障”历史进程中的作用。
+  review_status: self_checked
+- id: topic-2
+  type: concept
+  name: 中国古代社会救济
+  content: 围绕“中国古代社会救济”梳理其时空背景、核心内容及其在“基层治理与社会保障”历史进程中的作用。
+  review_status: self_checked
+- id: topic-3
+  type: concept
+  name: 西方基层治理
+  content: 围绕“西方基层治理”梳理其时空背景、核心内容及其在“基层治理与社会保障”历史进程中的作用。
+  review_status: self_checked
+- id: topic-4
+  type: institution
+  name: 现代社会保障制度
+  content: 围绕“现代社会保障制度”梳理其时空背景、核心内容及其在“基层治理与社会保障”历史进程中的作用。
+  review_status: self_checked
+- id: topic-5
+  type: concept
+  name: 当代中国基层治理
+  content: 围绕“当代中国基层治理”梳理其时空背景、核心内容及其在“基层治理与社会保障”历史进程中的作用。
+  review_status: self_checked
 review_status: self_checked
 reference:
   publisher: 人民教育出版社

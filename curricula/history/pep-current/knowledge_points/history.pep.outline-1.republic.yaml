@@ -18,6 +18,32 @@ competency_tags:
 - 时空观念
 - 史料实证
 - 历史解释
+knowledge_items:
+- id: topic-1
+  type: event
+  name: 清末新政与革命形势
+  content: 围绕“清末新政与革命形势”梳理其时空背景、核心内容及其在“辛亥革命与中华民国的建立”历史进程中的作用。
+  review_status: self_checked
+- id: topic-2
+  type: event
+  name: 辛亥革命进程
+  content: 围绕“辛亥革命进程”梳理其时空背景、核心内容及其在“辛亥革命与中华民国的建立”历史进程中的作用。
+  review_status: self_checked
+- id: topic-3
+  type: process
+  name: 中华民国建立
+  content: 围绕“中华民国建立”梳理其时空背景、核心内容及其在“辛亥革命与中华民国的建立”历史进程中的作用。
+  review_status: self_checked
+- id: topic-4
+  type: institution
+  name: 《中华民国临时约法》
+  content: 围绕“《中华民国临时约法》”梳理其时空背景、核心内容及其在“辛亥革命与中华民国的建立”历史进程中的作用。
+  review_status: self_checked
+- id: topic-5
+  type: event
+  name: 北洋军阀统治与护国运动
+  content: 围绕“北洋军阀统治与护国运动”梳理其时空背景、核心内容及其在“辛亥革命与中华民国的建立”历史进程中的作用。
+  review_status: self_checked
 review_status: self_checked
 reference:
   publisher: 人民教育出版社

@@ -18,6 +18,32 @@ competency_tags:
 - 时空观念
 - 史料实证
 - 历史解释
+knowledge_items:
+- id: topic-1
+  type: concept
+  name: 世界多极化趋势
+  content: 围绕“世界多极化趋势”梳理其时空背景、核心内容及其在“当代世界发展的特点与主要趋势”历史进程中的作用。
+  review_status: self_checked
+- id: topic-2
+  type: concept
+  name: 经济全球化
+  content: 围绕“经济全球化”梳理其时空背景、核心内容及其在“当代世界发展的特点与主要趋势”历史进程中的作用。
+  review_status: self_checked
+- id: topic-3
+  type: concept
+  name: 社会信息化与文化多样性
+  content: 围绕“社会信息化与文化多样性”梳理其时空背景、核心内容及其在“当代世界发展的特点与主要趋势”历史进程中的作用。
+  review_status: self_checked
+- id: topic-4
+  type: institution
+  name: 全球治理体系
+  content: 围绕“全球治理体系”梳理其时空背景、核心内容及其在“当代世界发展的特点与主要趋势”历史进程中的作用。
+  review_status: self_checked
+- id: topic-5
+  type: impact
+  name: 人类面临的共同挑战
+  content: 围绕“人类面临的共同挑战”梳理其时空背景、核心内容及其在“当代世界发展的特点与主要趋势”历史进程中的作用。
+  review_status: self_checked
 review_status: self_checked
 reference:
   publisher: 人民教育出版社

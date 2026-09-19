@@ -18,6 +18,32 @@ competency_tags:
 - 时空观念
 - 史料实证
 - 历史解释
+knowledge_items:
+- id: topic-1
+  type: process
+  name: 古代人口迁徙
+  content: 围绕“古代人口迁徙”梳理其时空背景、核心内容及其在“人口迁徙、文化交融与认同”历史进程中的作用。
+  review_status: self_checked
+- id: topic-2
+  type: process
+  name: 印欧人迁徙
+  content: 围绕“印欧人迁徙”梳理其时空背景、核心内容及其在“人口迁徙、文化交融与认同”历史进程中的作用。
+  review_status: self_checked
+- id: topic-3
+  type: process
+  name: 近代跨洲人口迁徙
+  content: 围绕“近代跨洲人口迁徙”梳理其时空背景、核心内容及其在“人口迁徙、文化交融与认同”历史进程中的作用。
+  review_status: self_checked
+- id: topic-4
+  type: concept
+  name: 华工与华人社会
+  content: 围绕“华工与华人社会”梳理其时空背景、核心内容及其在“人口迁徙、文化交融与认同”历史进程中的作用。
+  review_status: self_checked
+- id: topic-5
+  type: process
+  name: 文化交融与身份认同
+  content: 围绕“文化交融与身份认同”梳理其时空背景、核心内容及其在“人口迁徙、文化交融与认同”历史进程中的作用。
+  review_status: self_checked
 review_status: self_checked
 reference:
   publisher: 人民教育出版社

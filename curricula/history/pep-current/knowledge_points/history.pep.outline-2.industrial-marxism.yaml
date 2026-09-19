@@ -18,6 +18,32 @@ competency_tags:
 - 时空观念
 - 史料实证
 - 历史解释
+knowledge_items:
+- id: topic-1
+  type: event
+  name: 第一次工业革命
+  content: 围绕“第一次工业革命”梳理其时空背景、核心内容及其在“工业革命与马克思主义的诞生”历史进程中的作用。
+  review_status: self_checked
+- id: topic-2
+  type: event
+  name: 第二次工业革命
+  content: 围绕“第二次工业革命”梳理其时空背景、核心内容及其在“工业革命与马克思主义的诞生”历史进程中的作用。
+  review_status: self_checked
+- id: topic-3
+  type: impact
+  name: 工业社会生活变化
+  content: 围绕“工业社会生活变化”梳理其时空背景、核心内容及其在“工业革命与马克思主义的诞生”历史进程中的作用。
+  review_status: self_checked
+- id: topic-4
+  type: event
+  name: 工人运动发展
+  content: 围绕“工人运动发展”梳理其时空背景、核心内容及其在“工业革命与马克思主义的诞生”历史进程中的作用。
+  review_status: self_checked
+- id: topic-5
+  type: concept
+  name: 马克思主义诞生
+  content: 围绕“马克思主义诞生”梳理其时空背景、核心内容及其在“工业革命与马克思主义的诞生”历史进程中的作用。
+  review_status: self_checked
 review_status: self_checked
 reference:
   publisher: 人民教育出版社

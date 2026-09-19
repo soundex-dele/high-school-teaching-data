@@ -18,6 +18,32 @@ competency_tags:
 - 时空观念
 - 史料实证
 - 历史解释
+knowledge_items:
+- id: topic-1
+  type: concept
+  name: 中华文化的起源
+  content: 围绕“中华文化的起源”梳理其时空背景、核心内容及其在“源远流长的中华文化”历史进程中的作用。
+  review_status: self_checked
+- id: topic-2
+  type: process
+  name: 儒家思想发展
+  content: 围绕“儒家思想发展”梳理其时空背景、核心内容及其在“源远流长的中华文化”历史进程中的作用。
+  review_status: self_checked
+- id: topic-3
+  type: process
+  name: 中华文化的多民族交融
+  content: 围绕“中华文化的多民族交融”梳理其时空背景、核心内容及其在“源远流长的中华文化”历史进程中的作用。
+  review_status: self_checked
+- id: topic-4
+  type: concept
+  name: 中外文化交流
+  content: 围绕“中外文化交流”梳理其时空背景、核心内容及其在“源远流长的中华文化”历史进程中的作用。
+  review_status: self_checked
+- id: topic-5
+  type: concept
+  name: 中华文化的连续性与包容性
+  content: 围绕“中华文化的连续性与包容性”梳理其时空背景、核心内容及其在“源远流长的中华文化”历史进程中的作用。
+  review_status: self_checked
 review_status: self_checked
 reference:
   publisher: 人民教育出版社

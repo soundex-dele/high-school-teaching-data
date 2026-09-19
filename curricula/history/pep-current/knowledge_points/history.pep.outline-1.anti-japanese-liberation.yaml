@@ -18,6 +18,32 @@ competency_tags:
 - 时空观念
 - 史料实证
 - 历史解释
+knowledge_items:
+- id: topic-1
+  type: event
+  name: 九一八事变与局部抗战
+  content: 围绕“九一八事变与局部抗战”梳理其时空背景、核心内容及其在“中华民族的抗日战争和人民解放战争”历史进程中的作用。
+  review_status: self_checked
+- id: topic-2
+  type: process
+  name: 全民族抗战形成
+  content: 围绕“全民族抗战形成”梳理其时空背景、核心内容及其在“中华民族的抗日战争和人民解放战争”历史进程中的作用。
+  review_status: self_checked
+- id: topic-3
+  type: concept
+  name: 正面战场与敌后战场
+  content: 围绕“正面战场与敌后战场”梳理其时空背景、核心内容及其在“中华民族的抗日战争和人民解放战争”历史进程中的作用。
+  review_status: self_checked
+- id: topic-4
+  type: event
+  name: 抗日战争胜利及意义
+  content: 围绕“抗日战争胜利及意义”梳理其时空背景、核心内容及其在“中华民族的抗日战争和人民解放战争”历史进程中的作用。
+  review_status: self_checked
+- id: topic-5
+  type: event
+  name: 人民解放战争进程
+  content: 围绕“人民解放战争进程”梳理其时空背景、核心内容及其在“中华民族的抗日战争和人民解放战争”历史进程中的作用。
+  review_status: self_checked
 review_status: self_checked
 reference:
   publisher: 人民教育出版社
