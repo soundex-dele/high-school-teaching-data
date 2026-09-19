@@ -17,9 +17,7 @@ python scripts/validate.py
 
 校验会检查 JSON Schema、目录引用、稳定 ID、题量、选项、答案和难度分布，并输出覆盖率报告。
 
-`ci/github-actions-validate.yml` 是 GitHub Actions 工作流模板。仓库管理员需使用带
-`workflow` 权限的凭据将它复制到 `.github/workflows/validate.yml`，然后把该检查设为
-受保护分支的必需状态检查。
+仓库内置 `.github/workflows/validate.yml`，每次推送和拉取请求都会自动执行相同校验。
 
 ## 内容原则
 
