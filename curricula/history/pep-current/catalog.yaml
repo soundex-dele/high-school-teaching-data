@@ -1,0 +1,277 @@
+curriculum_id: pep-history-current
+subject: history
+volumes:
+- id: history.pep.outline-1
+  name: 中外历史纲要（上）
+  chapters:
+  - id: history.pep.outline-1.chapter-1
+    name: 从中华文明起源到秦汉统一多民族封建国家的建立与巩固
+    sections:
+    - id: history.pep.outline-1.chapter-1.section-1
+      name: 从中华文明起源到秦汉统一多民族封建国家的建立与巩固核心知识
+      knowledge_points:
+      - history.pep.outline-1.origins-qin-han
+  - id: history.pep.outline-1.chapter-2
+    name: 三国两晋南北朝的民族交融与隋唐统一多民族封建国家的发展
+    sections:
+    - id: history.pep.outline-1.chapter-2.section-1
+      name: 三国两晋南北朝的民族交融与隋唐统一多民族封建国家的发展核心知识
+      knowledge_points:
+      - history.pep.outline-1.three-kingdoms-sui-tang
+  - id: history.pep.outline-1.chapter-3
+    name: 辽宋夏金多民族政权的并立与元朝的统一
+    sections:
+    - id: history.pep.outline-1.chapter-3.section-1
+      name: 辽宋夏金多民族政权的并立与元朝的统一核心知识
+      knowledge_points:
+      - history.pep.outline-1.song-yuan
+  - id: history.pep.outline-1.chapter-4
+    name: 明清中国版图的奠定与面临的挑战
+    sections:
+    - id: history.pep.outline-1.chapter-4.section-1
+      name: 明清中国版图的奠定与面临的挑战核心知识
+      knowledge_points:
+      - history.pep.outline-1.ming-qing
+  - id: history.pep.outline-1.chapter-5
+    name: 晚清时期的内忧外患与救亡图存
+    sections:
+    - id: history.pep.outline-1.chapter-5.section-1
+      name: 晚清时期的内忧外患与救亡图存核心知识
+      knowledge_points:
+      - history.pep.outline-1.late-qing
+  - id: history.pep.outline-1.chapter-6
+    name: 辛亥革命与中华民国的建立
+    sections:
+    - id: history.pep.outline-1.chapter-6.section-1
+      name: 辛亥革命与中华民国的建立核心知识
+      knowledge_points:
+      - history.pep.outline-1.republic
+  - id: history.pep.outline-1.chapter-7
+    name: 中国共产党成立与新民主主义革命兴起
+    sections:
+    - id: history.pep.outline-1.chapter-7.section-1
+      name: 中国共产党成立与新民主主义革命兴起核心知识
+      knowledge_points:
+      - history.pep.outline-1.cpc-revolution
+  - id: history.pep.outline-1.chapter-8
+    name: 中华民族的抗日战争和人民解放战争
+    sections:
+    - id: history.pep.outline-1.chapter-8.section-1
+      name: 中华民族的抗日战争和人民解放战争核心知识
+      knowledge_points:
+      - history.pep.outline-1.anti-japanese-liberation
+  - id: history.pep.outline-1.chapter-9
+    name: 中华人民共和国成立和社会主义革命与建设
+    sections:
+    - id: history.pep.outline-1.chapter-9.section-1
+      name: 中华人民共和国成立和社会主义革命与建设核心知识
+      knowledge_points:
+      - history.pep.outline-1.prc-socialism
+  - id: history.pep.outline-1.chapter-10
+    name: 改革开放与社会主义现代化建设新时期
+    sections:
+    - id: history.pep.outline-1.chapter-10.section-1
+      name: 改革开放与社会主义现代化建设新时期核心知识
+      knowledge_points:
+      - history.pep.outline-1.reform-opening
+- id: history.pep.outline-2
+  name: 中外历史纲要（下）
+  chapters:
+  - id: history.pep.outline-2.chapter-1
+    name: 古代文明的产生与发展
+    sections:
+    - id: history.pep.outline-2.chapter-1.section-1
+      name: 古代文明的产生与发展核心知识
+      knowledge_points:
+      - history.pep.outline-2.ancient-civilizations
+  - id: history.pep.outline-2.chapter-2
+    name: 中古时期的世界
+    sections:
+    - id: history.pep.outline-2.chapter-2.section-1
+      name: 中古时期的世界核心知识
+      knowledge_points:
+      - history.pep.outline-2.medieval-world
+  - id: history.pep.outline-2.chapter-3
+    name: 走向整体的世界
+    sections:
+    - id: history.pep.outline-2.chapter-3.section-1
+      name: 走向整体的世界核心知识
+      knowledge_points:
+      - history.pep.outline-2.global-world
+  - id: history.pep.outline-2.chapter-4
+    name: 资本主义制度的确立
+    sections:
+    - id: history.pep.outline-2.chapter-4.section-1
+      name: 资本主义制度的确立核心知识
+      knowledge_points:
+      - history.pep.outline-2.capitalist-system
+  - id: history.pep.outline-2.chapter-5
+    name: 工业革命与马克思主义的诞生
+    sections:
+    - id: history.pep.outline-2.chapter-5.section-1
+      name: 工业革命与马克思主义的诞生核心知识
+      knowledge_points:
+      - history.pep.outline-2.industrial-marxism
+  - id: history.pep.outline-2.chapter-6
+    name: 世界殖民体系与亚非拉民族独立运动
+    sections:
+    - id: history.pep.outline-2.chapter-6.section-1
+      name: 世界殖民体系与亚非拉民族独立运动核心知识
+      knowledge_points:
+      - history.pep.outline-2.colonial-resistance
+  - id: history.pep.outline-2.chapter-7
+    name: 两次世界大战与国际秩序的演变
+    sections:
+    - id: history.pep.outline-2.chapter-7.section-1
+      name: 两次世界大战与国际秩序的演变核心知识
+      knowledge_points:
+      - history.pep.outline-2.world-wars
+  - id: history.pep.outline-2.chapter-8
+    name: 20世纪下半叶世界的新变化
+    sections:
+    - id: history.pep.outline-2.chapter-8.section-1
+      name: 20世纪下半叶世界的新变化核心知识
+      knowledge_points:
+      - history.pep.outline-2.twentieth-century
+  - id: history.pep.outline-2.chapter-9
+    name: 当代世界发展的特点与主要趋势
+    sections:
+    - id: history.pep.outline-2.chapter-9.section-1
+      name: 当代世界发展的特点与主要趋势核心知识
+      knowledge_points:
+      - history.pep.outline-2.contemporary-world
+- id: history.pep.selective-1
+  name: 选择性必修1 国家制度与社会治理
+  chapters:
+  - id: history.pep.selective-1.chapter-1
+    name: 政治制度
+    sections:
+    - id: history.pep.selective-1.chapter-1.section-1
+      name: 政治制度核心知识
+      knowledge_points:
+      - history.pep.selective-1.political-systems
+  - id: history.pep.selective-1.chapter-2
+    name: 官员的选拔与管理
+    sections:
+    - id: history.pep.selective-1.chapter-2.section-1
+      name: 官员的选拔与管理核心知识
+      knowledge_points:
+      - history.pep.selective-1.official-selection
+  - id: history.pep.selective-1.chapter-3
+    name: 法律与教化
+    sections:
+    - id: history.pep.selective-1.chapter-3.section-1
+      name: 法律与教化核心知识
+      knowledge_points:
+      - history.pep.selective-1.law-education
+  - id: history.pep.selective-1.chapter-4
+    name: 民族关系与国家关系
+    sections:
+    - id: history.pep.selective-1.chapter-4.section-1
+      name: 民族关系与国家关系核心知识
+      knowledge_points:
+      - history.pep.selective-1.ethnic-diplomacy
+  - id: history.pep.selective-1.chapter-5
+    name: 货币与赋税制度
+    sections:
+    - id: history.pep.selective-1.chapter-5.section-1
+      name: 货币与赋税制度核心知识
+      knowledge_points:
+      - history.pep.selective-1.currency-tax
+  - id: history.pep.selective-1.chapter-6
+    name: 基层治理与社会保障
+    sections:
+    - id: history.pep.selective-1.chapter-6.section-1
+      name: 基层治理与社会保障核心知识
+      knowledge_points:
+      - history.pep.selective-1.grassroots-social
+- id: history.pep.selective-2
+  name: 选择性必修2 经济与社会生活
+  chapters:
+  - id: history.pep.selective-2.chapter-1
+    name: 食物生产与社会生活
+    sections:
+    - id: history.pep.selective-2.chapter-1.section-1
+      name: 食物生产与社会生活核心知识
+      knowledge_points:
+      - history.pep.selective-2.food-production
+  - id: history.pep.selective-2.chapter-2
+    name: 生产工具与劳作方式
+    sections:
+    - id: history.pep.selective-2.chapter-2.section-1
+      name: 生产工具与劳作方式核心知识
+      knowledge_points:
+      - history.pep.selective-2.production-tools
+  - id: history.pep.selective-2.chapter-3
+    name: 商业贸易与日常生活
+    sections:
+    - id: history.pep.selective-2.chapter-3.section-1
+      name: 商业贸易与日常生活核心知识
+      knowledge_points:
+      - history.pep.selective-2.commerce-trade
+  - id: history.pep.selective-2.chapter-4
+    name: 村落、城镇与居住环境
+    sections:
+    - id: history.pep.selective-2.chapter-4.section-1
+      name: 村落、城镇与居住环境核心知识
+      knowledge_points:
+      - history.pep.selective-2.village-city
+  - id: history.pep.selective-2.chapter-5
+    name: 交通与社会变迁
+    sections:
+    - id: history.pep.selective-2.chapter-5.section-1
+      name: 交通与社会变迁核心知识
+      knowledge_points:
+      - history.pep.selective-2.transport
+  - id: history.pep.selective-2.chapter-6
+    name: 医疗与公共卫生
+    sections:
+    - id: history.pep.selective-2.chapter-6.section-1
+      name: 医疗与公共卫生核心知识
+      knowledge_points:
+      - history.pep.selective-2.medicine-health
+- id: history.pep.selective-3
+  name: 选择性必修3 文化交流与传播
+  chapters:
+  - id: history.pep.selective-3.chapter-1
+    name: 源远流长的中华文化
+    sections:
+    - id: history.pep.selective-3.chapter-1.section-1
+      name: 源远流长的中华文化核心知识
+      knowledge_points:
+      - history.pep.selective-3.civilization-origins
+  - id: history.pep.selective-3.chapter-2
+    name: 丰富多样的世界文化
+    sections:
+    - id: history.pep.selective-3.chapter-2.section-1
+      name: 丰富多样的世界文化核心知识
+      knowledge_points:
+      - history.pep.selective-3.culture-world
+  - id: history.pep.selective-3.chapter-3
+    name: 人口迁徙、文化交融与认同
+    sections:
+    - id: history.pep.selective-3.chapter-3.section-1
+      name: 人口迁徙、文化交融与认同核心知识
+      knowledge_points:
+      - history.pep.selective-3.population-culture
+  - id: history.pep.selective-3.chapter-4
+    name: 商路、贸易与文化交流
+    sections:
+    - id: history.pep.selective-3.chapter-4.section-1
+      name: 商路、贸易与文化交流核心知识
+      knowledge_points:
+      - history.pep.selective-3.commerce-culture
+  - id: history.pep.selective-3.chapter-5
+    name: 战争与文化交锋
+    sections:
+    - id: history.pep.selective-3.chapter-5.section-1
+      name: 战争与文化交锋核心知识
+      knowledge_points:
+      - history.pep.selective-3.war-culture
+  - id: history.pep.selective-3.chapter-6
+    name: 文化传承的多种载体及其发展
+    sections:
+    - id: history.pep.selective-3.chapter-6.section-1
+      name: 文化传承的多种载体及其发展核心知识
+      knowledge_points:
+      - history.pep.selective-3.heritage

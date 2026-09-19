@@ -1,0 +1,134 @@
+curriculum_id: xj-math-current
+subject: math
+volumes:
+- id: math.xj.required-1
+  name: 必修第一册
+  chapters:
+  - id: math.xj.required-1.chapter-1
+    name: 集合与常用逻辑用语
+    sections:
+    - id: math.xj.required-1.chapter-1.section-1
+      name: 集合与常用逻辑用语核心知识
+      knowledge_points:
+      - math.xj.required-1.sets-logic
+  - id: math.xj.required-1.chapter-2
+    name: 一元二次函数、方程和不等式
+    sections:
+    - id: math.xj.required-1.chapter-2.section-1
+      name: 一元二次函数、方程和不等式核心知识
+      knowledge_points:
+      - math.xj.required-1.inequality
+  - id: math.xj.required-1.chapter-3
+    name: 函数的概念与性质
+    sections:
+    - id: math.xj.required-1.chapter-3.section-1
+      name: 函数的概念与性质核心知识
+      knowledge_points:
+      - math.xj.required-1.function
+  - id: math.xj.required-1.chapter-4
+    name: 幂函数、指数函数和对数函数
+    sections:
+    - id: math.xj.required-1.chapter-4.section-1
+      name: 幂函数、指数函数和对数函数核心知识
+      knowledge_points:
+      - math.xj.required-1.exp-log
+  - id: math.xj.required-1.chapter-5
+    name: 三角函数
+    sections:
+    - id: math.xj.required-1.chapter-5.section-1
+      name: 三角函数核心知识
+      knowledge_points:
+      - math.xj.required-1.trigonometry
+- id: math.xj.required-2
+  name: 必修第二册
+  chapters:
+  - id: math.xj.required-2.chapter-1
+    name: 平面向量及其应用
+    sections:
+    - id: math.xj.required-2.chapter-1.section-1
+      name: 平面向量及其应用核心知识
+      knowledge_points:
+      - math.xj.required-2.vector
+  - id: math.xj.required-2.chapter-2
+    name: 复数
+    sections:
+    - id: math.xj.required-2.chapter-2.section-1
+      name: 复数核心知识
+      knowledge_points:
+      - math.xj.required-2.complex
+  - id: math.xj.required-2.chapter-3
+    name: 立体几何初步
+    sections:
+    - id: math.xj.required-2.chapter-3.section-1
+      name: 立体几何初步核心知识
+      knowledge_points:
+      - math.xj.required-2.solid-geometry
+  - id: math.xj.required-2.chapter-4
+    name: 统计
+    sections:
+    - id: math.xj.required-2.chapter-4.section-1
+      name: 统计核心知识
+      knowledge_points:
+      - math.xj.required-2.statistics
+  - id: math.xj.required-2.chapter-5
+    name: 概率
+    sections:
+    - id: math.xj.required-2.chapter-5.section-1
+      name: 概率核心知识
+      knowledge_points:
+      - math.xj.required-2.probability
+- id: math.xj.selective-1
+  name: 选择性必修第一册
+  chapters:
+  - id: math.xj.selective-1.chapter-1
+    name: 空间向量与立体几何
+    sections:
+    - id: math.xj.selective-1.chapter-1.section-1
+      name: 空间向量与立体几何核心知识
+      knowledge_points:
+      - math.xj.selective-1.space-vector
+  - id: math.xj.selective-1.chapter-2
+    name: 直线和圆的方程
+    sections:
+    - id: math.xj.selective-1.chapter-2.section-1
+      name: 直线和圆的方程核心知识
+      knowledge_points:
+      - math.xj.selective-1.line-circle
+  - id: math.xj.selective-1.chapter-3
+    name: 圆锥曲线与方程
+    sections:
+    - id: math.xj.selective-1.chapter-3.section-1
+      name: 圆锥曲线与方程核心知识
+      knowledge_points:
+      - math.xj.selective-1.conic
+- id: math.xj.selective-2
+  name: 选择性必修第二册
+  chapters:
+  - id: math.xj.selective-2.chapter-1
+    name: 数列
+    sections:
+    - id: math.xj.selective-2.chapter-1.section-1
+      name: 数列核心知识
+      knowledge_points:
+      - math.xj.selective-2.sequence
+  - id: math.xj.selective-2.chapter-2
+    name: 一元函数的导数及其应用
+    sections:
+    - id: math.xj.selective-2.chapter-2.section-1
+      name: 一元函数的导数及其应用核心知识
+      knowledge_points:
+      - math.xj.selective-2.derivative
+  - id: math.xj.selective-2.chapter-3
+    name: 计数原理
+    sections:
+    - id: math.xj.selective-2.chapter-3.section-1
+      name: 计数原理核心知识
+      knowledge_points:
+      - math.xj.selective-2.counting
+  - id: math.xj.selective-2.chapter-4
+    name: 随机变量及其分布
+    sections:
+    - id: math.xj.selective-2.chapter-4.section-1
+      name: 随机变量及其分布核心知识
+      knowledge_points:
+      - math.xj.selective-2.random-variable

@@ -1,0 +1,116 @@
+id: history.pep.selective-3.culture-world
+subject: history
+curriculum_id: pep-history-current
+name: 丰富多样的世界文化
+summary: 本知识点围绕世界文化的多样性展开，重点是比较不同区域文化形成条件、主要成就和历史影响，并能在新的问题情境中说明条件、过程与结论之间的联系。
+objectives:
+- 比较不同区域文化形成条件、主要成就和历史影响
+- 能够识别典型条件并用规范语言说明判断依据
+prerequisites:
+- 初中阶段相关基础知识
+- 基本阅读、表达与推理能力
+common_mistakes:
+- 用单一文化尺度评价所有文明
+keywords:
+- 世界文化的多样性
+- 丰富多样的世界文化
+competency_tags:
+- 时空观念
+- 史料实证
+- 历史解释
+review_status: self_checked
+reference:
+  publisher: 人民教育出版社
+  edition_scope: 现行普通高中教科书
+  chapter: 选择性必修3 文化交流与传播·丰富多样的世界文化
+questions:
+- id: history.pep.selective-3.culture-world.q1
+  stem: 学习“丰富多样的世界文化”时，最需要把握的核心内容是（ ）。
+  options:
+  - id: A
+    text: 世界文化的多样性
+  - id: B
+    text: 孤立记忆章节标题
+  - id: C
+    text: 只关注书写格式
+  - id: D
+    text: 回避概念之间的联系
+  correct_option_id: A
+  explanation: 该知识点的核心是“世界文化的多样性”，其余选项都没有触及主要学习对象。
+  difficulty: basic
+  tags:
+  - 丰富多样的世界文化
+  - 世界文化的多样性
+  source_type: original
+- id: history.pep.selective-3.culture-world.q2
+  stem: 研究“丰富多样的世界文化”时，下列学习方法最恰当的是（ ）。
+  options:
+  - id: A
+    text: 只背结论，不检查适用条件
+  - id: B
+    text: 只凭直觉，不使用证据
+  - id: C
+    text: 把局部现象直接推广为普遍规律
+  - id: D
+    text: 结合时空背景、史料和因果关系综合分析
+  correct_option_id: D
+  explanation: 结合时空背景、史料和因果关系综合分析能够同时关注概念、条件与论证，是本知识点的有效学习方法。
+  difficulty: basic
+  tags:
+  - 丰富多样的世界文化
+  - 世界文化的多样性
+  source_type: original
+- id: history.pep.selective-3.culture-world.q3
+  stem: 关于“丰富多样的世界文化”的学习，下列做法最需要避免的是（ ）。
+  options:
+  - id: A
+    text: 用证据检验初步判断
+  - id: B
+    text: 完成后复核结论与条件
+  - id: C
+    text: 用单一文化尺度评价所有文明
+  - id: D
+    text: 先明确问题所处情境
+  correct_option_id: C
+  explanation: “用单一文化尺度评价所有文明”会造成典型理解偏差，其他做法都有助于形成可靠结论。
+  difficulty: medium
+  tags:
+  - 丰富多样的世界文化
+  - 世界文化的多样性
+  source_type: original
+- id: history.pep.selective-3.culture-world.q4
+  stem: 要达成“丰富多样的世界文化”的学习目标，较合理的步骤是（ ）。
+  options:
+  - id: A
+    text: 只完成一道例题，不总结方法
+  - id: B
+    text: 先明确关键概念，再分析关系，最后用新情境检验结论
+  - id: C
+    text: 先猜答案，再寻找支持猜测的片段
+  - id: D
+    text: 跳过条件，直接套用记忆中的结论
+  correct_option_id: B
+  explanation: 由概念到关系再到迁移检验，符合“比较不同区域文化形成条件、主要成就和历史影响”所要求的认知过程。
+  difficulty: medium
+  tags:
+  - 丰富多样的世界文化
+  - 世界文化的多样性
+  source_type: original
+- id: history.pep.selective-3.culture-world.q5
+  stem: 把“丰富多样的世界文化”迁移到新问题时，最可靠的判断依据是（ ）。
+  options:
+  - id: A
+    text: 结论能够由明确条件和完整证据链支持
+  - id: B
+    text: 结论与熟悉题目的答案相同
+  - id: C
+    text: 表述中出现了本章关键词
+  - id: D
+    text: 多数同学选择了同一选项
+  correct_option_id: A
+  explanation: 迁移不是套用表面特征；只有条件明确、证据链完整，结论才具有可靠性。
+  difficulty: advanced
+  tags:
+  - 丰富多样的世界文化
+  - 世界文化的多样性
+  source_type: original
