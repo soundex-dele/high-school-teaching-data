@@ -1,0 +1,175 @@
+id: bank.history.pep.outline-2.twentieth-century
+subject: history
+education_stage: senior_high
+grade_scope:
+- 10
+curriculum_scopes:
+- pep-history-current
+canonical_knowledge_ids:
+- history.senior-high.twentieth-century
+questions:
+- id: history.pep.outline-2.twentieth-century.q1
+  stem: 下列哪一历史主题与材料描述最吻合：“从盟友转为对手的两个超级大国通过军事集团、军备和代理人战争竞争”（ ）。
+  options:
+  - id: A
+    text: 资本主义国家新变化
+  - id: B
+    text: 冷战与两极格局
+  - id: C
+    text: 社会主义国家发展与改革
+  - id: D
+    text: 殖民体系瓦解
+  correct_option_id: B
+  explanation: 材料以“从盟友转为对手的两个超级大国通过军事集团、军备和代理人战争竞争”为关键线索，指向“冷战与两极格局”。其余选项虽属同一章，但在时段、对象或核心机制上与材料不符。
+  difficulty: basic
+  tags:
+  - 20世纪下半叶世界的新变化
+  - 冷战与两极格局
+  - 时空观念
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.twentieth-century
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: understand
+  reasoning_steps: 1
+  estimated_time_seconds: 75
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.outline-2.twentieth-century.q2
+  stem: 下列哪一历史主题与材料描述最吻合：“不同国家在建设中取得工业化成就，也因体制僵化推进改革甚至发生剧变”（ ）。
+  options:
+  - id: A
+    text: 社会主义国家发展与改革
+  - id: B
+    text: 殖民体系瓦解
+  - id: C
+    text: 资本主义国家新变化
+  - id: D
+    text: 社会运动与科技文化
+  correct_option_id: A
+  explanation: 材料以“不同国家在建设中取得工业化成就，也因体制僵化推进改革甚至发生剧变”为关键线索，指向“社会主义国家发展与改革”。其余选项虽属同一章，但在时段、对象或核心机制上与材料不符。
+  difficulty: basic
+  tags:
+  - 20世纪下半叶世界的新变化
+  - 社会主义国家发展与改革
+  - 时空观念
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.twentieth-century
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: apply
+  reasoning_steps: 1
+  estimated_time_seconds: 90
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.outline-2.twentieth-century.q3
+  stem: 围绕“殖民体系瓦解”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 国家加强宏观调控并建立福利制度，20世纪70年代后又作政策调整
+  - id: B
+    text: 妇女、学生等社会运动与航天、计算机技术共同改变战后社会文化
+  - id: C
+    text: 从盟友转为对手的两个超级大国通过军事集团、军备和代理人战争竞争
+  - id: D
+    text: 亚非拉国家相继独立，旧殖民体系瓦解但发展问题仍然突出
+  correct_option_id: D
+  explanation: “亚非拉国家相继独立，旧殖民体系瓦解但发展问题仍然突出”准确概括了“殖民体系瓦解”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: medium
+  tags:
+  - 20世纪下半叶世界的新变化
+  - 殖民体系瓦解
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.twentieth-century
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 120
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.outline-2.twentieth-century.q4
+  stem: 围绕“资本主义国家新变化”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 从盟友转为对手的两个超级大国通过军事集团、军备和代理人战争竞争
+  - id: B
+    text: 不同国家在建设中取得工业化成就，也因体制僵化推进改革甚至发生剧变
+  - id: C
+    text: 国家加强宏观调控并建立福利制度，20世纪70年代后又作政策调整
+  - id: D
+    text: 妇女、学生等社会运动与航天、计算机技术共同改变战后社会文化
+  correct_option_id: C
+  explanation: “国家加强宏观调控并建立福利制度，20世纪70年代后又作政策调整”准确概括了“资本主义国家新变化”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: medium
+  tags:
+  - 20世纪下半叶世界的新变化
+  - 资本主义国家新变化
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.twentieth-century
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 150
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.outline-2.twentieth-century.q5
+  stem: 围绕“社会运动与科技文化”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 亚非拉国家相继独立，旧殖民体系瓦解但发展问题仍然突出
+  - id: B
+    text: 妇女、学生等社会运动与航天、计算机技术共同改变战后社会文化
+  - id: C
+    text: 从盟友转为对手的两个超级大国通过军事集团、军备和代理人战争竞争
+  - id: D
+    text: 不同国家在建设中取得工业化成就，也因体制僵化推进改革甚至发生剧变
+  correct_option_id: B
+  explanation: “妇女、学生等社会运动与航天、计算机技术共同改变战后社会文化”准确概括了“社会运动与科技文化”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: advanced
+  tags:
+  - 20世纪下半叶世界的新变化
+  - 社会运动与科技文化
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.twentieth-century
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: evaluate
+  reasoning_steps: 3
+  estimated_time_seconds: 210
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1

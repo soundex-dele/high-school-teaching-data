@@ -1,0 +1,60 @@
+id: math.senior-high.line-circle
+subject: math
+education_stage: senior_high
+name: 直线和圆的方程
+summary: 本知识点围绕直线与圆的解析表示展开，重点是在平面直角坐标系中用方程研究直线、圆及其位置关系，并能在新的问题情境中说明条件、过程与结论之间的联系。
+objectives:
+- 在平面直角坐标系中用方程研究直线、圆及其位置关系
+- 能够识别典型条件并用规范语言说明判断依据
+prerequisites:
+- 初中阶段相关基础知识
+- 基本阅读、表达与推理能力
+common_mistakes:
+- 斜率不存在时仍套用斜截式
+keywords:
+- 直线与圆的解析表示
+- 直线和圆的方程
+competency_tags:
+- 数学抽象
+- 逻辑推理
+knowledge_items:
+- id: line-equations
+  type: formula
+  name: 直线方程
+  content: 根据已知条件选择点斜式、斜截式或一般式。
+  review_status: self_checked
+  formulas:
+  - y-y_0=k(x-x_0)
+  - Ax+By+C=0
+- id: distance
+  type: formula
+  name: 点到直线的距离
+  content: 代入点坐标并除以法向量长度。
+  review_status: self_checked
+  formulas:
+  - d=\frac{|Ax_0+By_0+C|}{\sqrt{A^2+B^2}}
+- id: circle-equation
+  type: formula
+  name: 圆的标准方程
+  content: 圆心和半径唯一确定一个圆。
+  review_status: self_checked
+  formulas:
+  - (x-a)^2+(y-b)^2=r^2
+- id: position
+  type: method
+  name: 直线与圆的位置关系
+  content: 比较圆心到直线的距离 d 与半径 r，判断相交、相切或相离。
+  review_status: self_checked
+  formulas:
+  - d<r
+  - d=r
+  - d>r
+- id: tangent
+  type: theorem
+  name: 圆的切线性质
+  content: 圆的切线垂直于经过切点的半径。
+  review_status: self_checked
+  conditions:
+  - 直线与圆相切
+  conclusion: 切线与切点半径垂直。
+review_status: self_checked

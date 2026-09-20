@@ -1,0 +1,16 @@
+id: history.pep.selective-3.culture-world
+canonical_id: history.senior-high.culture-world
+curriculum_id: pep-history-current
+subject: history
+education_stage: senior_high
+grade_scope:
+- 12
+semester_scope: first
+display_name: 丰富多样的世界文化
+reference:
+  publisher: 人民教育出版社
+  edition_scope: 现行普通高中教科书
+  chapter: 选择性必修3 文化交流与传播·丰富多样的世界文化
+question_bank_ids:
+- bank.history.pep.selective-3.culture-world
+review_status: self_checked

@@ -1,0 +1,16 @@
+id: history.pep.selective-1.law-education
+canonical_id: history.senior-high.law-education
+curriculum_id: pep-history-current
+subject: history
+education_stage: senior_high
+grade_scope:
+- 11
+semester_scope: first
+display_name: 法律与教化
+reference:
+  publisher: 人民教育出版社
+  edition_scope: 现行普通高中教科书
+  chapter: 选择性必修1 国家制度与社会治理·法律与教化
+question_bank_ids:
+- bank.history.pep.selective-1.law-education
+review_status: self_checked

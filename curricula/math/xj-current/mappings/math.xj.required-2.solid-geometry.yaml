@@ -1,0 +1,16 @@
+id: math.xj.required-2.solid-geometry
+canonical_id: math.senior-high.solid-geometry
+curriculum_id: xj-math-current
+subject: math
+education_stage: senior_high
+grade_scope:
+- 10
+semester_scope: second
+display_name: 立体几何初步
+reference:
+  publisher: 湖南教育出版社
+  edition_scope: 现行普通高中教科书
+  chapter: 必修第二册·立体几何初步
+question_bank_ids:
+- bank.math.xj.required-2.solid-geometry
+review_status: self_checked

@@ -1,16 +1,32 @@
-schema_version: 1
-data_version: "2026.2"
+schema_version: 2
+data_version: "2026.4"
 generated_at: "2026-09-20"
+knowledge_domains:
+  - subject: math
+    education_stage: senior_high
+    knowledge_glob: knowledge/math/**/*.yaml
+  - subject: history
+    education_stage: senior_high
+    knowledge_glob: knowledge/history/**/*.yaml
+question_banks:
+  - id: senior-high-math
+    subject: math
+    education_stage: senior_high
+    question_glob: question_banks/senior-high/math/**/*.yaml
+  - id: senior-high-history
+    subject: history
+    education_stage: senior_high
+    question_glob: question_banks/senior-high/history/**/*.yaml
 curricula:
   - id: xj-math-current
     subject: math
     label: 湘教版（现行）
     publisher: 湖南教育出版社
     catalog: curricula/math/xj-current/catalog.yaml
-    knowledge_glob: curricula/math/xj-current/knowledge_points/*.yaml
+    knowledge_mapping_glob: curricula/math/xj-current/mappings/**/*.yaml
   - id: pep-history-current
     subject: history
     label: 统编人教版（现行）
     publisher: 人民教育出版社
     catalog: curricula/history/pep-current/catalog.yaml
-    knowledge_glob: curricula/history/pep-current/knowledge_points/*.yaml
+    knowledge_mapping_glob: curricula/history/pep-current/mappings/**/*.yaml

@@ -1,0 +1,175 @@
+id: bank.history.pep.outline-2.medieval-world
+subject: history
+education_stage: senior_high
+grade_scope:
+- 10
+curriculum_scopes:
+- pep-history-current
+canonical_knowledge_ids:
+- history.senior-high.medieval-world
+questions:
+- id: history.pep.outline-2.medieval-world.q1
+  stem: 下列哪一历史主题与材料描述最吻合：“封君封臣与庄园经济构成基本秩序，后期城市和王权逐步发展”（ ）。
+  options:
+  - id: A
+    text: 西欧封建社会
+  - id: B
+    text: 拜占庭与俄罗斯
+  - id: C
+    text: 阿拉伯帝国与伊斯兰文化
+  - id: D
+    text: 中古时期的亚洲国家
+  correct_option_id: A
+  explanation: 材料以“封君封臣与庄园经济构成基本秩序，后期城市和王权逐步发展”为关键线索，指向“西欧封建社会”。其余选项虽属同一章，但在时段、对象或核心机制上与材料不符。
+  difficulty: basic
+  tags:
+  - 中古时期的世界
+  - 西欧封建社会
+  - 时空观念
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.medieval-world
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: understand
+  reasoning_steps: 1
+  estimated_time_seconds: 75
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.outline-2.medieval-world.q2
+  stem: 下列哪一历史主题与材料描述最吻合：“保存希腊罗马文化并形成东正教传统，帝国延续千年后灭亡”（ ）。
+  options:
+  - id: A
+    text: 阿拉伯帝国与伊斯兰文化
+  - id: B
+    text: 中古时期的亚洲国家
+  - id: C
+    text: 古代非洲与美洲文明
+  - id: D
+    text: 拜占庭与俄罗斯
+  correct_option_id: D
+  explanation: 材料以“保存希腊罗马文化并形成东正教传统，帝国延续千年后灭亡”为关键线索，指向“拜占庭与俄罗斯”。其余选项虽属同一章，但在时段、对象或核心机制上与材料不符。
+  difficulty: basic
+  tags:
+  - 中古时期的世界
+  - 拜占庭与俄罗斯
+  - 时空观念
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.medieval-world
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: apply
+  reasoning_steps: 1
+  estimated_time_seconds: 90
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.outline-2.medieval-world.q3
+  stem: 围绕“阿拉伯帝国与伊斯兰文化”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 西非帝国控制商路，玛雅、阿兹特克和印加发展出独特文明
+  - id: B
+    text: 封君封臣与庄园经济构成基本秩序，后期城市和王权逐步发展
+  - id: C
+    text: 政教合一帝国扩张，阿拉伯商人和学者促进欧亚知识交流
+  - id: D
+    text: 日本形成幕府统治，朝鲜和越南深受中华制度文化影响又各具特色
+  correct_option_id: C
+  explanation: “政教合一帝国扩张，阿拉伯商人和学者促进欧亚知识交流”准确概括了“阿拉伯帝国与伊斯兰文化”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: medium
+  tags:
+  - 中古时期的世界
+  - 阿拉伯帝国与伊斯兰文化
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.medieval-world
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 120
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.outline-2.medieval-world.q4
+  stem: 围绕“中古时期的亚洲国家”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 保存希腊罗马文化并形成东正教传统，帝国延续千年后灭亡
+  - id: B
+    text: 日本形成幕府统治，朝鲜和越南深受中华制度文化影响又各具特色
+  - id: C
+    text: 西非帝国控制商路，玛雅、阿兹特克和印加发展出独特文明
+  - id: D
+    text: 封君封臣与庄园经济构成基本秩序，后期城市和王权逐步发展
+  correct_option_id: B
+  explanation: “日本形成幕府统治，朝鲜和越南深受中华制度文化影响又各具特色”准确概括了“中古时期的亚洲国家”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: medium
+  tags:
+  - 中古时期的世界
+  - 中古时期的亚洲国家
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.medieval-world
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 150
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.outline-2.medieval-world.q5
+  stem: 围绕“古代非洲与美洲文明”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 西非帝国控制商路，玛雅、阿兹特克和印加发展出独特文明
+  - id: B
+    text: 封君封臣与庄园经济构成基本秩序，后期城市和王权逐步发展
+  - id: C
+    text: 保存希腊罗马文化并形成东正教传统，帝国延续千年后灭亡
+  - id: D
+    text: 政教合一帝国扩张，阿拉伯商人和学者促进欧亚知识交流
+  correct_option_id: A
+  explanation: “西非帝国控制商路，玛雅、阿兹特克和印加发展出独特文明”准确概括了“古代非洲与美洲文明”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: advanced
+  tags:
+  - 中古时期的世界
+  - 古代非洲与美洲文明
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.medieval-world
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: evaluate
+  reasoning_steps: 3
+  estimated_time_seconds: 210
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1

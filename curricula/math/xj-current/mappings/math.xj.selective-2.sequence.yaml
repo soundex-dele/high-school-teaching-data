@@ -1,0 +1,16 @@
+id: math.xj.selective-2.sequence
+canonical_id: math.senior-high.sequence
+curriculum_id: xj-math-current
+subject: math
+education_stage: senior_high
+grade_scope:
+- 11
+semester_scope: second
+display_name: 数列
+reference:
+  publisher: 湖南教育出版社
+  edition_scope: 现行普通高中教科书
+  chapter: 选择性必修第二册·数列
+question_bank_ids:
+- bank.math.xj.selective-2.sequence
+review_status: self_checked

@@ -1,0 +1,175 @@
+id: bank.history.pep.outline-2.colonial-resistance
+subject: history
+education_stage: senior_high
+grade_scope:
+- 10
+curriculum_scopes:
+- pep-history-current
+canonical_knowledge_ids:
+- history.senior-high.colonial-resistance
+questions:
+- id: history.pep.outline-2.colonial-resistance.q1
+  stem: 下列哪一历史主题与材料描述最吻合：“拉丁美洲在启蒙思想和殖民矛盾推动下独立，但政治经济依赖仍存”（ ）。
+  options:
+  - id: A
+    text: 亚洲觉醒
+  - id: B
+    text: 拉丁美洲独立运动
+  - id: C
+    text: 亚洲殖民体系形成
+  - id: D
+    text: 非洲被瓜分
+  correct_option_id: B
+  explanation: 材料以“拉丁美洲在启蒙思想和殖民矛盾推动下独立，但政治经济依赖仍存”为关键线索，指向“拉丁美洲独立运动”。其余选项虽属同一章，但在时段、对象或核心机制上与材料不符。
+  difficulty: basic
+  tags:
+  - 世界殖民体系与亚非拉民族独立运动
+  - 拉丁美洲独立运动
+  - 时空观念
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.colonial-resistance
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: understand
+  reasoning_steps: 1
+  estimated_time_seconds: 75
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.outline-2.colonial-resistance.q2
+  stem: 下列哪一历史主题与材料描述最吻合：“列强通过直接统治和经济控制把非洲、亚洲大部分地区纳入殖民体系”（ ）。
+  options:
+  - id: A
+    text: 亚洲殖民体系形成
+  - id: B
+    text: 非洲被瓜分
+  - id: C
+    text: 亚洲觉醒
+  - id: D
+    text: 世界殖民体系形成与反抗
+  correct_option_id: A
+  explanation: 材料以“列强通过直接统治和经济控制把非洲、亚洲大部分地区纳入殖民体系”为关键线索，指向“亚洲殖民体系形成”。其余选项虽属同一章，但在时段、对象或核心机制上与材料不符。
+  difficulty: basic
+  tags:
+  - 世界殖民体系与亚非拉民族独立运动
+  - 亚洲殖民体系形成
+  - 时空观念
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.colonial-resistance
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: apply
+  reasoning_steps: 1
+  estimated_time_seconds: 90
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.outline-2.colonial-resistance.q3
+  stem: 围绕“非洲被瓜分”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 埃塞俄比亚击败意大利侵略，成为非洲反殖民斗争的重要例证
+  - id: B
+    text: 资本输出、瓜分世界与当地抵抗相互交织，说明体系形成并非单向过程
+  - id: C
+    text: 拉丁美洲在启蒙思想和殖民矛盾推动下独立，但政治经济依赖仍存
+  - id: D
+    text: 民族资产阶级领导建立共和国的尝试遭镇压，反映亚洲觉醒
+  correct_option_id: D
+  explanation: “民族资产阶级领导建立共和国的尝试遭镇压，反映亚洲觉醒”准确概括了“非洲被瓜分”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: medium
+  tags:
+  - 世界殖民体系与亚非拉民族独立运动
+  - 非洲被瓜分
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.colonial-resistance
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 120
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.outline-2.colonial-resistance.q4
+  stem: 围绕“亚洲觉醒”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 拉丁美洲在启蒙思想和殖民矛盾推动下独立，但政治经济依赖仍存
+  - id: B
+    text: 列强通过直接统治和经济控制把非洲、亚洲大部分地区纳入殖民体系
+  - id: C
+    text: 埃塞俄比亚击败意大利侵略，成为非洲反殖民斗争的重要例证
+  - id: D
+    text: 资本输出、瓜分世界与当地抵抗相互交织，说明体系形成并非单向过程
+  correct_option_id: C
+  explanation: “埃塞俄比亚击败意大利侵略，成为非洲反殖民斗争的重要例证”准确概括了“亚洲觉醒”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: medium
+  tags:
+  - 世界殖民体系与亚非拉民族独立运动
+  - 亚洲觉醒
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.colonial-resistance
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 150
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.outline-2.colonial-resistance.q5
+  stem: 围绕“世界殖民体系形成与反抗”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 民族资产阶级领导建立共和国的尝试遭镇压，反映亚洲觉醒
+  - id: B
+    text: 资本输出、瓜分世界与当地抵抗相互交织，说明体系形成并非单向过程
+  - id: C
+    text: 拉丁美洲在启蒙思想和殖民矛盾推动下独立，但政治经济依赖仍存
+  - id: D
+    text: 列强通过直接统治和经济控制把非洲、亚洲大部分地区纳入殖民体系
+  correct_option_id: B
+  explanation: “资本输出、瓜分世界与当地抵抗相互交织，说明体系形成并非单向过程”准确概括了“世界殖民体系形成与反抗”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: advanced
+  tags:
+  - 世界殖民体系与亚非拉民族独立运动
+  - 世界殖民体系形成与反抗
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.colonial-resistance
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: evaluate
+  reasoning_steps: 3
+  estimated_time_seconds: 210
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1

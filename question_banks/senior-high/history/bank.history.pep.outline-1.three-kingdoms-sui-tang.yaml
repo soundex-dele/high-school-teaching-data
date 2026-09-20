@@ -1,0 +1,175 @@
+id: bank.history.pep.outline-1.three-kingdoms-sui-tang
+subject: history
+education_stage: senior_high
+grade_scope:
+- 10
+curriculum_scopes:
+- pep-history-current
+canonical_knowledge_ids:
+- history.senior-high.three-kingdoms-sui-tang
+questions:
+- id: history.pep.outline-1.three-kingdoms-sui-tang.q1
+  stem: 下列哪一历史主题与材料描述最吻合：“多个政权并立，江南得到开发，北方民族政权推进封建化改革”（ ）。
+  options:
+  - id: A
+    text: 北方民族交融
+  - id: B
+    text: 隋朝统一与制度建设
+  - id: C
+    text: 唐朝政治与经济发展
+  - id: D
+    text: 三国两晋南北朝政权更替
+  correct_option_id: D
+  explanation: 材料以“多个政权并立，江南得到开发，北方民族政权推进封建化改革”为关键线索，指向“三国两晋南北朝政权更替”。其余选项虽属同一章，但在时段、对象或核心机制上与材料不符。
+  difficulty: basic
+  tags:
+  - 三国两晋南北朝的民族交融与隋唐统一多民族封建国家的发展
+  - 三国两晋南北朝政权更替
+  - 时空观念
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.three-kingdoms-sui-tang
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: understand
+  reasoning_steps: 1
+  estimated_time_seconds: 75
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.outline-1.three-kingdoms-sui-tang.q2
+  stem: 下列哪一历史主题与材料描述最吻合：“北方少数民族内迁与汉族南迁相互交织，服饰、语言和生产方式彼此影响”（ ）。
+  options:
+  - id: A
+    text: 唐朝政治与经济发展
+  - id: B
+    text: 隋唐中外文化交流
+  - id: C
+    text: 北方民族交融
+  - id: D
+    text: 隋朝统一与制度建设
+  correct_option_id: C
+  explanation: 材料以“北方少数民族内迁与汉族南迁相互交织，服饰、语言和生产方式彼此影响”为关键线索，指向“北方民族交融”。其余选项虽属同一章，但在时段、对象或核心机制上与材料不符。
+  difficulty: basic
+  tags:
+  - 三国两晋南北朝的民族交融与隋唐统一多民族封建国家的发展
+  - 北方民族交融
+  - 时空观念
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.three-kingdoms-sui-tang
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: apply
+  reasoning_steps: 1
+  estimated_time_seconds: 90
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.outline-1.three-kingdoms-sui-tang.q3
+  stem: 围绕“隋朝统一与制度建设”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 多个政权并立，江南得到开发，北方民族政权推进封建化改革
+  - id: B
+    text: 结束长期分裂，创立科举制并开通贯通南北的大运河
+  - id: C
+    text: 三省六部制提高决策规范性，均田制和租庸调制支撑国家财政
+  - id: D
+    text: 长安汇聚各国使者商人，佛教中国化并出现多元开放的文学艺术
+  correct_option_id: B
+  explanation: “结束长期分裂，创立科举制并开通贯通南北的大运河”准确概括了“隋朝统一与制度建设”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: medium
+  tags:
+  - 三国两晋南北朝的民族交融与隋唐统一多民族封建国家的发展
+  - 隋朝统一与制度建设
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.three-kingdoms-sui-tang
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 120
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.outline-1.three-kingdoms-sui-tang.q4
+  stem: 围绕“唐朝政治与经济发展”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 三省六部制提高决策规范性，均田制和租庸调制支撑国家财政
+  - id: B
+    text: 长安汇聚各国使者商人，佛教中国化并出现多元开放的文学艺术
+  - id: C
+    text: 多个政权并立，江南得到开发，北方民族政权推进封建化改革
+  - id: D
+    text: 北方少数民族内迁与汉族南迁相互交织，服饰、语言和生产方式彼此影响
+  correct_option_id: A
+  explanation: “三省六部制提高决策规范性，均田制和租庸调制支撑国家财政”准确概括了“唐朝政治与经济发展”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: medium
+  tags:
+  - 三国两晋南北朝的民族交融与隋唐统一多民族封建国家的发展
+  - 唐朝政治与经济发展
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.three-kingdoms-sui-tang
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 150
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.outline-1.three-kingdoms-sui-tang.q5
+  stem: 围绕“隋唐中外文化交流”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 多个政权并立，江南得到开发，北方民族政权推进封建化改革
+  - id: B
+    text: 北方少数民族内迁与汉族南迁相互交织，服饰、语言和生产方式彼此影响
+  - id: C
+    text: 结束长期分裂，创立科举制并开通贯通南北的大运河
+  - id: D
+    text: 长安汇聚各国使者商人，佛教中国化并出现多元开放的文学艺术
+  correct_option_id: D
+  explanation: “长安汇聚各国使者商人，佛教中国化并出现多元开放的文学艺术”准确概括了“隋唐中外文化交流”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: advanced
+  tags:
+  - 三国两晋南北朝的民族交融与隋唐统一多民族封建国家的发展
+  - 隋唐中外文化交流
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.three-kingdoms-sui-tang
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: evaluate
+  reasoning_steps: 3
+  estimated_time_seconds: 210
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1

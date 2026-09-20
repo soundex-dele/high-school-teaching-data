@@ -1,0 +1,175 @@
+id: bank.history.pep.selective-3.commerce-culture
+subject: history
+education_stage: senior_high
+grade_scope:
+- 12
+curriculum_scopes:
+- pep-history-current
+canonical_knowledge_ids:
+- history.senior-high.commerce-culture
+questions:
+- id: history.pep.selective-3.commerce-culture.q1
+  stem: 下列哪一历史主题与材料描述最吻合：“驼队和绿洲城市连接东西方，商品与宗教、艺术、技术共同流动”（ ）。
+  options:
+  - id: A
+    text: 欧亚草原商路
+  - id: B
+    text: 海上丝绸之路
+  - id: C
+    text: 近代世界贸易网络
+  - id: D
+    text: 丝绸之路
+  correct_option_id: D
+  explanation: 材料以“驼队和绿洲城市连接东西方，商品与宗教、艺术、技术共同流动”为关键线索，指向“丝绸之路”。其余选项虽属同一章，但在时段、对象或核心机制上与材料不符。
+  difficulty: basic
+  tags:
+  - 商路、贸易与文化交流
+  - 丝绸之路
+  - 时空观念
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.commerce-culture
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 12
+  question_type: single_choice
+  cognitive_level: understand
+  reasoning_steps: 1
+  estimated_time_seconds: 75
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.selective-3.commerce-culture.q2
+  stem: 下列哪一历史主题与材料描述最吻合：“北方草原通道由游牧力量维系，战争与贸易均可推动交流”（ ）。
+  options:
+  - id: A
+    text: 近代世界贸易网络
+  - id: B
+    text: 商品与文化传播
+  - id: C
+    text: 欧亚草原商路
+  - id: D
+    text: 海上丝绸之路
+  correct_option_id: C
+  explanation: 材料以“北方草原通道由游牧力量维系，战争与贸易均可推动交流”为关键线索，指向“欧亚草原商路”。其余选项虽属同一章，但在时段、对象或核心机制上与材料不符。
+  difficulty: basic
+  tags:
+  - 商路、贸易与文化交流
+  - 欧亚草原商路
+  - 时空观念
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.commerce-culture
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 12
+  question_type: single_choice
+  cognitive_level: apply
+  reasoning_steps: 1
+  estimated_time_seconds: 90
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.selective-3.commerce-culture.q3
+  stem: 围绕“海上丝绸之路”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 驼队和绿洲城市连接东西方，商品与宗教、艺术、技术共同流动
+  - id: B
+    text: 季风航海连接中国、东南亚、印度洋和非洲港口，形成多族群社群
+  - id: C
+    text: 工业化与殖民体系扩大贸易规模，文化传播也带有权力不平等
+  - id: D
+    text: 瓷器、茶等商品进入异域后被重新解释，体现物质流动与文化再造
+  correct_option_id: B
+  explanation: “季风航海连接中国、东南亚、印度洋和非洲港口，形成多族群社群”准确概括了“海上丝绸之路”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: medium
+  tags:
+  - 商路、贸易与文化交流
+  - 海上丝绸之路
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.commerce-culture
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 12
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 120
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.selective-3.commerce-culture.q4
+  stem: 围绕“近代世界贸易网络”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 工业化与殖民体系扩大贸易规模，文化传播也带有权力不平等
+  - id: B
+    text: 瓷器、茶等商品进入异域后被重新解释，体现物质流动与文化再造
+  - id: C
+    text: 驼队和绿洲城市连接东西方，商品与宗教、艺术、技术共同流动
+  - id: D
+    text: 北方草原通道由游牧力量维系，战争与贸易均可推动交流
+  correct_option_id: A
+  explanation: “工业化与殖民体系扩大贸易规模，文化传播也带有权力不平等”准确概括了“近代世界贸易网络”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: medium
+  tags:
+  - 商路、贸易与文化交流
+  - 近代世界贸易网络
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.commerce-culture
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 12
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 150
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.selective-3.commerce-culture.q5
+  stem: 围绕“商品与文化传播”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 驼队和绿洲城市连接东西方，商品与宗教、艺术、技术共同流动
+  - id: B
+    text: 北方草原通道由游牧力量维系，战争与贸易均可推动交流
+  - id: C
+    text: 季风航海连接中国、东南亚、印度洋和非洲港口，形成多族群社群
+  - id: D
+    text: 瓷器、茶等商品进入异域后被重新解释，体现物质流动与文化再造
+  correct_option_id: D
+  explanation: “瓷器、茶等商品进入异域后被重新解释，体现物质流动与文化再造”准确概括了“商品与文化传播”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: advanced
+  tags:
+  - 商路、贸易与文化交流
+  - 商品与文化传播
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.commerce-culture
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 12
+  question_type: single_choice
+  cognitive_level: evaluate
+  reasoning_steps: 3
+  estimated_time_seconds: 210
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1

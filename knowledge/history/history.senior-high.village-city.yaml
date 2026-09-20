@@ -1,0 +1,47 @@
+id: history.senior-high.village-city
+subject: history
+education_stage: senior_high
+name: 村落、城镇与居住环境
+summary: 本知识点围绕聚落与城市发展展开，重点是从生产、交通和治理分析村落城镇及居住环境演变，并能在新的问题情境中说明条件、过程与结论之间的联系。
+objectives:
+- 从生产、交通和治理分析村落城镇及居住环境演变
+- 能够识别典型条件并用规范语言说明判断依据
+prerequisites:
+- 初中阶段相关基础知识
+- 基本阅读、表达与推理能力
+common_mistakes:
+- 用现代城市标准评价所有古代聚落
+keywords:
+- 聚落与城市发展
+- 村落、城镇与居住环境
+competency_tags:
+- 时空观念
+- 史料实证
+- 历史解释
+knowledge_items:
+- id: topic-1
+  type: process
+  name: 村落形成
+  content: 围绕“村落形成”梳理其时空背景、核心内容及其在“村落、城镇与居住环境”历史进程中的作用。
+  review_status: self_checked
+- id: topic-2
+  type: process
+  name: 古代城市发展
+  content: 围绕“古代城市发展”梳理其时空背景、核心内容及其在“村落、城镇与居住环境”历史进程中的作用。
+  review_status: self_checked
+- id: topic-3
+  type: concept
+  name: 近代城市化
+  content: 围绕“近代城市化”梳理其时空背景、核心内容及其在“村落、城镇与居住环境”历史进程中的作用。
+  review_status: self_checked
+- id: topic-4
+  type: concept
+  name: 居住条件改善
+  content: 围绕“居住条件改善”梳理其时空背景、核心内容及其在“村落、城镇与居住环境”历史进程中的作用。
+  review_status: self_checked
+- id: topic-5
+  type: impact
+  name: 城市治理与环境问题
+  content: 围绕“城市治理与环境问题”梳理其时空背景、核心内容及其在“村落、城镇与居住环境”历史进程中的作用。
+  review_status: self_checked
+review_status: self_checked

@@ -1,0 +1,16 @@
+id: history.pep.outline-2.twentieth-century
+canonical_id: history.senior-high.twentieth-century
+curriculum_id: pep-history-current
+subject: history
+education_stage: senior_high
+grade_scope:
+- 10
+semester_scope: second
+display_name: 20世纪下半叶世界的新变化
+reference:
+  publisher: 人民教育出版社
+  edition_scope: 现行普通高中教科书
+  chapter: 中外历史纲要（下）·20世纪下半叶世界的新变化
+question_bank_ids:
+- bank.history.pep.outline-2.twentieth-century
+review_status: self_checked

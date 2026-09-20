@@ -1,0 +1,47 @@
+id: history.senior-high.food-production
+subject: history
+education_stage: senior_high
+name: 食物生产与社会生活
+summary: 本知识点围绕农业起源与食物体系展开，重点是理解食物生产方式演变对人类社会结构和生活的影响，并能在新的问题情境中说明条件、过程与结论之间的联系。
+objectives:
+- 理解食物生产方式演变对人类社会结构和生活的影响
+- 能够识别典型条件并用规范语言说明判断依据
+prerequisites:
+- 初中阶段相关基础知识
+- 基本阅读、表达与推理能力
+common_mistakes:
+- 把农业出现理解为各地区同时发生
+keywords:
+- 农业起源与食物体系
+- 食物生产与社会生活
+competency_tags:
+- 时空观念
+- 史料实证
+- 历史解释
+knowledge_items:
+- id: topic-1
+  type: concept
+  name: 农业与畜牧业起源
+  content: 围绕“农业与畜牧业起源”梳理其时空背景、核心内容及其在“食物生产与社会生活”历史进程中的作用。
+  review_status: self_checked
+- id: topic-2
+  type: concept
+  name: 不同区域食物生产
+  content: 围绕“不同区域食物生产”梳理其时空背景、核心内容及其在“食物生产与社会生活”历史进程中的作用。
+  review_status: self_checked
+- id: topic-3
+  type: process
+  name: 美洲作物全球传播
+  content: 围绕“美洲作物全球传播”梳理其时空背景、核心内容及其在“食物生产与社会生活”历史进程中的作用。
+  review_status: self_checked
+- id: topic-4
+  type: concept
+  name: 现代农业与食品工业
+  content: 围绕“现代农业与食品工业”梳理其时空背景、核心内容及其在“食物生产与社会生活”历史进程中的作用。
+  review_status: self_checked
+- id: topic-5
+  type: impact
+  name: 食物生产的社会影响
+  content: 围绕“食物生产的社会影响”梳理其时空背景、核心内容及其在“食物生产与社会生活”历史进程中的作用。
+  review_status: self_checked
+review_status: self_checked

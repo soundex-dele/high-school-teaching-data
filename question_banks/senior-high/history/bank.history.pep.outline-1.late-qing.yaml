@@ -1,0 +1,175 @@
+id: bank.history.pep.outline-1.late-qing
+subject: history
+education_stage: senior_high
+grade_scope:
+- 10
+curriculum_scopes:
+- pep-history-current
+canonical_knowledge_ids:
+- history.senior-high.late-qing
+questions:
+- id: history.pep.outline-1.late-qing.q1
+  stem: 下列哪一历史主题与材料描述最吻合：“战败后被迫开放通商口岸、协定关税，中国主权遭到破坏”（ ）。
+  options:
+  - id: A
+    text: 太平天国运动
+  - id: B
+    text: 洋务运动
+  - id: C
+    text: 甲午战争与瓜分危机
+  - id: D
+    text: 鸦片战争与不平等条约
+  correct_option_id: D
+  explanation: 材料以“战败后被迫开放通商口岸、协定关税，中国主权遭到破坏”为关键线索，指向“鸦片战争与不平等条约”。其余选项虽属同一章，但在时段、对象或核心机制上与材料不符。
+  difficulty: basic
+  tags:
+  - 晚清时期的内忧外患与救亡图存
+  - 鸦片战争与不平等条约
+  - 时空观念
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.late-qing
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: understand
+  reasoning_steps: 1
+  estimated_time_seconds: 75
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.outline-1.late-qing.q2
+  stem: 下列哪一历史主题与材料描述最吻合：“农民政权颁布土地纲领并尝试向西方学习，最终受内外力量联合镇压”（ ）。
+  options:
+  - id: A
+    text: 甲午战争与瓜分危机
+  - id: B
+    text: 戊戌变法与义和团运动
+  - id: C
+    text: 太平天国运动
+  - id: D
+    text: 洋务运动
+  correct_option_id: C
+  explanation: 材料以“农民政权颁布土地纲领并尝试向西方学习，最终受内外力量联合镇压”为关键线索，指向“太平天国运动”。其余选项虽属同一章，但在时段、对象或核心机制上与材料不符。
+  difficulty: basic
+  tags:
+  - 晚清时期的内忧外患与救亡图存
+  - 太平天国运动
+  - 时空观念
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.late-qing
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: apply
+  reasoning_steps: 1
+  estimated_time_seconds: 90
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.outline-1.late-qing.q3
+  stem: 围绕“洋务运动”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 战败后被迫开放通商口岸、协定关税，中国主权遭到破坏
+  - id: B
+    text: 以自强、求富为口号创办近代军事和民用企业，却未改变封建制度
+  - id: C
+    text: 战败和条约加深民族危机，列强掀起划分势力范围的浪潮
+  - id: D
+    text: 一场试图实行君主立宪的改革迅速失败，随后排外运动又遭八国联军镇压
+  correct_option_id: B
+  explanation: “以自强、求富为口号创办近代军事和民用企业，却未改变封建制度”准确概括了“洋务运动”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: medium
+  tags:
+  - 晚清时期的内忧外患与救亡图存
+  - 洋务运动
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.late-qing
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 120
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.outline-1.late-qing.q4
+  stem: 围绕“甲午战争与瓜分危机”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 战败和条约加深民族危机，列强掀起划分势力范围的浪潮
+  - id: B
+    text: 一场试图实行君主立宪的改革迅速失败，随后排外运动又遭八国联军镇压
+  - id: C
+    text: 战败后被迫开放通商口岸、协定关税，中国主权遭到破坏
+  - id: D
+    text: 农民政权颁布土地纲领并尝试向西方学习，最终受内外力量联合镇压
+  correct_option_id: A
+  explanation: “战败和条约加深民族危机，列强掀起划分势力范围的浪潮”准确概括了“甲午战争与瓜分危机”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: medium
+  tags:
+  - 晚清时期的内忧外患与救亡图存
+  - 甲午战争与瓜分危机
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.late-qing
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 150
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.outline-1.late-qing.q5
+  stem: 围绕“戊戌变法与义和团运动”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 战败后被迫开放通商口岸、协定关税，中国主权遭到破坏
+  - id: B
+    text: 农民政权颁布土地纲领并尝试向西方学习，最终受内外力量联合镇压
+  - id: C
+    text: 以自强、求富为口号创办近代军事和民用企业，却未改变封建制度
+  - id: D
+    text: 一场试图实行君主立宪的改革迅速失败，随后排外运动又遭八国联军镇压
+  correct_option_id: D
+  explanation: “一场试图实行君主立宪的改革迅速失败，随后排外运动又遭八国联军镇压”准确概括了“戊戌变法与义和团运动”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: advanced
+  tags:
+  - 晚清时期的内忧外患与救亡图存
+  - 戊戌变法与义和团运动
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.late-qing
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: evaluate
+  reasoning_steps: 3
+  estimated_time_seconds: 210
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1

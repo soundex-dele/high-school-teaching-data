@@ -1,0 +1,170 @@
+id: bank.math.xj.required-2.statistics
+subject: math
+education_stage: senior_high
+grade_scope:
+- 10
+curriculum_scopes:
+- xj-math-current
+canonical_knowledge_ids:
+- math.senior-high.statistics
+questions:
+- id: math.xj.required-2.statistics.q1
+  stem: 数据 2,3,3,7,10 的中位数是（ ）。
+  options:
+  - id: A
+    text: '4'
+  - id: B
+    text: '5'
+  - id: C
+    text: '7'
+  - id: D
+    text: '3'
+  correct_option_id: D
+  explanation: 数据已有序，5 个数的中位数是第 3 个数 3。
+  difficulty: basic
+  tags:
+  - 统计
+  - 概念与运算
+  source_type: original
+  knowledge_point_ids:
+  - math.senior-high.statistics
+  curriculum_scopes:
+  - xj-math-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: understand
+  reasoning_steps: 1
+  estimated_time_seconds: 60
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: math.xj.required-2.statistics.q2
+  stem: 一组数据每个数都加 5，则保持不变的统计量是（ ）。
+  options:
+  - id: A
+    text: 中位数
+  - id: B
+    text: 众数
+  - id: C
+    text: 方差
+  - id: D
+    text: 平均数
+  correct_option_id: C
+  explanation: 整体平移不改变各数据与平均数的离差，因此方差不变；位置类统计量均增加 5。
+  difficulty: basic
+  tags:
+  - 统计
+  - 概念与运算
+  source_type: original
+  knowledge_point_ids:
+  - math.senior-high.statistics
+  curriculum_scopes:
+  - xj-math-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: apply
+  reasoning_steps: 1
+  estimated_time_seconds: 75
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: math.xj.required-2.statistics.q3
+  stem: 某校按高一、高二、高三人数之比 5:4:3 分层抽取 120 人，则高三应抽取（ ）。
+  options:
+  - id: A
+    text: 50 人
+  - id: B
+    text: 30 人
+  - id: C
+    text: 36 人
+  - id: D
+    text: 40 人
+  correct_option_id: B
+  explanation: 高三占 3/(5+4+3)=1/4，应抽取 120×1/4=30 人。
+  difficulty: medium
+  tags:
+  - 统计
+  - 计算与推理
+  source_type: original
+  knowledge_point_ids:
+  - math.senior-high.statistics
+  curriculum_scopes:
+  - xj-math-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 120
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: math.xj.required-2.statistics.q4
+  stem: 两组数据均值相同，甲组标准差为 2，乙组标准差为 5。由此可知（ ）。
+  options:
+  - id: A
+    text: 甲组数据更集中
+  - id: B
+    text: 乙组数据更集中
+  - id: C
+    text: 甲组均值更可靠
+  - id: D
+    text: 乙组样本量更大
+  correct_option_id: A
+  explanation: 标准差越小，数据围绕均值的波动越小；标准差不能直接说明样本量或均值可靠性。
+  difficulty: medium
+  tags:
+  - 统计
+  - 计算与推理
+  source_type: original
+  knowledge_point_ids:
+  - math.senior-high.statistics
+  curriculum_scopes:
+  - xj-math-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 150
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: math.xj.required-2.statistics.q5
+  stem: 调查“全市高中生每天运动时间”，下列抽样最可能造成系统偏差的是（ ）。
+  options:
+  - id: A
+    text: 按学校分层后随机抽取
+  - id: B
+    text: 从全市学籍号中随机抽取
+  - id: C
+    text: 按各区人数比例随机抽取
+  - id: D
+    text: 只在一所体育特色学校抽取
+  correct_option_id: D
+  explanation: 体育特色学校学生的运动习惯可能显著不同，不能代表全市高中生，容易产生选择偏差。
+  difficulty: advanced
+  tags:
+  - 统计
+  - 计算与推理
+  source_type: original
+  knowledge_point_ids:
+  - math.senior-high.statistics
+  curriculum_scopes:
+  - xj-math-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: evaluate
+  reasoning_steps: 3
+  estimated_time_seconds: 240
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1

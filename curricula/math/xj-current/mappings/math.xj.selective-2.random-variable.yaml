@@ -1,0 +1,16 @@
+id: math.xj.selective-2.random-variable
+canonical_id: math.senior-high.random-variable
+curriculum_id: xj-math-current
+subject: math
+education_stage: senior_high
+grade_scope:
+- 11
+semester_scope: second
+display_name: 随机变量及其分布
+reference:
+  publisher: 湖南教育出版社
+  edition_scope: 现行普通高中教科书
+  chapter: 选择性必修第二册·随机变量及其分布
+question_bank_ids:
+- bank.math.xj.selective-2.random-variable
+review_status: self_checked

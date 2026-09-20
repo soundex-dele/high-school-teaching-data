@@ -1,0 +1,16 @@
+id: math.xj.required-1.inequality
+canonical_id: math.senior-high.inequality
+curriculum_id: xj-math-current
+subject: math
+education_stage: senior_high
+grade_scope:
+- 10
+semester_scope: first
+display_name: 一元二次函数、方程和不等式
+reference:
+  publisher: 湖南教育出版社
+  edition_scope: 现行普通高中教科书
+  chapter: 必修第一册·一元二次函数、方程和不等式
+question_bank_ids:
+- bank.math.xj.required-1.inequality
+review_status: self_checked

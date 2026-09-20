@@ -1,0 +1,175 @@
+id: bank.history.pep.selective-2.village-city
+subject: history
+education_stage: senior_high
+grade_scope:
+- 11
+curriculum_scopes:
+- pep-history-current
+canonical_knowledge_ids:
+- history.senior-high.village-city
+questions:
+- id: history.pep.selective-2.village-city.q1
+  stem: 下列哪一历史主题与材料描述最吻合：“农业定居形成稳定聚落，布局受水源、耕地和防御条件影响”（ ）。
+  options:
+  - id: A
+    text: 近代城市化
+  - id: B
+    text: 居住条件改善
+  - id: C
+    text: 村落形成
+  - id: D
+    text: 古代城市发展
+  correct_option_id: C
+  explanation: 材料以“农业定居形成稳定聚落，布局受水源、耕地和防御条件影响”为关键线索，指向“村落形成”。其余选项虽属同一章，但在时段、对象或核心机制上与材料不符。
+  difficulty: basic
+  tags:
+  - 村落、城镇与居住环境
+  - 村落形成
+  - 时空观念
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.village-city
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 11
+  question_type: single_choice
+  cognitive_level: understand
+  reasoning_steps: 1
+  estimated_time_seconds: 75
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.selective-2.village-city.q2
+  stem: 下列哪一历史主题与材料描述最吻合：“政治中心、手工业和商业集聚推动城市形成，城墙和市场体现治理功能”（ ）。
+  options:
+  - id: A
+    text: 城市治理与环境问题
+  - id: B
+    text: 古代城市发展
+  - id: C
+    text: 近代城市化
+  - id: D
+    text: 居住条件改善
+  correct_option_id: B
+  explanation: 材料以“政治中心、手工业和商业集聚推动城市形成，城墙和市场体现治理功能”为关键线索，指向“古代城市发展”。其余选项虽属同一章，但在时段、对象或核心机制上与材料不符。
+  difficulty: basic
+  tags:
+  - 村落、城镇与居住环境
+  - 古代城市发展
+  - 时空观念
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.village-city
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 11
+  question_type: single_choice
+  cognitive_level: apply
+  reasoning_steps: 1
+  estimated_time_seconds: 90
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.selective-2.village-city.q3
+  stem: 围绕“近代城市化”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 工业岗位吸引人口集中，城市扩张同时产生住房、卫生和交通问题
+  - id: B
+    text: 供水排污、公共空间和住房技术改善生活，也反映社会资源分配
+  - id: C
+    text: 可持续规划需协调人口、产业、交通与生态，不能只追求建筑规模
+  - id: D
+    text: 农业定居形成稳定聚落，布局受水源、耕地和防御条件影响
+  correct_option_id: A
+  explanation: “工业岗位吸引人口集中，城市扩张同时产生住房、卫生和交通问题”准确概括了“近代城市化”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: medium
+  tags:
+  - 村落、城镇与居住环境
+  - 近代城市化
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.village-city
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 11
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 120
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.selective-2.village-city.q4
+  stem: 围绕“居住条件改善”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 可持续规划需协调人口、产业、交通与生态，不能只追求建筑规模
+  - id: B
+    text: 农业定居形成稳定聚落，布局受水源、耕地和防御条件影响
+  - id: C
+    text: 政治中心、手工业和商业集聚推动城市形成，城墙和市场体现治理功能
+  - id: D
+    text: 供水排污、公共空间和住房技术改善生活，也反映社会资源分配
+  correct_option_id: D
+  explanation: “供水排污、公共空间和住房技术改善生活，也反映社会资源分配”准确概括了“居住条件改善”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: medium
+  tags:
+  - 村落、城镇与居住环境
+  - 居住条件改善
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.village-city
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 11
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 150
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.selective-2.village-city.q5
+  stem: 围绕“城市治理与环境问题”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 政治中心、手工业和商业集聚推动城市形成，城墙和市场体现治理功能
+  - id: B
+    text: 工业岗位吸引人口集中，城市扩张同时产生住房、卫生和交通问题
+  - id: C
+    text: 可持续规划需协调人口、产业、交通与生态，不能只追求建筑规模
+  - id: D
+    text: 农业定居形成稳定聚落，布局受水源、耕地和防御条件影响
+  correct_option_id: C
+  explanation: “可持续规划需协调人口、产业、交通与生态，不能只追求建筑规模”准确概括了“城市治理与环境问题”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: advanced
+  tags:
+  - 村落、城镇与居住环境
+  - 城市治理与环境问题
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.village-city
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 11
+  question_type: single_choice
+  cognitive_level: evaluate
+  reasoning_steps: 3
+  estimated_time_seconds: 210
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1

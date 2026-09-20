@@ -1,0 +1,175 @@
+id: bank.history.pep.outline-1.republic
+subject: history
+education_stage: senior_high
+grade_scope:
+- 10
+curriculum_scopes:
+- pep-history-current
+canonical_knowledge_ids:
+- history.senior-high.republic
+questions:
+- id: history.pep.outline-1.republic.q1
+  stem: 下列哪一历史主题与材料描述最吻合：“清政府新政未能挽救统治，铁路国有政策进一步激化社会矛盾”（ ）。
+  options:
+  - id: A
+    text: 辛亥革命进程
+  - id: B
+    text: 中华民国建立
+  - id: C
+    text: 《中华民国临时约法》
+  - id: D
+    text: 清末新政与革命形势
+  correct_option_id: D
+  explanation: 材料以“清政府新政未能挽救统治，铁路国有政策进一步激化社会矛盾”为关键线索，指向“清末新政与革命形势”。其余选项虽属同一章，但在时段、对象或核心机制上与材料不符。
+  difficulty: basic
+  tags:
+  - 辛亥革命与中华民国的建立
+  - 清末新政与革命形势
+  - 时空观念
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.republic
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: understand
+  reasoning_steps: 1
+  estimated_time_seconds: 75
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.outline-1.republic.q2
+  stem: 下列哪一历史主题与材料描述最吻合：“武昌起义后各省响应，革命力量以建立共和为政治目标”（ ）。
+  options:
+  - id: A
+    text: 《中华民国临时约法》
+  - id: B
+    text: 北洋军阀统治与护国运动
+  - id: C
+    text: 辛亥革命进程
+  - id: D
+    text: 中华民国建立
+  correct_option_id: C
+  explanation: 材料以“武昌起义后各省响应，革命力量以建立共和为政治目标”为关键线索，指向“辛亥革命进程”。其余选项虽属同一章，但在时段、对象或核心机制上与材料不符。
+  difficulty: basic
+  tags:
+  - 辛亥革命与中华民国的建立
+  - 辛亥革命进程
+  - 时空观念
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.republic
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: apply
+  reasoning_steps: 1
+  estimated_time_seconds: 90
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.outline-1.republic.q3
+  stem: 围绕“中华民国建立”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 清政府新政未能挽救统治，铁路国有政策进一步激化社会矛盾
+  - id: B
+    text: 亚洲第一个共和制国家建立，但革命成果很快被袁世凯窃取
+  - id: C
+    text: 确立主权在民、责任内阁等原则，意在限制袁世凯专权
+  - id: D
+    text: 袁世凯称帝失败后军阀割据，维护共和法统的斗争仍未完成民主政治
+  correct_option_id: B
+  explanation: “亚洲第一个共和制国家建立，但革命成果很快被袁世凯窃取”准确概括了“中华民国建立”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: medium
+  tags:
+  - 辛亥革命与中华民国的建立
+  - 中华民国建立
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.republic
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 120
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.outline-1.republic.q4
+  stem: 围绕“《中华民国临时约法》”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 确立主权在民、责任内阁等原则，意在限制袁世凯专权
+  - id: B
+    text: 袁世凯称帝失败后军阀割据，维护共和法统的斗争仍未完成民主政治
+  - id: C
+    text: 清政府新政未能挽救统治，铁路国有政策进一步激化社会矛盾
+  - id: D
+    text: 武昌起义后各省响应，革命力量以建立共和为政治目标
+  correct_option_id: A
+  explanation: “确立主权在民、责任内阁等原则，意在限制袁世凯专权”准确概括了“《中华民国临时约法》”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: medium
+  tags:
+  - 辛亥革命与中华民国的建立
+  - 《中华民国临时约法》
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.republic
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 150
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.outline-1.republic.q5
+  stem: 围绕“北洋军阀统治与护国运动”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 清政府新政未能挽救统治，铁路国有政策进一步激化社会矛盾
+  - id: B
+    text: 武昌起义后各省响应，革命力量以建立共和为政治目标
+  - id: C
+    text: 亚洲第一个共和制国家建立，但革命成果很快被袁世凯窃取
+  - id: D
+    text: 袁世凯称帝失败后军阀割据，维护共和法统的斗争仍未完成民主政治
+  correct_option_id: D
+  explanation: “袁世凯称帝失败后军阀割据，维护共和法统的斗争仍未完成民主政治”准确概括了“北洋军阀统治与护国运动”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: advanced
+  tags:
+  - 辛亥革命与中华民国的建立
+  - 北洋军阀统治与护国运动
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.republic
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: evaluate
+  reasoning_steps: 3
+  estimated_time_seconds: 210
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1

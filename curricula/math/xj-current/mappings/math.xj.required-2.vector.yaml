@@ -1,0 +1,16 @@
+id: math.xj.required-2.vector
+canonical_id: math.senior-high.vector
+curriculum_id: xj-math-current
+subject: math
+education_stage: senior_high
+grade_scope:
+- 10
+semester_scope: second
+display_name: 平面向量及其应用
+reference:
+  publisher: 湖南教育出版社
+  edition_scope: 现行普通高中教科书
+  chapter: 必修第二册·平面向量及其应用
+question_bank_ids:
+- bank.math.xj.required-2.vector
+review_status: self_checked

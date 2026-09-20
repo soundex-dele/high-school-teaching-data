@@ -1,0 +1,50 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "required": [
+    "id", "subject", "education_stage", "name", "summary", "objectives",
+    "prerequisites", "common_mistakes", "keywords", "competency_tags",
+    "knowledge_items", "review_status"
+  ],
+  "properties": {
+    "id": {"type": "string", "pattern": "^[a-z][a-z0-9-]*(\\.[a-z0-9][a-z0-9-]*)+$"},
+    "subject": {"type": "string", "pattern": "^[a-z][a-z0-9-]*$"},
+    "education_stage": {"enum": ["primary", "junior_high", "senior_high"]},
+    "name": {"type": "string", "minLength": 2},
+    "summary": {"type": "string", "minLength": 20},
+    "objectives": {"type": "array", "minItems": 2, "items": {"type": "string", "minLength": 2}},
+    "prerequisites": {"type": "array", "items": {"type": "string"}},
+    "common_mistakes": {"type": "array", "minItems": 1, "items": {"type": "string", "minLength": 2}},
+    "keywords": {"type": "array", "minItems": 2, "items": {"type": "string", "minLength": 1}},
+    "competency_tags": {"type": "array", "minItems": 1, "items": {"type": "string", "minLength": 1}},
+    "knowledge_items": {
+      "type": "array",
+      "minItems": 5,
+      "maxItems": 15,
+      "items": {
+        "type": "object",
+        "required": ["id", "type", "name", "content", "review_status"],
+        "properties": {
+          "id": {"type": "string", "pattern": "^[a-z0-9][a-z0-9-]*$"},
+          "type": {
+            "enum": [
+              "concept", "definition", "formula", "theorem", "property",
+              "method", "model", "event", "process", "impact", "comparison",
+              "institution", "person", "cause", "evidence"
+            ]
+          },
+          "name": {"type": "string", "minLength": 2},
+          "content": {"type": "string", "minLength": 10},
+          "formulas": {"type": "array", "minItems": 1, "items": {"type": "string", "minLength": 2}},
+          "conditions": {"type": "array", "items": {"type": "string", "minLength": 1}},
+          "conclusion": {"type": "string", "minLength": 2},
+          "common_mistakes": {"type": "array", "items": {"type": "string", "minLength": 2}},
+          "review_status": {"enum": ["candidate", "self_checked", "teacher_reviewed"]}
+        },
+        "additionalProperties": false
+      }
+    },
+    "review_status": {"enum": ["self_checked", "teacher_reviewed"]}
+  },
+  "additionalProperties": false
+}

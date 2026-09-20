@@ -1,0 +1,47 @@
+id: history.senior-high.ethnic-diplomacy
+subject: history
+education_stage: senior_high
+name: 民族关系与国家关系
+summary: 本知识点围绕民族治理与对外交往展开，重点是认识民族关系、边疆治理和外交制度与统一国家发展的联系，并能在新的问题情境中说明条件、过程与结论之间的联系。
+objectives:
+- 认识民族关系、边疆治理和外交制度与统一国家发展的联系
+- 能够识别典型条件并用规范语言说明判断依据
+prerequisites:
+- 初中阶段相关基础知识
+- 基本阅读、表达与推理能力
+common_mistakes:
+- 以现代国界观念机械解释古代关系
+keywords:
+- 民族治理与对外交往
+- 民族关系与国家关系
+competency_tags:
+- 时空观念
+- 史料实证
+- 历史解释
+knowledge_items:
+- id: topic-1
+  type: concept
+  name: 中国古代民族关系
+  content: 围绕“中国古代民族关系”梳理其时空背景、核心内容及其在“民族关系与国家关系”历史进程中的作用。
+  review_status: self_checked
+- id: topic-2
+  type: concept
+  name: 中国古代边疆治理
+  content: 围绕“中国古代边疆治理”梳理其时空背景、核心内容及其在“民族关系与国家关系”历史进程中的作用。
+  review_status: self_checked
+- id: topic-3
+  type: concept
+  name: 中国古代对外交往
+  content: 围绕“中国古代对外交往”梳理其时空背景、核心内容及其在“民族关系与国家关系”历史进程中的作用。
+  review_status: self_checked
+- id: topic-4
+  type: institution
+  name: 近代国际法与外交制度
+  content: 围绕“近代国际法与外交制度”梳理其时空背景、核心内容及其在“民族关系与国家关系”历史进程中的作用。
+  review_status: self_checked
+- id: topic-5
+  type: institution
+  name: 当代中国民族与外交政策
+  content: 围绕“当代中国民族与外交政策”梳理其时空背景、核心内容及其在“民族关系与国家关系”历史进程中的作用。
+  review_status: self_checked
+review_status: self_checked

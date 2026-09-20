@@ -1,0 +1,175 @@
+id: bank.history.pep.outline-1.ming-qing
+subject: history
+education_stage: senior_high
+grade_scope:
+- 10
+curriculum_scopes:
+- pep-history-current
+canonical_knowledge_ids:
+- history.senior-high.ming-qing
+questions:
+- id: history.pep.outline-1.ming-qing.q1
+  stem: 下列哪一历史主题与材料描述最吻合：“废除宰相后皇权直接统领六部，军机处进一步强化君主专制”（ ）。
+  options:
+  - id: A
+    text: 明清商品经济发展
+  - id: B
+    text: 明清思想文化
+  - id: C
+    text: 明朝政治制度变化
+  - id: D
+    text: 清朝统一版图奠定
+  correct_option_id: C
+  explanation: 材料以“废除宰相后皇权直接统领六部，军机处进一步强化君主专制”为关键线索，指向“明朝政治制度变化”。其余选项虽属同一章，但在时段、对象或核心机制上与材料不符。
+  difficulty: basic
+  tags:
+  - 明清中国版图的奠定与面临的挑战
+  - 明朝政治制度变化
+  - 时空观念
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.ming-qing
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: understand
+  reasoning_steps: 1
+  estimated_time_seconds: 75
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.outline-1.ming-qing.q2
+  stem: 下列哪一历史主题与材料描述最吻合：“通过改土归流、驻藏大臣等措施经营边疆，现代中国版图逐渐奠定”（ ）。
+  options:
+  - id: A
+    text: 海禁闭关与外部挑战
+  - id: B
+    text: 清朝统一版图奠定
+  - id: C
+    text: 明清商品经济发展
+  - id: D
+    text: 明清思想文化
+  correct_option_id: B
+  explanation: 材料以“通过改土归流、驻藏大臣等措施经营边疆，现代中国版图逐渐奠定”为关键线索，指向“清朝统一版图奠定”。其余选项虽属同一章，但在时段、对象或核心机制上与材料不符。
+  difficulty: basic
+  tags:
+  - 明清中国版图的奠定与面临的挑战
+  - 清朝统一版图奠定
+  - 时空观念
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.ming-qing
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: apply
+  reasoning_steps: 1
+  estimated_time_seconds: 90
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.outline-1.ming-qing.q3
+  stem: 围绕“明清商品经济发展”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 高产作物推广，白银货币化，长途贩运和工商业市镇发展
+  - id: B
+    text: 小说戏曲繁荣，同时出现批判君主专制和重视工商的思想声音
+  - id: C
+    text: 闭关自守并未隔绝世界，但制度和技术调整滞后使中西差距扩大
+  - id: D
+    text: 废除宰相后皇权直接统领六部，军机处进一步强化君主专制
+  correct_option_id: A
+  explanation: “高产作物推广，白银货币化，长途贩运和工商业市镇发展”准确概括了“明清商品经济发展”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: medium
+  tags:
+  - 明清中国版图的奠定与面临的挑战
+  - 明清商品经济发展
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.ming-qing
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 120
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.outline-1.ming-qing.q4
+  stem: 围绕“明清思想文化”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 闭关自守并未隔绝世界，但制度和技术调整滞后使中西差距扩大
+  - id: B
+    text: 废除宰相后皇权直接统领六部，军机处进一步强化君主专制
+  - id: C
+    text: 通过改土归流、驻藏大臣等措施经营边疆，现代中国版图逐渐奠定
+  - id: D
+    text: 小说戏曲繁荣，同时出现批判君主专制和重视工商的思想声音
+  correct_option_id: D
+  explanation: “小说戏曲繁荣，同时出现批判君主专制和重视工商的思想声音”准确概括了“明清思想文化”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: medium
+  tags:
+  - 明清中国版图的奠定与面临的挑战
+  - 明清思想文化
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.ming-qing
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 150
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.outline-1.ming-qing.q5
+  stem: 围绕“海禁闭关与外部挑战”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 通过改土归流、驻藏大臣等措施经营边疆，现代中国版图逐渐奠定
+  - id: B
+    text: 高产作物推广，白银货币化，长途贩运和工商业市镇发展
+  - id: C
+    text: 闭关自守并未隔绝世界，但制度和技术调整滞后使中西差距扩大
+  - id: D
+    text: 废除宰相后皇权直接统领六部，军机处进一步强化君主专制
+  correct_option_id: C
+  explanation: “闭关自守并未隔绝世界，但制度和技术调整滞后使中西差距扩大”准确概括了“海禁闭关与外部挑战”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: advanced
+  tags:
+  - 明清中国版图的奠定与面临的挑战
+  - 海禁闭关与外部挑战
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.ming-qing
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: evaluate
+  reasoning_steps: 3
+  estimated_time_seconds: 210
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1

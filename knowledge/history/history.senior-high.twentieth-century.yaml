@@ -1,0 +1,47 @@
+id: history.senior-high.twentieth-century
+subject: history
+education_stage: senior_high
+name: 20世纪下半叶世界的新变化
+summary: 本知识点围绕冷战、民族解放与社会变革展开，重点是理解冷战格局、社会主义发展、民族独立和资本主义调整，并能在新的问题情境中说明条件、过程与结论之间的联系。
+objectives:
+- 理解冷战格局、社会主义发展、民族独立和资本主义调整
+- 能够识别典型条件并用规范语言说明判断依据
+prerequisites:
+- 初中阶段相关基础知识
+- 基本阅读、表达与推理能力
+common_mistakes:
+- 把冷战理解为美苏直接全面战争
+keywords:
+- 冷战、民族解放与社会变革
+- 20世纪下半叶世界的新变化
+competency_tags:
+- 时空观念
+- 史料实证
+- 历史解释
+knowledge_items:
+- id: topic-1
+  type: concept
+  name: 冷战与两极格局
+  content: 围绕“冷战与两极格局”梳理其时空背景、核心内容及其在“20世纪下半叶世界的新变化”历史进程中的作用。
+  review_status: self_checked
+- id: topic-2
+  type: process
+  name: 社会主义国家发展与改革
+  content: 围绕“社会主义国家发展与改革”梳理其时空背景、核心内容及其在“20世纪下半叶世界的新变化”历史进程中的作用。
+  review_status: self_checked
+- id: topic-3
+  type: institution
+  name: 殖民体系瓦解
+  content: 围绕“殖民体系瓦解”梳理其时空背景、核心内容及其在“20世纪下半叶世界的新变化”历史进程中的作用。
+  review_status: self_checked
+- id: topic-4
+  type: impact
+  name: 资本主义国家新变化
+  content: 围绕“资本主义国家新变化”梳理其时空背景、核心内容及其在“20世纪下半叶世界的新变化”历史进程中的作用。
+  review_status: self_checked
+- id: topic-5
+  type: event
+  name: 社会运动与科技文化
+  content: 围绕“社会运动与科技文化”梳理其时空背景、核心内容及其在“20世纪下半叶世界的新变化”历史进程中的作用。
+  review_status: self_checked
+review_status: self_checked

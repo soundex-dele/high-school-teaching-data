@@ -1,0 +1,175 @@
+id: bank.history.pep.selective-2.medicine-health
+subject: history
+education_stage: senior_high
+grade_scope:
+- 11
+curriculum_scopes:
+- pep-history-current
+canonical_knowledge_ids:
+- history.senior-high.medicine-health
+questions:
+- id: history.pep.selective-2.medicine-health.q1
+  stem: 下列哪一历史主题与材料描述最吻合：“经验积累形成针灸、本草等体系，其历史价值应置于当时知识条件评价”（ ）。
+  options:
+  - id: A
+    text: 近代西医发展
+  - id: B
+    text: 疫病与社会
+  - id: C
+    text: 公共卫生体系
+  - id: D
+    text: 传统医学成就
+  correct_option_id: D
+  explanation: 材料以“经验积累形成针灸、本草等体系，其历史价值应置于当时知识条件评价”为关键线索，指向“传统医学成就”。其余选项虽属同一章，但在时段、对象或核心机制上与材料不符。
+  difficulty: basic
+  tags:
+  - 医疗与公共卫生
+  - 传统医学成就
+  - 时空观念
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.medicine-health
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 11
+  question_type: single_choice
+  cognitive_level: understand
+  reasoning_steps: 1
+  estimated_time_seconds: 75
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.selective-2.medicine-health.q2
+  stem: 下列哪一历史主题与材料描述最吻合：“解剖、生理、细菌学和临床试验推动诊疗走向实验和证据体系”（ ）。
+  options:
+  - id: A
+    text: 公共卫生体系
+  - id: B
+    text: 现代医疗保障
+  - id: C
+    text: 近代西医发展
+  - id: D
+    text: 疫病与社会
+  correct_option_id: C
+  explanation: 材料以“解剖、生理、细菌学和临床试验推动诊疗走向实验和证据体系”为关键线索，指向“近代西医发展”。其余选项虽属同一章，但在时段、对象或核心机制上与材料不符。
+  difficulty: basic
+  tags:
+  - 医疗与公共卫生
+  - 近代西医发展
+  - 时空观念
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.medicine-health
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 11
+  question_type: single_choice
+  cognitive_level: apply
+  reasoning_steps: 1
+  estimated_time_seconds: 90
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.selective-2.medicine-health.q3
+  stem: 围绕“疫病与社会”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 经验积累形成针灸、本草等体系，其历史价值应置于当时知识条件评价
+  - id: B
+    text: 黑死病、天花等冲击人口经济，也促使隔离和防疫制度发展
+  - id: C
+    text: 清洁供水、疫苗接种和疾病监测把健康从个人诊疗扩展为公共治理
+  - id: D
+    text: 医保分担疾病经济风险并改善可及性，但仍需处理公平与成本问题
+  correct_option_id: B
+  explanation: “黑死病、天花等冲击人口经济，也促使隔离和防疫制度发展”准确概括了“疫病与社会”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: medium
+  tags:
+  - 医疗与公共卫生
+  - 疫病与社会
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.medicine-health
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 11
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 120
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.selective-2.medicine-health.q4
+  stem: 围绕“公共卫生体系”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 清洁供水、疫苗接种和疾病监测把健康从个人诊疗扩展为公共治理
+  - id: B
+    text: 医保分担疾病经济风险并改善可及性，但仍需处理公平与成本问题
+  - id: C
+    text: 经验积累形成针灸、本草等体系，其历史价值应置于当时知识条件评价
+  - id: D
+    text: 解剖、生理、细菌学和临床试验推动诊疗走向实验和证据体系
+  correct_option_id: A
+  explanation: “清洁供水、疫苗接种和疾病监测把健康从个人诊疗扩展为公共治理”准确概括了“公共卫生体系”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: medium
+  tags:
+  - 医疗与公共卫生
+  - 公共卫生体系
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.medicine-health
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 11
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 150
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.selective-2.medicine-health.q5
+  stem: 围绕“现代医疗保障”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 经验积累形成针灸、本草等体系，其历史价值应置于当时知识条件评价
+  - id: B
+    text: 解剖、生理、细菌学和临床试验推动诊疗走向实验和证据体系
+  - id: C
+    text: 黑死病、天花等冲击人口经济，也促使隔离和防疫制度发展
+  - id: D
+    text: 医保分担疾病经济风险并改善可及性，但仍需处理公平与成本问题
+  correct_option_id: D
+  explanation: “医保分担疾病经济风险并改善可及性，但仍需处理公平与成本问题”准确概括了“现代医疗保障”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: advanced
+  tags:
+  - 医疗与公共卫生
+  - 现代医疗保障
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.medicine-health
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 11
+  question_type: single_choice
+  cognitive_level: evaluate
+  reasoning_steps: 3
+  estimated_time_seconds: 210
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1

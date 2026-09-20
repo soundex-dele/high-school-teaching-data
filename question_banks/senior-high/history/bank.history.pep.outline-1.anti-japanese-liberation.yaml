@@ -1,0 +1,175 @@
+id: bank.history.pep.outline-1.anti-japanese-liberation
+subject: history
+education_stage: senior_high
+grade_scope:
+- 10
+curriculum_scopes:
+- pep-history-current
+canonical_knowledge_ids:
+- history.senior-high.anti-japanese-liberation
+questions:
+- id: history.pep.outline-1.anti-japanese-liberation.q1
+  stem: 下列哪一历史主题与材料描述最吻合：“局部侵华开始后，东北军民抵抗，但国民政府仍执行不抵抗政策”（ ）。
+  options:
+  - id: A
+    text: 全民族抗战形成
+  - id: B
+    text: 正面战场与敌后战场
+  - id: C
+    text: 抗日战争胜利及意义
+  - id: D
+    text: 九一八事变与局部抗战
+  correct_option_id: D
+  explanation: 材料以“局部侵华开始后，东北军民抵抗，但国民政府仍执行不抵抗政策”为关键线索，指向“九一八事变与局部抗战”。其余选项虽属同一章，但在时段、对象或核心机制上与材料不符。
+  difficulty: basic
+  tags:
+  - 中华民族的抗日战争和人民解放战争
+  - 九一八事变与局部抗战
+  - 时空观念
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.anti-japanese-liberation
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: understand
+  reasoning_steps: 1
+  estimated_time_seconds: 75
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.outline-1.anti-japanese-liberation.q2
+  stem: 下列哪一历史主题与材料描述最吻合：“民族矛盾上升为主要矛盾，国共实现第二次合作并建立统一战线”（ ）。
+  options:
+  - id: A
+    text: 抗日战争胜利及意义
+  - id: B
+    text: 人民解放战争进程
+  - id: C
+    text: 全民族抗战形成
+  - id: D
+    text: 正面战场与敌后战场
+  correct_option_id: C
+  explanation: 材料以“民族矛盾上升为主要矛盾，国共实现第二次合作并建立统一战线”为关键线索，指向“全民族抗战形成”。其余选项虽属同一章，但在时段、对象或核心机制上与材料不符。
+  difficulty: basic
+  tags:
+  - 中华民族的抗日战争和人民解放战争
+  - 全民族抗战形成
+  - 时空观念
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.anti-japanese-liberation
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: apply
+  reasoning_steps: 1
+  estimated_time_seconds: 90
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.outline-1.anti-japanese-liberation.q3
+  stem: 围绕“正面战场与敌后战场”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 局部侵华开始后，东北军民抵抗，但国民政府仍执行不抵抗政策
+  - id: B
+    text: 大规模会战牵制日军，敌后根据地则开展游击战，两者共同支撑持久抗战
+  - id: C
+    text: 中国战场长期抗击日本主力，并参与建立战后国际秩序
+  - id: D
+    text: 土地政策和群众路线赢得民心，战略决战后人民政权取得全国胜利
+  correct_option_id: B
+  explanation: “大规模会战牵制日军，敌后根据地则开展游击战，两者共同支撑持久抗战”准确概括了“正面战场与敌后战场”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: medium
+  tags:
+  - 中华民族的抗日战争和人民解放战争
+  - 正面战场与敌后战场
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.anti-japanese-liberation
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 120
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.outline-1.anti-japanese-liberation.q4
+  stem: 围绕“抗日战争胜利及意义”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 中国战场长期抗击日本主力，并参与建立战后国际秩序
+  - id: B
+    text: 土地政策和群众路线赢得民心，战略决战后人民政权取得全国胜利
+  - id: C
+    text: 局部侵华开始后，东北军民抵抗，但国民政府仍执行不抵抗政策
+  - id: D
+    text: 民族矛盾上升为主要矛盾，国共实现第二次合作并建立统一战线
+  correct_option_id: A
+  explanation: “中国战场长期抗击日本主力，并参与建立战后国际秩序”准确概括了“抗日战争胜利及意义”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: medium
+  tags:
+  - 中华民族的抗日战争和人民解放战争
+  - 抗日战争胜利及意义
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.anti-japanese-liberation
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 150
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.outline-1.anti-japanese-liberation.q5
+  stem: 围绕“人民解放战争进程”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 局部侵华开始后，东北军民抵抗，但国民政府仍执行不抵抗政策
+  - id: B
+    text: 民族矛盾上升为主要矛盾，国共实现第二次合作并建立统一战线
+  - id: C
+    text: 大规模会战牵制日军，敌后根据地则开展游击战，两者共同支撑持久抗战
+  - id: D
+    text: 土地政策和群众路线赢得民心，战略决战后人民政权取得全国胜利
+  correct_option_id: D
+  explanation: “土地政策和群众路线赢得民心，战略决战后人民政权取得全国胜利”准确概括了“人民解放战争进程”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: advanced
+  tags:
+  - 中华民族的抗日战争和人民解放战争
+  - 人民解放战争进程
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.anti-japanese-liberation
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: evaluate
+  reasoning_steps: 3
+  estimated_time_seconds: 210
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1

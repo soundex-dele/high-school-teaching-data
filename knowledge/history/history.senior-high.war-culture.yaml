@@ -1,0 +1,47 @@
+id: history.senior-high.war-culture
+subject: history
+education_stage: senior_high
+name: 战争与文化交锋
+summary: 本知识点围绕战争中的文化互动展开，重点是辩证分析战争对文化破坏、传播和重构的复杂影响，并能在新的问题情境中说明条件、过程与结论之间的联系。
+objectives:
+- 辩证分析战争对文化破坏、传播和重构的复杂影响
+- 能够识别典型条件并用规范语言说明判断依据
+prerequisites:
+- 初中阶段相关基础知识
+- 基本阅读、表达与推理能力
+common_mistakes:
+- 把战争影响简单概括为单向传播
+keywords:
+- 战争中的文化互动
+- 战争与文化交锋
+competency_tags:
+- 时空观念
+- 史料实证
+- 历史解释
+knowledge_items:
+- id: topic-1
+  type: event
+  name: 古代战争与区域文化
+  content: 围绕“古代战争与区域文化”梳理其时空背景、核心内容及其在“战争与文化交锋”历史进程中的作用。
+  review_status: self_checked
+- id: topic-2
+  type: concept
+  name: 蒙古西征
+  content: 围绕“蒙古西征”梳理其时空背景、核心内容及其在“战争与文化交锋”历史进程中的作用。
+  review_status: self_checked
+- id: topic-3
+  type: event
+  name: 近代殖民战争
+  content: 围绕“近代殖民战争”梳理其时空背景、核心内容及其在“战争与文化交锋”历史进程中的作用。
+  review_status: self_checked
+- id: topic-4
+  type: concept
+  name: 两次世界大战中的文化
+  content: 围绕“两次世界大战中的文化”梳理其时空背景、核心内容及其在“战争与文化交锋”历史进程中的作用。
+  review_status: self_checked
+- id: topic-5
+  type: event
+  name: 战争后的文化重构
+  content: 围绕“战争后的文化重构”梳理其时空背景、核心内容及其在“战争与文化交锋”历史进程中的作用。
+  review_status: self_checked
+review_status: self_checked

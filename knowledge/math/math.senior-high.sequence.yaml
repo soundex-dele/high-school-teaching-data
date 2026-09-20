@@ -1,0 +1,58 @@
+id: math.senior-high.sequence
+subject: math
+education_stage: senior_high
+name: 数列
+summary: 本知识点围绕数列及递推关系展开，重点是从函数观点研究数列，掌握等差、等比数列和常见求和方法，并能在新的问题情境中说明条件、过程与结论之间的联系。
+objectives:
+- 从函数观点研究数列，掌握等差、等比数列和常见求和方法
+- 能够识别典型条件并用规范语言说明判断依据
+prerequisites:
+- 初中阶段相关基础知识
+- 基本阅读、表达与推理能力
+common_mistakes:
+- 混淆项数、末项和下标
+keywords:
+- 数列及递推关系
+- 数列
+competency_tags:
+- 数学抽象
+- 逻辑推理
+knowledge_items:
+- id: general-term
+  type: concept
+  name: 数列与通项公式
+  content: 数列可看作定义在正整数集或其有限子集上的函数。
+  review_status: self_checked
+  formulas:
+  - a_n=f(n)
+- id: arithmetic
+  type: formula
+  name: 等差数列通项
+  content: 相邻两项之差为同一常数。
+  review_status: self_checked
+  formulas:
+  - a_n=a_1+(n-1)d
+- id: arithmetic-sum
+  type: formula
+  name: 等差数列前 n 项和
+  content: 首末项平均数乘项数得到前 n 项和。
+  review_status: self_checked
+  formulas:
+  - S_n=\frac{n(a_1+a_n)}2=na_1+\frac{n(n-1)}2d
+- id: geometric
+  type: formula
+  name: 等比数列通项
+  content: 从第二项起后一项与前一项之比为同一非零常数。
+  review_status: self_checked
+  formulas:
+  - a_n=a_1q^{n-1}
+- id: geometric-sum
+  type: formula
+  name: 等比数列前 n 项和
+  content: 公比不为 1 时使用等比求和公式。
+  review_status: self_checked
+  formulas:
+  - S_n=\frac{a_1(1-q^n)}{1-q}
+  conditions:
+  - q\ne1
+review_status: self_checked

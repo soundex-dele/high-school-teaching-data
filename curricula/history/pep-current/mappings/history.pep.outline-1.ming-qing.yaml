@@ -1,0 +1,16 @@
+id: history.pep.outline-1.ming-qing
+canonical_id: history.senior-high.ming-qing
+curriculum_id: pep-history-current
+subject: history
+education_stage: senior_high
+grade_scope:
+- 10
+semester_scope: first
+display_name: 明清中国版图的奠定与面临的挑战
+reference:
+  publisher: 人民教育出版社
+  edition_scope: 现行普通高中教科书
+  chapter: 中外历史纲要（上）·明清中国版图的奠定与面临的挑战
+question_bank_ids:
+- bank.history.pep.outline-1.ming-qing
+review_status: self_checked

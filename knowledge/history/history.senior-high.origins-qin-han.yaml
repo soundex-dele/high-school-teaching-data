@@ -1,0 +1,47 @@
+id: history.senior-high.origins-qin-han
+subject: history
+education_stage: senior_high
+name: 从中华文明起源到秦汉统一多民族封建国家的建立与巩固
+summary: 本知识点围绕早期国家到秦汉统一展开，重点是从多元一体文明起源、制度演进和统一国家形成理解中华文明早期发展，并能在新的问题情境中说明条件、过程与结论之间的联系。
+objectives:
+- 从多元一体文明起源、制度演进和统一国家形成理解中华文明早期发展
+- 能够识别典型条件并用规范语言说明判断依据
+prerequisites:
+- 初中阶段相关基础知识
+- 基本阅读、表达与推理能力
+common_mistakes:
+- 只记年代而忽视统一多民族国家形成的历史联系
+keywords:
+- 早期国家到秦汉统一
+- 从中华文明起源到秦汉统一多民族封建国家的建立与巩固
+competency_tags:
+- 时空观念
+- 史料实证
+- 历史解释
+knowledge_items:
+- id: topic-1
+  type: concept
+  name: 中华文明多元一体起源
+  content: 围绕“中华文明多元一体起源”梳理其时空背景、核心内容及其在“从中华文明起源到秦汉统一多民族封建国家的建立与巩固”历史进程中的作用。
+  review_status: self_checked
+- id: topic-2
+  type: concept
+  name: 夏商周早期国家
+  content: 围绕“夏商周早期国家”梳理其时空背景、核心内容及其在“从中华文明起源到秦汉统一多民族封建国家的建立与巩固”历史进程中的作用。
+  review_status: self_checked
+- id: topic-3
+  type: concept
+  name: 春秋战国社会变革
+  content: 围绕“春秋战国社会变革”梳理其时空背景、核心内容及其在“从中华文明起源到秦汉统一多民族封建国家的建立与巩固”历史进程中的作用。
+  review_status: self_checked
+- id: topic-4
+  type: concept
+  name: 秦朝统一与中央集权
+  content: 围绕“秦朝统一与中央集权”梳理其时空背景、核心内容及其在“从中华文明起源到秦汉统一多民族封建国家的建立与巩固”历史进程中的作用。
+  review_status: self_checked
+- id: topic-5
+  type: process
+  name: 汉代大一统巩固
+  content: 围绕“汉代大一统巩固”梳理其时空背景、核心内容及其在“从中华文明起源到秦汉统一多民族封建国家的建立与巩固”历史进程中的作用。
+  review_status: self_checked
+review_status: self_checked

@@ -1,0 +1,170 @@
+id: bank.math.xj.required-2.vector
+subject: math
+education_stage: senior_high
+grade_scope:
+- 10
+curriculum_scopes:
+- xj-math-current
+canonical_knowledge_ids:
+- math.senior-high.vector
+questions:
+- id: math.xj.required-2.vector.q1
+  stem: 向量 a=(1,2)，b=(-2,3)，则 a+b 等于（ ）。
+  options:
+  - id: A
+    text: (3,-1)
+  - id: B
+    text: (-2,6)
+  - id: C
+    text: (1,5)
+  - id: D
+    text: (-1,5)
+  correct_option_id: D
+  explanation: 向量加法按对应坐标相加，得 (1-2,2+3)=(-1,5)。
+  difficulty: basic
+  tags:
+  - 平面向量及其应用
+  - 概念与运算
+  source_type: original
+  knowledge_point_ids:
+  - math.senior-high.vector
+  curriculum_scopes:
+  - xj-math-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: understand
+  reasoning_steps: 1
+  estimated_time_seconds: 60
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: math.xj.required-2.vector.q2
+  stem: 若非零向量 a 与 b 满足 a·b=0，则（ ）。
+  options:
+  - id: A
+    text: '|a|=|b|'
+  - id: B
+    text: a=-b
+  - id: C
+    text: a⊥b
+  - id: D
+    text: a∥b
+  correct_option_id: C
+  explanation: 非零向量数量积为 0 等价于两向量垂直。
+  difficulty: basic
+  tags:
+  - 平面向量及其应用
+  - 概念与运算
+  source_type: original
+  knowledge_point_ids:
+  - math.senior-high.vector
+  curriculum_scopes:
+  - xj-math-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: apply
+  reasoning_steps: 1
+  estimated_time_seconds: 75
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: math.xj.required-2.vector.q3
+  stem: 已知 |a|=2，|b|=3，a 与 b 的夹角为 60°，则 a·b 等于（ ）。
+  options:
+  - id: A
+    text: '-3'
+  - id: B
+    text: '3'
+  - id: C
+    text: 3√3
+  - id: D
+    text: '6'
+  correct_option_id: B
+  explanation: a·b=|a||b|cos60°=2×3×1/2=3。
+  difficulty: medium
+  tags:
+  - 平面向量及其应用
+  - 计算与推理
+  source_type: original
+  knowledge_point_ids:
+  - math.senior-high.vector
+  curriculum_scopes:
+  - xj-math-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 120
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: math.xj.required-2.vector.q4
+  stem: 点 A(1,1)、B(3,2)、C(5,3) 的位置关系是（ ）。
+  options:
+  - id: A
+    text: 三点共线且 B 为 AC 中点
+  - id: B
+    text: 三点不共线
+  - id: C
+    text: A 在线段 BC 外
+  - id: D
+    text: AB⊥BC
+  correct_option_id: A
+  explanation: 向量 AB=(2,1)，BC=(2,1)，所以三点共线且 AB=BC，B 是 AC 的中点。
+  difficulty: medium
+  tags:
+  - 平面向量及其应用
+  - 计算与推理
+  source_type: original
+  knowledge_point_ids:
+  - math.senior-high.vector
+  curriculum_scopes:
+  - xj-math-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 150
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: math.xj.required-2.vector.q5
+  stem: 在△ABC中，AB向量=a，AC向量=b，点 M 满足 AM向量=(a+b)/2，则 M 是（ ）。
+  options:
+  - id: A
+    text: 重心
+  - id: B
+    text: 垂心
+  - id: C
+    text: 边 AB 的中点
+  - id: D
+    text: 边 BC 的中点
+  correct_option_id: D
+  explanation: BC 中点的位置向量相对于 A 正是 (AB向量+AC向量)/2。
+  difficulty: advanced
+  tags:
+  - 平面向量及其应用
+  - 计算与推理
+  source_type: original
+  knowledge_point_ids:
+  - math.senior-high.vector
+  curriculum_scopes:
+  - xj-math-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: evaluate
+  reasoning_steps: 3
+  estimated_time_seconds: 240
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1

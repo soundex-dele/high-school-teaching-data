@@ -1,0 +1,16 @@
+id: history.pep.outline-1.republic
+canonical_id: history.senior-high.republic
+curriculum_id: pep-history-current
+subject: history
+education_stage: senior_high
+grade_scope:
+- 10
+semester_scope: first
+display_name: 辛亥革命与中华民国的建立
+reference:
+  publisher: 人民教育出版社
+  edition_scope: 现行普通高中教科书
+  chapter: 中外历史纲要（上）·辛亥革命与中华民国的建立
+question_bank_ids:
+- bank.history.pep.outline-1.republic
+review_status: self_checked

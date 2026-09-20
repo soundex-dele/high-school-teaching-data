@@ -1,0 +1,47 @@
+id: history.senior-high.transport
+subject: history
+education_stage: senior_high
+name: 交通与社会变迁
+summary: 本知识点围绕交通网络与社会联系展开，重点是认识交通工具和道路网络对经济、政治与文化交流的影响，并能在新的问题情境中说明条件、过程与结论之间的联系。
+objectives:
+- 认识交通工具和道路网络对经济、政治与文化交流的影响
+- 能够识别典型条件并用规范语言说明判断依据
+prerequisites:
+- 初中阶段相关基础知识
+- 基本阅读、表达与推理能力
+common_mistakes:
+- 只讨论速度而忽略空间联系重组
+keywords:
+- 交通网络与社会联系
+- 交通与社会变迁
+competency_tags:
+- 时空观念
+- 史料实证
+- 历史解释
+knowledge_items:
+- id: topic-1
+  type: concept
+  name: 古代陆路交通
+  content: 围绕“古代陆路交通”梳理其时空背景、核心内容及其在“交通与社会变迁”历史进程中的作用。
+  review_status: self_checked
+- id: topic-2
+  type: concept
+  name: 古代水路与海路
+  content: 围绕“古代水路与海路”梳理其时空背景、核心内容及其在“交通与社会变迁”历史进程中的作用。
+  review_status: self_checked
+- id: topic-3
+  type: concept
+  name: 铁路与轮船
+  content: 围绕“铁路与轮船”梳理其时空背景、核心内容及其在“交通与社会变迁”历史进程中的作用。
+  review_status: self_checked
+- id: topic-4
+  type: concept
+  name: 汽车航空与高速交通
+  content: 围绕“汽车航空与高速交通”梳理其时空背景、核心内容及其在“交通与社会变迁”历史进程中的作用。
+  review_status: self_checked
+- id: topic-5
+  type: impact
+  name: 交通对社会变迁的影响
+  content: 围绕“交通对社会变迁的影响”梳理其时空背景、核心内容及其在“交通与社会变迁”历史进程中的作用。
+  review_status: self_checked
+review_status: self_checked

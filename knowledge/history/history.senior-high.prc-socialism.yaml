@@ -1,0 +1,47 @@
+id: history.senior-high.prc-socialism
+subject: history
+education_stage: senior_high
+name: 中华人民共和国成立和社会主义革命与建设
+summary: 本知识点围绕新中国建立与社会主义建设展开，重点是认识政权巩固、制度建立和建设探索的成就、曲折及经验，并能在新的问题情境中说明条件、过程与结论之间的联系。
+objectives:
+- 认识政权巩固、制度建立和建设探索的成就、曲折及经验
+- 能够识别典型条件并用规范语言说明判断依据
+prerequisites:
+- 初中阶段相关基础知识
+- 基本阅读、表达与推理能力
+common_mistakes:
+- 割裂成就、曲折与探索背景
+keywords:
+- 新中国建立与社会主义建设
+- 中华人民共和国成立和社会主义革命与建设
+competency_tags:
+- 时空观念
+- 史料实证
+- 历史解释
+knowledge_items:
+- id: topic-1
+  type: concept
+  name: 中华人民共和国成立
+  content: 围绕“中华人民共和国成立”梳理其时空背景、核心内容及其在“中华人民共和国成立和社会主义革命与建设”历史进程中的作用。
+  review_status: self_checked
+- id: topic-2
+  type: process
+  name: 人民政权巩固
+  content: 围绕“人民政权巩固”梳理其时空背景、核心内容及其在“中华人民共和国成立和社会主义革命与建设”历史进程中的作用。
+  review_status: self_checked
+- id: topic-3
+  type: institution
+  name: 社会主义基本制度建立
+  content: 围绕“社会主义基本制度建立”梳理其时空背景、核心内容及其在“中华人民共和国成立和社会主义革命与建设”历史进程中的作用。
+  review_status: self_checked
+- id: topic-4
+  type: process
+  name: 全面建设社会主义探索
+  content: 围绕“全面建设社会主义探索”梳理其时空背景、核心内容及其在“中华人民共和国成立和社会主义革命与建设”历史进程中的作用。
+  review_status: self_checked
+- id: topic-5
+  type: impact
+  name: 社会主义建设成就与经验
+  content: 围绕“社会主义建设成就与经验”梳理其时空背景、核心内容及其在“中华人民共和国成立和社会主义革命与建设”历史进程中的作用。
+  review_status: self_checked
+review_status: self_checked

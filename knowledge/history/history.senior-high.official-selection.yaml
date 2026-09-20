@@ -1,0 +1,47 @@
+id: history.senior-high.official-selection
+subject: history
+education_stage: senior_high
+name: 官员的选拔与管理
+summary: 本知识点围绕选官与官员管理展开，重点是梳理中外官员选拔、考核和监察制度的演进与影响，并能在新的问题情境中说明条件、过程与结论之间的联系。
+objectives:
+- 梳理中外官员选拔、考核和监察制度的演进与影响
+- 能够识别典型条件并用规范语言说明判断依据
+prerequisites:
+- 初中阶段相关基础知识
+- 基本阅读、表达与推理能力
+common_mistakes:
+- 把制度规定等同于实际执行效果
+keywords:
+- 选官与官员管理
+- 官员的选拔与管理
+competency_tags:
+- 时空观念
+- 史料实证
+- 历史解释
+knowledge_items:
+- id: topic-1
+  type: concept
+  name: 察举制与九品中正制
+  content: 围绕“察举制与九品中正制”梳理其时空背景、核心内容及其在“官员的选拔与管理”历史进程中的作用。
+  review_status: self_checked
+- id: topic-2
+  type: concept
+  name: 科举制
+  content: 围绕“科举制”梳理其时空背景、核心内容及其在“官员的选拔与管理”历史进程中的作用。
+  review_status: self_checked
+- id: topic-3
+  type: concept
+  name: 古代官员考核监察
+  content: 围绕“古代官员考核监察”梳理其时空背景、核心内容及其在“官员的选拔与管理”历史进程中的作用。
+  review_status: self_checked
+- id: topic-4
+  type: institution
+  name: 西方文官制度
+  content: 围绕“西方文官制度”梳理其时空背景、核心内容及其在“官员的选拔与管理”历史进程中的作用。
+  review_status: self_checked
+- id: topic-5
+  type: institution
+  name: 近现代中国公务员制度
+  content: 围绕“近现代中国公务员制度”梳理其时空背景、核心内容及其在“官员的选拔与管理”历史进程中的作用。
+  review_status: self_checked
+review_status: self_checked

@@ -1,0 +1,170 @@
+id: bank.math.xj.required-1.sets-logic
+subject: math
+education_stage: senior_high
+grade_scope:
+- 10
+curriculum_scopes:
+- xj-math-current
+canonical_knowledge_ids:
+- math.senior-high.sets-logic
+questions:
+- id: math.xj.required-1.sets-logic.q1
+  stem: 已知集合 A={1,2,3}，B={2,3,4}，则 A∩B 等于（ ）。
+  options:
+  - id: A
+    text: '{1,2,4}'
+  - id: B
+    text: '{2,3}'
+  - id: C
+    text: '{1,4}'
+  - id: D
+    text: '{1,2,3,4}'
+  correct_option_id: B
+  explanation: 交集只保留同时属于 A 和 B 的元素，所以 A∩B={2,3}。
+  difficulty: basic
+  tags:
+  - 集合与常用逻辑用语
+  - 概念与运算
+  source_type: original
+  knowledge_point_ids:
+  - math.senior-high.sets-logic
+  curriculum_scopes:
+  - xj-math-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: understand
+  reasoning_steps: 1
+  estimated_time_seconds: 60
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: math.xj.required-1.sets-logic.q2
+  stem: 命题 p：x>2，q：x²>4（x∈R）。p 是 q 的（ ）。
+  options:
+  - id: A
+    text: 充分不必要条件
+  - id: B
+    text: 必要不充分条件
+  - id: C
+    text: 充要条件
+  - id: D
+    text: 既不充分也不必要条件
+  correct_option_id: A
+  explanation: x>2 一定推出 x²>4；但 x=-3 时 q 成立而 p 不成立，因此 p 是 q 的充分不必要条件。
+  difficulty: basic
+  tags:
+  - 集合与常用逻辑用语
+  - 概念与运算
+  source_type: original
+  knowledge_point_ids:
+  - math.senior-high.sets-logic
+  curriculum_scopes:
+  - xj-math-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: apply
+  reasoning_steps: 1
+  estimated_time_seconds: 75
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: math.xj.required-1.sets-logic.q3
+  stem: 已知全集 U=R，A={x|x≤1}，则 A 的补集为（ ）。
+  options:
+  - id: A
+    text: '{x|x≥1}'
+  - id: B
+    text: '{x|x<1}'
+  - id: C
+    text: '{x|x≠1}'
+  - id: D
+    text: '{x|x>1}'
+  correct_option_id: D
+  explanation: 补集包含所有不属于 A 的实数；端点 1 已属于 A，因此补集为 x>1。
+  difficulty: medium
+  tags:
+  - 集合与常用逻辑用语
+  - 计算与推理
+  source_type: original
+  knowledge_point_ids:
+  - math.senior-high.sets-logic
+  curriculum_scopes:
+  - xj-math-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 120
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: math.xj.required-1.sets-logic.q4
+  stem: 若 A⊆B，B⊆C，且存在元素 c∈C 但 c∉A，则一定正确的是（ ）。
+  options:
+  - id: A
+    text: B=C
+  - id: B
+    text: c∉B
+  - id: C
+    text: A⊂C
+  - id: D
+    text: A=C
+  correct_option_id: C
+  explanation: 由传递性得 A⊆C，又存在 C 中元素不属于 A，所以 A 是 C 的真子集。
+  difficulty: medium
+  tags:
+  - 集合与常用逻辑用语
+  - 计算与推理
+  source_type: original
+  knowledge_point_ids:
+  - math.senior-high.sets-logic
+  curriculum_scopes:
+  - xj-math-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 150
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: math.xj.required-1.sets-logic.q5
+  stem: 命题“对任意实数 x，都有 x²+x+1>0”的否定是（ ）。
+  options:
+  - id: A
+    text: 对任意实数 x，都有 x²+x+1≠0
+  - id: B
+    text: 存在实数 x，使 x²+x+1≤0
+  - id: C
+    text: 对任意实数 x，都有 x²+x+1≤0
+  - id: D
+    text: 存在实数 x，使 x²+x+1>0
+  correct_option_id: B
+  explanation: 全称命题的否定是存在性命题，同时否定结论；“>0”的否定是“≤0”。
+  difficulty: advanced
+  tags:
+  - 集合与常用逻辑用语
+  - 计算与推理
+  source_type: original
+  knowledge_point_ids:
+  - math.senior-high.sets-logic
+  curriculum_scopes:
+  - xj-math-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: evaluate
+  reasoning_steps: 3
+  estimated_time_seconds: 240
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1

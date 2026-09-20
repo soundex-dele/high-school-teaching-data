@@ -1,0 +1,175 @@
+id: bank.history.pep.selective-1.political-systems
+subject: history
+education_stage: senior_high
+grade_scope:
+- 11
+curriculum_scopes:
+- pep-history-current
+canonical_knowledge_ids:
+- history.senior-high.political-systems
+questions:
+- id: history.pep.selective-1.political-systems.q1
+  stem: 下列哪一历史主题与材料描述最吻合：“郡县制取代分封趋势，中央官制与地方治理共同服务大一统国家”（ ）。
+  options:
+  - id: A
+    text: 隋唐到明清政治制度
+  - id: B
+    text: 古希腊罗马政治制度
+  - id: C
+    text: 近代西方政治制度
+  - id: D
+    text: 先秦到秦汉政治制度
+  correct_option_id: D
+  explanation: 材料以“郡县制取代分封趋势，中央官制与地方治理共同服务大一统国家”为关键线索，指向“先秦到秦汉政治制度”。其余选项虽属同一章，但在时段、对象或核心机制上与材料不符。
+  difficulty: basic
+  tags:
+  - 政治制度
+  - 先秦到秦汉政治制度
+  - 时空观念
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.political-systems
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 11
+  question_type: single_choice
+  cognitive_level: understand
+  reasoning_steps: 1
+  estimated_time_seconds: 75
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.selective-1.political-systems.q2
+  stem: 下列哪一历史主题与材料描述最吻合：“中枢机构不断调整，相权被分割直至废除，君主权力总体强化”（ ）。
+  options:
+  - id: A
+    text: 近代西方政治制度
+  - id: B
+    text: 近现代中国政治制度
+  - id: C
+    text: 隋唐到明清政治制度
+  - id: D
+    text: 古希腊罗马政治制度
+  correct_option_id: C
+  explanation: 材料以“中枢机构不断调整，相权被分割直至废除，君主权力总体强化”为关键线索，指向“隋唐到明清政治制度”。其余选项虽属同一章，但在时段、对象或核心机制上与材料不符。
+  difficulty: basic
+  tags:
+  - 政治制度
+  - 隋唐到明清政治制度
+  - 时空观念
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.political-systems
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 11
+  question_type: single_choice
+  cognitive_level: apply
+  reasoning_steps: 1
+  estimated_time_seconds: 90
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.selective-1.political-systems.q3
+  stem: 围绕“古希腊罗马政治制度”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 郡县制取代分封趋势，中央官制与地方治理共同服务大一统国家
+  - id: B
+    text: 雅典公民直接参与而罗马发展法律治理，两者都受特定公民范围限制
+  - id: C
+    text: 代议制在不同国情下形成君主立宪或共和等多种制度形态
+  - id: D
+    text: 近代制度探索从共和受挫到人民代表大会制度建立，反映道路选择变化
+  correct_option_id: B
+  explanation: “雅典公民直接参与而罗马发展法律治理，两者都受特定公民范围限制”准确概括了“古希腊罗马政治制度”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: medium
+  tags:
+  - 政治制度
+  - 古希腊罗马政治制度
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.political-systems
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 11
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 120
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.selective-1.political-systems.q4
+  stem: 围绕“近代西方政治制度”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 代议制在不同国情下形成君主立宪或共和等多种制度形态
+  - id: B
+    text: 近代制度探索从共和受挫到人民代表大会制度建立，反映道路选择变化
+  - id: C
+    text: 郡县制取代分封趋势，中央官制与地方治理共同服务大一统国家
+  - id: D
+    text: 中枢机构不断调整，相权被分割直至废除，君主权力总体强化
+  correct_option_id: A
+  explanation: “代议制在不同国情下形成君主立宪或共和等多种制度形态”准确概括了“近代西方政治制度”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: medium
+  tags:
+  - 政治制度
+  - 近代西方政治制度
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.political-systems
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 11
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 150
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.selective-1.political-systems.q5
+  stem: 围绕“近现代中国政治制度”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 郡县制取代分封趋势，中央官制与地方治理共同服务大一统国家
+  - id: B
+    text: 中枢机构不断调整，相权被分割直至废除，君主权力总体强化
+  - id: C
+    text: 雅典公民直接参与而罗马发展法律治理，两者都受特定公民范围限制
+  - id: D
+    text: 近代制度探索从共和受挫到人民代表大会制度建立，反映道路选择变化
+  correct_option_id: D
+  explanation: “近代制度探索从共和受挫到人民代表大会制度建立，反映道路选择变化”准确概括了“近现代中国政治制度”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: advanced
+  tags:
+  - 政治制度
+  - 近现代中国政治制度
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.political-systems
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 11
+  question_type: single_choice
+  cognitive_level: evaluate
+  reasoning_steps: 3
+  estimated_time_seconds: 210
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1

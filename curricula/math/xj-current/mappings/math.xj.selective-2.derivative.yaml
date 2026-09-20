@@ -1,0 +1,16 @@
+id: math.xj.selective-2.derivative
+canonical_id: math.senior-high.derivative
+curriculum_id: xj-math-current
+subject: math
+education_stage: senior_high
+grade_scope:
+- 11
+semester_scope: second
+display_name: 一元函数的导数及其应用
+reference:
+  publisher: 湖南教育出版社
+  edition_scope: 现行普通高中教科书
+  chapter: 选择性必修第二册·一元函数的导数及其应用
+question_bank_ids:
+- bank.math.xj.selective-2.derivative
+review_status: self_checked

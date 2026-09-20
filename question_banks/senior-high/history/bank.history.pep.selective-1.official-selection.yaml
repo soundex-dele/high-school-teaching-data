@@ -1,0 +1,175 @@
+id: bank.history.pep.selective-1.official-selection
+subject: history
+education_stage: senior_high
+grade_scope:
+- 11
+curriculum_scopes:
+- pep-history-current
+canonical_knowledge_ids:
+- history.senior-high.official-selection
+questions:
+- id: history.pep.selective-1.official-selection.q1
+  stem: 下列哪一历史主题与材料描述最吻合：“从军功授爵、察举到九品中正，选官标准在才能、品行和门第间变化”（ ）。
+  options:
+  - id: A
+    text: 西方文官制度
+  - id: B
+    text: 察举制与九品中正制
+  - id: C
+    text: 科举制
+  - id: D
+    text: 古代官员考核监察
+  correct_option_id: B
+  explanation: 材料以“从军功授爵、察举到九品中正，选官标准在才能、品行和门第间变化”为关键线索，指向“察举制与九品中正制”。其余选项虽属同一章，但在时段、对象或核心机制上与材料不符。
+  difficulty: basic
+  tags:
+  - 官员的选拔与管理
+  - 察举制与九品中正制
+  - 时空观念
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.official-selection
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 11
+  question_type: single_choice
+  cognitive_level: understand
+  reasoning_steps: 1
+  estimated_time_seconds: 75
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.selective-1.official-selection.q2
+  stem: 下列哪一历史主题与材料描述最吻合：“以考试选拔官员扩大统治基础，却也可能造成应试化和思想束缚”（ ）。
+  options:
+  - id: A
+    text: 科举制
+  - id: B
+    text: 古代官员考核监察
+  - id: C
+    text: 西方文官制度
+  - id: D
+    text: 近现代中国公务员制度
+  correct_option_id: A
+  explanation: 材料以“以考试选拔官员扩大统治基础，却也可能造成应试化和思想束缚”为关键线索，指向“科举制”。其余选项虽属同一章，但在时段、对象或核心机制上与材料不符。
+  difficulty: basic
+  tags:
+  - 官员的选拔与管理
+  - 科举制
+  - 时空观念
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.official-selection
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 11
+  question_type: single_choice
+  cognitive_level: apply
+  reasoning_steps: 1
+  estimated_time_seconds: 90
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.selective-1.official-selection.q3
+  stem: 围绕“古代官员考核监察”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 常任文官通过考试进入政府并保持政治中立，以维持行政连续性
+  - id: B
+    text: 公务员制度强调公开考试、分类管理与为人民服务，具有本国政治属性
+  - id: C
+    text: 从军功授爵、察举到九品中正，选官标准在才能、品行和门第间变化
+  - id: D
+    text: 考课衡量政绩，御史等监察权力运行，但实际效果受政治环境制约
+  correct_option_id: D
+  explanation: “考课衡量政绩，御史等监察权力运行，但实际效果受政治环境制约”准确概括了“古代官员考核监察”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: medium
+  tags:
+  - 官员的选拔与管理
+  - 古代官员考核监察
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.official-selection
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 11
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 120
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.selective-1.official-selection.q4
+  stem: 围绕“西方文官制度”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 从军功授爵、察举到九品中正，选官标准在才能、品行和门第间变化
+  - id: B
+    text: 以考试选拔官员扩大统治基础，却也可能造成应试化和思想束缚
+  - id: C
+    text: 常任文官通过考试进入政府并保持政治中立，以维持行政连续性
+  - id: D
+    text: 公务员制度强调公开考试、分类管理与为人民服务，具有本国政治属性
+  correct_option_id: C
+  explanation: “常任文官通过考试进入政府并保持政治中立，以维持行政连续性”准确概括了“西方文官制度”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: medium
+  tags:
+  - 官员的选拔与管理
+  - 西方文官制度
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.official-selection
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 11
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 150
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.selective-1.official-selection.q5
+  stem: 围绕“近现代中国公务员制度”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 考课衡量政绩，御史等监察权力运行，但实际效果受政治环境制约
+  - id: B
+    text: 公务员制度强调公开考试、分类管理与为人民服务，具有本国政治属性
+  - id: C
+    text: 从军功授爵、察举到九品中正，选官标准在才能、品行和门第间变化
+  - id: D
+    text: 以考试选拔官员扩大统治基础，却也可能造成应试化和思想束缚
+  correct_option_id: B
+  explanation: “公务员制度强调公开考试、分类管理与为人民服务，具有本国政治属性”准确概括了“近现代中国公务员制度”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: advanced
+  tags:
+  - 官员的选拔与管理
+  - 近现代中国公务员制度
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.official-selection
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 11
+  question_type: single_choice
+  cognitive_level: evaluate
+  reasoning_steps: 3
+  estimated_time_seconds: 210
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1

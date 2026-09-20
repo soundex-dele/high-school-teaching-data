@@ -1,0 +1,170 @@
+id: bank.math.xj.selective-2.counting
+subject: math
+education_stage: senior_high
+grade_scope:
+- 11
+curriculum_scopes:
+- xj-math-current
+canonical_knowledge_ids:
+- math.senior-high.counting
+questions:
+- id: math.xj.selective-2.counting.q1
+  stem: 从 4 本不同的书中任选 2 本，共有（ ）种选法。
+  options:
+  - id: A
+    text: '6'
+  - id: B
+    text: '4'
+  - id: C
+    text: '8'
+  - id: D
+    text: '12'
+  correct_option_id: A
+  explanation: 只选不排次序，选法数为 C(4,2)=6。
+  difficulty: basic
+  tags:
+  - 计数原理
+  - 概念与运算
+  source_type: original
+  knowledge_point_ids:
+  - math.senior-high.counting
+  curriculum_scopes:
+  - xj-math-current
+  education_stage: senior_high
+  grade_scope:
+  - 11
+  question_type: single_choice
+  cognitive_level: understand
+  reasoning_steps: 1
+  estimated_time_seconds: 60
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: math.xj.selective-2.counting.q2
+  stem: 用数字 1,2,3 组成无重复数字的三位数，共有（ ）个。
+  options:
+  - id: A
+    text: '3'
+  - id: B
+    text: '8'
+  - id: C
+    text: '9'
+  - id: D
+    text: '6'
+  correct_option_id: D
+  explanation: 三个不同数字全排列，共有 3!=6 个。
+  difficulty: basic
+  tags:
+  - 计数原理
+  - 概念与运算
+  source_type: original
+  knowledge_point_ids:
+  - math.senior-high.counting
+  curriculum_scopes:
+  - xj-math-current
+  education_stage: senior_high
+  grade_scope:
+  - 11
+  question_type: single_choice
+  cognitive_level: apply
+  reasoning_steps: 1
+  estimated_time_seconds: 75
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: math.xj.selective-2.counting.q3
+  stem: 5 人排成一排，甲、乙必须相邻，共有（ ）种排法。
+  options:
+  - id: A
+    text: '36'
+  - id: B
+    text: '60'
+  - id: C
+    text: '48'
+  - id: D
+    text: '24'
+  correct_option_id: C
+  explanation: 把甲乙看成一个整体，与其余 3 人共 4 个对象排列，再乘甲乙内部 2 种次序，得 4!×2=48。
+  difficulty: medium
+  tags:
+  - 计数原理
+  - 计算与推理
+  source_type: original
+  knowledge_point_ids:
+  - math.senior-high.counting
+  curriculum_scopes:
+  - xj-math-current
+  education_stage: senior_high
+  grade_scope:
+  - 11
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 120
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: math.xj.selective-2.counting.q4
+  stem: 从 3 名男生、3 名女生中选 3 人，至少有 1 名女生的选法数为（ ）。
+  options:
+  - id: A
+    text: '21'
+  - id: B
+    text: '19'
+  - id: C
+    text: '18'
+  - id: D
+    text: '20'
+  correct_option_id: B
+  explanation: 总选法 C(6,3)=20，减去全为男生的 1 种，得到 19。
+  difficulty: medium
+  tags:
+  - 计数原理
+  - 计算与推理
+  source_type: original
+  knowledge_point_ids:
+  - math.senior-high.counting
+  curriculum_scopes:
+  - xj-math-current
+  education_stage: senior_high
+  grade_scope:
+  - 11
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 150
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: math.xj.selective-2.counting.q5
+  stem: 把 6 个相同小球放入 3 个不同盒子，每盒至少 1 个，共有（ ）种放法。
+  options:
+  - id: A
+    text: '10'
+  - id: B
+    text: '6'
+  - id: C
+    text: '15'
+  - id: D
+    text: '20'
+  correct_option_id: A
+  explanation: 令每盒球数为正整数，转化为 x₁+x₂+x₃=6 的正整数解，插板法得 C(5,2)=10。
+  difficulty: advanced
+  tags:
+  - 计数原理
+  - 计算与推理
+  source_type: original
+  knowledge_point_ids:
+  - math.senior-high.counting
+  curriculum_scopes:
+  - xj-math-current
+  education_stage: senior_high
+  grade_scope:
+  - 11
+  question_type: single_choice
+  cognitive_level: evaluate
+  reasoning_steps: 3
+  estimated_time_seconds: 240
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1

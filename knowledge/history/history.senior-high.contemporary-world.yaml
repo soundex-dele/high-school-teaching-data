@@ -1,0 +1,47 @@
+id: history.senior-high.contemporary-world
+subject: history
+education_stage: senior_high
+name: 当代世界发展的特点与主要趋势
+summary: 本知识点围绕多极化与全球化展开，重点是从和平发展、全球治理和人类共同挑战认识当代世界趋势，并能在新的问题情境中说明条件、过程与结论之间的联系。
+objectives:
+- 从和平发展、全球治理和人类共同挑战认识当代世界趋势
+- 能够识别典型条件并用规范语言说明判断依据
+prerequisites:
+- 初中阶段相关基础知识
+- 基本阅读、表达与推理能力
+common_mistakes:
+- 把趋势等同于已经完成的固定格局
+keywords:
+- 多极化与全球化
+- 当代世界发展的特点与主要趋势
+competency_tags:
+- 时空观念
+- 史料实证
+- 历史解释
+knowledge_items:
+- id: topic-1
+  type: concept
+  name: 世界多极化趋势
+  content: 围绕“世界多极化趋势”梳理其时空背景、核心内容及其在“当代世界发展的特点与主要趋势”历史进程中的作用。
+  review_status: self_checked
+- id: topic-2
+  type: concept
+  name: 经济全球化
+  content: 围绕“经济全球化”梳理其时空背景、核心内容及其在“当代世界发展的特点与主要趋势”历史进程中的作用。
+  review_status: self_checked
+- id: topic-3
+  type: concept
+  name: 社会信息化与文化多样性
+  content: 围绕“社会信息化与文化多样性”梳理其时空背景、核心内容及其在“当代世界发展的特点与主要趋势”历史进程中的作用。
+  review_status: self_checked
+- id: topic-4
+  type: institution
+  name: 全球治理体系
+  content: 围绕“全球治理体系”梳理其时空背景、核心内容及其在“当代世界发展的特点与主要趋势”历史进程中的作用。
+  review_status: self_checked
+- id: topic-5
+  type: impact
+  name: 人类面临的共同挑战
+  content: 围绕“人类面临的共同挑战”梳理其时空背景、核心内容及其在“当代世界发展的特点与主要趋势”历史进程中的作用。
+  review_status: self_checked
+review_status: self_checked

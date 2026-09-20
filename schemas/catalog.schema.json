@@ -4,7 +4,7 @@
   "required": ["curriculum_id", "subject", "volumes"],
   "properties": {
     "curriculum_id": {"type": "string", "minLength": 1},
-    "subject": {"enum": ["math", "history"]},
+    "subject": {"type": "string", "pattern": "^[a-z][a-z0-9-]*$"},
     "volumes": {
       "type": "array",
       "minItems": 1,

@@ -1,0 +1,175 @@
+id: bank.history.pep.outline-1.song-yuan
+subject: history
+education_stage: senior_high
+grade_scope:
+- 10
+curriculum_scopes:
+- pep-history-current
+canonical_knowledge_ids:
+- history.senior-high.song-yuan
+questions:
+- id: history.pep.outline-1.song-yuan.q1
+  stem: 下列哪一历史主题与材料描述最吻合：“契丹、党项、女真先后建立政权，与中原王朝战和并存”（ ）。
+  options:
+  - id: A
+    text: 辽宋夏金政权并立
+  - id: B
+    text: 宋代中央集权强化
+  - id: C
+    text: 宋元经济与社会变化
+  - id: D
+    text: 宋元科技文化
+  correct_option_id: A
+  explanation: 材料以“契丹、党项、女真先后建立政权，与中原王朝战和并存”为关键线索，指向“辽宋夏金政权并立”。其余选项虽属同一章，但在时段、对象或核心机制上与材料不符。
+  difficulty: basic
+  tags:
+  - 辽宋夏金多民族政权的并立与元朝的统一
+  - 辽宋夏金政权并立
+  - 时空观念
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.song-yuan
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: understand
+  reasoning_steps: 1
+  estimated_time_seconds: 75
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.outline-1.song-yuan.q2
+  stem: 下列哪一历史主题与材料描述最吻合：“分化事权、崇文抑武并设转运司，使地方难以形成割据力量”（ ）。
+  options:
+  - id: A
+    text: 宋元经济与社会变化
+  - id: B
+    text: 宋元科技文化
+  - id: C
+    text: 元朝统一与行省制度
+  - id: D
+    text: 宋代中央集权强化
+  correct_option_id: D
+  explanation: 材料以“分化事权、崇文抑武并设转运司，使地方难以形成割据力量”为关键线索，指向“宋代中央集权强化”。其余选项虽属同一章，但在时段、对象或核心机制上与材料不符。
+  difficulty: basic
+  tags:
+  - 辽宋夏金多民族政权的并立与元朝的统一
+  - 宋代中央集权强化
+  - 时空观念
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.song-yuan
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: apply
+  reasoning_steps: 1
+  estimated_time_seconds: 90
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.outline-1.song-yuan.q3
+  stem: 围绕“宋元经济与社会变化”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 在全国设置行中书省，边疆地区纳入更稳定的中央治理体系
+  - id: B
+    text: 契丹、党项、女真先后建立政权，与中原王朝战和并存
+  - id: C
+    text: 纸币出现、城市商业突破时空限制，经济重心完成南移
+  - id: D
+    text: 活字印刷、指南针和火药应用发展，程朱理学形成并传播
+  correct_option_id: C
+  explanation: “纸币出现、城市商业突破时空限制，经济重心完成南移”准确概括了“宋元经济与社会变化”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: medium
+  tags:
+  - 辽宋夏金多民族政权的并立与元朝的统一
+  - 宋元经济与社会变化
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.song-yuan
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 120
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.outline-1.song-yuan.q4
+  stem: 围绕“宋元科技文化”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 分化事权、崇文抑武并设转运司，使地方难以形成割据力量
+  - id: B
+    text: 活字印刷、指南针和火药应用发展，程朱理学形成并传播
+  - id: C
+    text: 在全国设置行中书省，边疆地区纳入更稳定的中央治理体系
+  - id: D
+    text: 契丹、党项、女真先后建立政权，与中原王朝战和并存
+  correct_option_id: B
+  explanation: “活字印刷、指南针和火药应用发展，程朱理学形成并传播”准确概括了“宋元科技文化”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: medium
+  tags:
+  - 辽宋夏金多民族政权的并立与元朝的统一
+  - 宋元科技文化
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.song-yuan
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 150
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.outline-1.song-yuan.q5
+  stem: 围绕“元朝统一与行省制度”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 在全国设置行中书省，边疆地区纳入更稳定的中央治理体系
+  - id: B
+    text: 契丹、党项、女真先后建立政权，与中原王朝战和并存
+  - id: C
+    text: 分化事权、崇文抑武并设转运司，使地方难以形成割据力量
+  - id: D
+    text: 纸币出现、城市商业突破时空限制，经济重心完成南移
+  correct_option_id: A
+  explanation: “在全国设置行中书省，边疆地区纳入更稳定的中央治理体系”准确概括了“元朝统一与行省制度”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: advanced
+  tags:
+  - 辽宋夏金多民族政权的并立与元朝的统一
+  - 元朝统一与行省制度
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.song-yuan
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: evaluate
+  reasoning_steps: 3
+  estimated_time_seconds: 210
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1

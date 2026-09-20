@@ -7,6 +7,7 @@ from pathlib import Path
 import yaml
 
 from detail_seed import HISTORY_TOPICS, MATH_ITEMS, history_items
+from question_seed import build_questions, validate_seed_coverage
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -96,51 +97,80 @@ def slug_label(value: str) -> str:
     return value.replace("-", " ")
 
 
-def questions(point_id: str, name: str, core: str, objective: str, mistake: str, subject: str):
-    method = "结合定义、图象和条件逐步推理" if subject == "math" else "结合时空背景、史料和因果关系综合分析"
-    unrelated = ["只背结论，不检查适用条件", "只凭直觉，不使用证据", "把局部现象直接推广为普遍规律"]
-    data = [
-        ("q1", f"学习“{name}”时，最需要把握的核心内容是（ ）。", core, ["孤立记忆章节标题", "只关注书写格式", "回避概念之间的联系"], "basic", f"该知识点的核心是“{core}”，其余选项都没有触及主要学习对象。"),
-        ("q2", f"研究“{name}”时，下列学习方法最恰当的是（ ）。", method, unrelated, "basic", f"{method}能够同时关注概念、条件与论证，是本知识点的有效学习方法。"),
-        ("q3", f"关于“{name}”的学习，下列做法最需要避免的是（ ）。", mistake, ["先明确问题所处情境", "用证据检验初步判断", "完成后复核结论与条件"], "medium", f"“{mistake}”会造成典型理解偏差，其他做法都有助于形成可靠结论。"),
-        ("q4", f"要达成“{name}”的学习目标，较合理的步骤是（ ）。", f"先明确关键概念，再分析关系，最后用新情境检验结论", ["先猜答案，再寻找支持猜测的片段", "跳过条件，直接套用记忆中的结论", "只完成一道例题，不总结方法"], "medium", f"由概念到关系再到迁移检验，符合“{objective}”所要求的认知过程。"),
-        ("q5", f"把“{name}”迁移到新问题时，最可靠的判断依据是（ ）。", "结论能够由明确条件和完整证据链支持", ["结论与熟悉题目的答案相同", "表述中出现了本章关键词", "多数同学选择了同一选项"], "advanced", "迁移不是套用表面特征；只有条件明确、证据链完整，结论才具有可靠性。"),
-    ]
-    result = []
-    for suffix, stem, correct, distractors, difficulty, explanation in data:
-        option_texts = [correct, *distractors]
-        # Rotate the answer position deterministically to avoid a fixed answer pattern.
-        rotation = (sum(ord(char) for char in point_id + suffix) % 4)
-        option_texts = option_texts[rotation:] + option_texts[:rotation]
-        option_ids = ["A", "B", "C", "D"]
-        correct_id = option_ids[option_texts.index(correct)]
-        result.append({
-            "id": f"{point_id}.{suffix}",
-            "stem": stem,
-            "options": [
-                {"id": option_id, "text": text}
-                for option_id, text in zip(option_ids, option_texts, strict=True)
-            ],
-            "correct_option_id": correct_id,
-            "explanation": explanation,
-            "difficulty": difficulty,
-            "tags": [name, core],
-            "source_type": "original",
+VOLUME_PLACEMENT = {
+    "required-1": ([10], "first"),
+    "required-2": ([10], "second"),
+    "selective-1": ([11], "first"),
+    "selective-2": ([11], "second"),
+    "outline-1": ([10], "first"),
+    "outline-2": ([10], "second"),
+    "selective-3": ([12], "first"),
+}
+
+COGNITIVE_LEVELS = ("understand", "apply", "analyze", "analyze", "evaluate")
+REASONING_STEPS = (1, 1, 2, 2, 3)
+ESTIMATED_TIMES = {
+    "math": (60, 75, 120, 150, 240),
+    "history": (75, 90, 120, 150, 210),
+}
+
+
+def write_yaml(path: Path, value: dict) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(
+        yaml.safe_dump(value, allow_unicode=True, sort_keys=False, width=120),
+        encoding="utf-8",
+    )
+
+
+def clear_yaml_files(path: Path) -> None:
+    path.mkdir(parents=True, exist_ok=True)
+    for old in path.rglob("*.yaml"):
+        old.unlink()
+
+
+def enriched_questions(
+    point_id: str,
+    canonical_id: str,
+    curriculum_id: str,
+    chapter_name: str,
+    subject: str,
+    grade_scope: list[int],
+) -> list[dict]:
+    questions = build_questions(point_id, chapter_name, subject, HISTORY_TOPICS)
+    for index, question in enumerate(questions):
+        question.update({
+            "knowledge_point_ids": [canonical_id],
+            "curriculum_scopes": [curriculum_id],
+            "education_stage": "senior_high",
+            "grade_scope": list(grade_scope),
+            "question_type": "single_choice",
+            "cognitive_level": COGNITIVE_LEVELS[index],
+            "reasoning_steps": REASONING_STEPS[index],
+            "estimated_time_seconds": ESTIMATED_TIMES[subject][index],
+            "review_status": "self_checked",
+            "authoring_method": "human_ai_assisted",
+            "version": 1,
         })
-    return result
+    return questions
 
 
 def build(subject: str, curriculum_id: str, prefix: str, publisher: str, volumes):
     target = ROOT / "curricula" / subject / ("xj-current" if subject == "math" else "pep-current")
-    points_dir = target / "knowledge_points"
-    points_dir.mkdir(parents=True, exist_ok=True)
-    for old in points_dir.glob("*.yaml"):
-        old.unlink()
+    mappings_dir = target / "mappings"
+    knowledge_dir = ROOT / "knowledge" / subject
+    question_banks_dir = ROOT / "question_banks" / "senior-high" / subject
+    clear_yaml_files(mappings_dir)
+    clear_yaml_files(knowledge_dir)
+    clear_yaml_files(question_banks_dir)
     catalog = {"curriculum_id": curriculum_id, "subject": subject, "volumes": []}
     for volume_id, volume_name, chapters in volumes:
+        grade_scope, semester_scope = VOLUME_PLACEMENT[volume_id]
         volume = {"id": f"{prefix}.{volume_id}", "name": volume_name, "chapters": []}
         for order, (slug, chapter_name, core, objective, mistake) in enumerate(chapters, 1):
             point_id = f"{prefix}.{volume_id}.{slug}"
+            canonical_id = f"{subject}.senior-high.{slug}"
+            question_bank_id = f"bank.{point_id}"
             chapter_id = f"{prefix}.{volume_id}.chapter-{order}"
             section_id = f"{chapter_id}.section-1"
             volume["chapters"].append({
@@ -152,10 +182,10 @@ def build(subject: str, curriculum_id: str, prefix: str, publisher: str, volumes
                     "knowledge_points": [point_id],
                 }],
             })
-            point = {
-                "id": point_id,
+            knowledge = {
+                "id": canonical_id,
                 "subject": subject,
-                "curriculum_id": curriculum_id,
+                "education_stage": "senior_high",
                 "name": chapter_name,
                 "summary": f"本知识点围绕{core}展开，重点是{objective}，并能在新的问题情境中说明条件、过程与结论之间的联系。",
                 "objectives": [objective, "能够识别典型条件并用规范语言说明判断依据"],
@@ -169,22 +199,45 @@ def build(subject: str, curriculum_id: str, prefix: str, publisher: str, volumes
                     else history_items(slug, chapter_name)
                 ),
                 "review_status": "self_checked",
+            }
+            mapping = {
+                "id": point_id,
+                "canonical_id": canonical_id,
+                "curriculum_id": curriculum_id,
+                "subject": subject,
+                "education_stage": "senior_high",
+                "grade_scope": list(grade_scope),
+                "semester_scope": semester_scope,
+                "display_name": chapter_name,
                 "reference": {
                     "publisher": publisher,
                     "edition_scope": "现行普通高中教科书",
                     "chapter": f"{volume_name}·{chapter_name}",
                 },
-                "questions": questions(point_id, chapter_name, core, objective, mistake, subject),
+                "question_bank_ids": [question_bank_id],
+                "review_status": "self_checked",
             }
-            (points_dir / f"{point_id}.yaml").write_text(
-                yaml.safe_dump(point, allow_unicode=True, sort_keys=False, width=120),
-                encoding="utf-8",
-            )
+            question_bank = {
+                "id": question_bank_id,
+                "subject": subject,
+                "education_stage": "senior_high",
+                "grade_scope": list(grade_scope),
+                "curriculum_scopes": [curriculum_id],
+                "canonical_knowledge_ids": [canonical_id],
+                "questions": enriched_questions(
+                    point_id,
+                    canonical_id,
+                    curriculum_id,
+                    chapter_name,
+                    subject,
+                    grade_scope,
+                ),
+            }
+            write_yaml(knowledge_dir / f"{canonical_id}.yaml", knowledge)
+            write_yaml(mappings_dir / f"{point_id}.yaml", mapping)
+            write_yaml(question_banks_dir / f"{question_bank_id}.yaml", question_bank)
         catalog["volumes"].append(volume)
-    (target / "catalog.yaml").write_text(
-        yaml.safe_dump(catalog, allow_unicode=True, sort_keys=False, width=120),
-        encoding="utf-8",
-    )
+    write_yaml(target / "catalog.yaml", catalog)
 
 
 def main():
@@ -194,6 +247,17 @@ def main():
         raise ValueError(f"数学详细知识项覆盖不完整：{sorted(math_slugs ^ set(MATH_ITEMS))}")
     if history_slugs != set(HISTORY_TOPICS):
         raise ValueError(f"历史详细知识项覆盖不完整：{sorted(history_slugs ^ set(HISTORY_TOPICS))}")
+    validate_seed_coverage(math_slugs, history_slugs)
+    for subject, curriculum_dir in (
+        ("math", "xj-current"),
+        ("history", "pep-current"),
+    ):
+        legacy_dir = ROOT / "curricula" / subject / curriculum_dir / "knowledge_points"
+        if legacy_dir.exists():
+            for old in legacy_dir.glob("*.yaml"):
+                old.unlink()
+            if not any(legacy_dir.iterdir()):
+                legacy_dir.rmdir()
     build("math", "xj-math-current", "math.xj", "湖南教育出版社", MATH)
     build("history", "pep-history-current", "history.pep", "人民教育出版社", HISTORY)
 

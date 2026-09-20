@@ -1,0 +1,47 @@
+id: history.senior-high.anti-japanese-liberation
+subject: history
+education_stage: senior_high
+name: 中华民族的抗日战争和人民解放战争
+summary: 本知识点围绕民族抗战与人民解放展开，重点是从全民族抗战和中国共产党作用理解民族独立与人民解放进程，并能在新的问题情境中说明条件、过程与结论之间的联系。
+objectives:
+- 从全民族抗战和中国共产党作用理解民族独立与人民解放进程
+- 能够识别典型条件并用规范语言说明判断依据
+prerequisites:
+- 初中阶段相关基础知识
+- 基本阅读、表达与推理能力
+common_mistakes:
+- 忽视正面战场和敌后战场的相互配合
+keywords:
+- 民族抗战与人民解放
+- 中华民族的抗日战争和人民解放战争
+competency_tags:
+- 时空观念
+- 史料实证
+- 历史解释
+knowledge_items:
+- id: topic-1
+  type: event
+  name: 九一八事变与局部抗战
+  content: 围绕“九一八事变与局部抗战”梳理其时空背景、核心内容及其在“中华民族的抗日战争和人民解放战争”历史进程中的作用。
+  review_status: self_checked
+- id: topic-2
+  type: process
+  name: 全民族抗战形成
+  content: 围绕“全民族抗战形成”梳理其时空背景、核心内容及其在“中华民族的抗日战争和人民解放战争”历史进程中的作用。
+  review_status: self_checked
+- id: topic-3
+  type: concept
+  name: 正面战场与敌后战场
+  content: 围绕“正面战场与敌后战场”梳理其时空背景、核心内容及其在“中华民族的抗日战争和人民解放战争”历史进程中的作用。
+  review_status: self_checked
+- id: topic-4
+  type: event
+  name: 抗日战争胜利及意义
+  content: 围绕“抗日战争胜利及意义”梳理其时空背景、核心内容及其在“中华民族的抗日战争和人民解放战争”历史进程中的作用。
+  review_status: self_checked
+- id: topic-5
+  type: event
+  name: 人民解放战争进程
+  content: 围绕“人民解放战争进程”梳理其时空背景、核心内容及其在“中华民族的抗日战争和人民解放战争”历史进程中的作用。
+  review_status: self_checked
+review_status: self_checked

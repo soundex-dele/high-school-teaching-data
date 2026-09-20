@@ -1,0 +1,16 @@
+id: history.pep.outline-1.three-kingdoms-sui-tang
+canonical_id: history.senior-high.three-kingdoms-sui-tang
+curriculum_id: pep-history-current
+subject: history
+education_stage: senior_high
+grade_scope:
+- 10
+semester_scope: first
+display_name: 三国两晋南北朝的民族交融与隋唐统一多民族封建国家的发展
+reference:
+  publisher: 人民教育出版社
+  edition_scope: 现行普通高中教科书
+  chapter: 中外历史纲要（上）·三国两晋南北朝的民族交融与隋唐统一多民族封建国家的发展
+question_bank_ids:
+- bank.history.pep.outline-1.three-kingdoms-sui-tang
+review_status: self_checked

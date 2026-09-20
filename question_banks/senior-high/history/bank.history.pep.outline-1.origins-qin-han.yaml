@@ -1,0 +1,175 @@
+id: bank.history.pep.outline-1.origins-qin-han
+subject: history
+education_stage: senior_high
+grade_scope:
+- 10
+curriculum_scopes:
+- pep-history-current
+canonical_knowledge_ids:
+- history.senior-high.origins-qin-han
+questions:
+- id: history.pep.outline-1.origins-qin-han.q1
+  stem: 下列哪一历史主题与材料描述最吻合：“黄河、长江和辽河流域均发现早期文明遗存，各区域交流汇聚并逐渐形成共同体”（ ）。
+  options:
+  - id: A
+    text: 秦朝统一与中央集权
+  - id: B
+    text: 中华文明多元一体起源
+  - id: C
+    text: 夏商周早期国家
+  - id: D
+    text: 春秋战国社会变革
+  correct_option_id: B
+  explanation: 材料以“黄河、长江和辽河流域均发现早期文明遗存，各区域交流汇聚并逐渐形成共同体”为关键线索，指向“中华文明多元一体起源”。其余选项虽属同一章，但在时段、对象或核心机制上与材料不符。
+  difficulty: basic
+  tags:
+  - 从中华文明起源到秦汉统一多民族封建国家的建立与巩固
+  - 中华文明多元一体起源
+  - 时空观念
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.origins-qin-han
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: understand
+  reasoning_steps: 1
+  estimated_time_seconds: 75
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.outline-1.origins-qin-han.q2
+  stem: 下列哪一历史主题与材料描述最吻合：“以血缘纽带、分封和宗法维系统治，青铜礼器体现等级秩序”（ ）。
+  options:
+  - id: A
+    text: 夏商周早期国家
+  - id: B
+    text: 春秋战国社会变革
+  - id: C
+    text: 秦朝统一与中央集权
+  - id: D
+    text: 汉代大一统巩固
+  correct_option_id: A
+  explanation: 材料以“以血缘纽带、分封和宗法维系统治，青铜礼器体现等级秩序”为关键线索，指向“夏商周早期国家”。其余选项虽属同一章，但在时段、对象或核心机制上与材料不符。
+  difficulty: basic
+  tags:
+  - 从中华文明起源到秦汉统一多民族封建国家的建立与巩固
+  - 夏商周早期国家
+  - 时空观念
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.origins-qin-han
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: apply
+  reasoning_steps: 1
+  estimated_time_seconds: 90
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.outline-1.origins-qin-han.q3
+  stem: 围绕“春秋战国社会变革”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 废除分封、推行郡县，统一文字、货币和度量衡
+  - id: B
+    text: 推恩令削弱王国势力，察举制选官，并加强对边疆地区的经营
+  - id: C
+    text: 黄河、长江和辽河流域均发现早期文明遗存，各区域交流汇聚并逐渐形成共同体
+  - id: D
+    text: 铁犁牛耕推广、土地制度变化，诸侯国通过变法增强实力
+  correct_option_id: D
+  explanation: “铁犁牛耕推广、土地制度变化，诸侯国通过变法增强实力”准确概括了“春秋战国社会变革”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: medium
+  tags:
+  - 从中华文明起源到秦汉统一多民族封建国家的建立与巩固
+  - 春秋战国社会变革
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.origins-qin-han
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 120
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.outline-1.origins-qin-han.q4
+  stem: 围绕“秦朝统一与中央集权”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 黄河、长江和辽河流域均发现早期文明遗存，各区域交流汇聚并逐渐形成共同体
+  - id: B
+    text: 以血缘纽带、分封和宗法维系统治，青铜礼器体现等级秩序
+  - id: C
+    text: 废除分封、推行郡县，统一文字、货币和度量衡
+  - id: D
+    text: 推恩令削弱王国势力，察举制选官，并加强对边疆地区的经营
+  correct_option_id: C
+  explanation: “废除分封、推行郡县，统一文字、货币和度量衡”准确概括了“秦朝统一与中央集权”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: medium
+  tags:
+  - 从中华文明起源到秦汉统一多民族封建国家的建立与巩固
+  - 秦朝统一与中央集权
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.origins-qin-han
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 150
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.outline-1.origins-qin-han.q5
+  stem: 围绕“汉代大一统巩固”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 铁犁牛耕推广、土地制度变化，诸侯国通过变法增强实力
+  - id: B
+    text: 推恩令削弱王国势力，察举制选官，并加强对边疆地区的经营
+  - id: C
+    text: 黄河、长江和辽河流域均发现早期文明遗存，各区域交流汇聚并逐渐形成共同体
+  - id: D
+    text: 以血缘纽带、分封和宗法维系统治，青铜礼器体现等级秩序
+  correct_option_id: B
+  explanation: “推恩令削弱王国势力，察举制选官，并加强对边疆地区的经营”准确概括了“汉代大一统巩固”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: advanced
+  tags:
+  - 从中华文明起源到秦汉统一多民族封建国家的建立与巩固
+  - 汉代大一统巩固
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.origins-qin-han
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: evaluate
+  reasoning_steps: 3
+  estimated_time_seconds: 210
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1

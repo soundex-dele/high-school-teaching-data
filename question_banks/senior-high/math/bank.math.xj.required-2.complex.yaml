@@ -1,0 +1,170 @@
+id: bank.math.xj.required-2.complex
+subject: math
+education_stage: senior_high
+grade_scope:
+- 10
+curriculum_scopes:
+- xj-math-current
+canonical_knowledge_ids:
+- math.senior-high.complex
+questions:
+- id: math.xj.required-2.complex.q1
+  stem: 复数 (1+2i)+(3-i) 等于（ ）。
+  options:
+  - id: A
+    text: 2+i
+  - id: B
+    text: -2+i
+  - id: C
+    text: 4+i
+  - id: D
+    text: 4+3i
+  correct_option_id: C
+  explanation: 实部、虚部分别相加，得 4+i。
+  difficulty: basic
+  tags:
+  - 复数
+  - 概念与运算
+  source_type: original
+  knowledge_point_ids:
+  - math.senior-high.complex
+  curriculum_scopes:
+  - xj-math-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: understand
+  reasoning_steps: 1
+  estimated_time_seconds: 60
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: math.xj.required-2.complex.q2
+  stem: i^2026 等于（ ）。
+  options:
+  - id: A
+    text: -i
+  - id: B
+    text: '-1'
+  - id: C
+    text: '1'
+  - id: D
+    text: i
+  correct_option_id: B
+  explanation: i 的幂以 4 为周期；2026 除以 4 余 2，所以 i^2026=i²=-1。
+  difficulty: basic
+  tags:
+  - 复数
+  - 概念与运算
+  source_type: original
+  knowledge_point_ids:
+  - math.senior-high.complex
+  curriculum_scopes:
+  - xj-math-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: apply
+  reasoning_steps: 1
+  estimated_time_seconds: 75
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: math.xj.required-2.complex.q3
+  stem: 复数 z=1-√3i 在复平面内对应的点位于（ ）。
+  options:
+  - id: A
+    text: 第四象限
+  - id: B
+    text: 第一象限
+  - id: C
+    text: 第二象限
+  - id: D
+    text: 第三象限
+  correct_option_id: A
+  explanation: 对应点为 (1,-√3)，横坐标正、纵坐标负，位于第四象限。
+  difficulty: medium
+  tags:
+  - 复数
+  - 计算与推理
+  source_type: original
+  knowledge_point_ids:
+  - math.senior-high.complex
+  curriculum_scopes:
+  - xj-math-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 120
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: math.xj.required-2.complex.q4
+  stem: 若 z(1-i)=2，其中 z 为复数，则 z 等于（ ）。
+  options:
+  - id: A
+    text: 1-i
+  - id: B
+    text: 2+2i
+  - id: C
+    text: i
+  - id: D
+    text: 1+i
+  correct_option_id: D
+  explanation: z=2/(1-i)=2(1+i)/2=1+i。
+  difficulty: medium
+  tags:
+  - 复数
+  - 计算与推理
+  source_type: original
+  knowledge_point_ids:
+  - math.senior-high.complex
+  curriculum_scopes:
+  - xj-math-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 150
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: math.xj.required-2.complex.q5
+  stem: 满足 |z-1|=|z+1| 的复数 z 在复平面内的轨迹是（ ）。
+  options:
+  - id: A
+    text: 单位圆
+  - id: B
+    text: 直线 x=1
+  - id: C
+    text: 虚轴
+  - id: D
+    text: 实轴
+  correct_option_id: C
+  explanation: 条件表示对应点到 (1,0) 与 (-1,0) 等距，轨迹是两点连线的垂直平分线，即虚轴。
+  difficulty: advanced
+  tags:
+  - 复数
+  - 计算与推理
+  source_type: original
+  knowledge_point_ids:
+  - math.senior-high.complex
+  curriculum_scopes:
+  - xj-math-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: evaluate
+  reasoning_steps: 3
+  estimated_time_seconds: 240
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1

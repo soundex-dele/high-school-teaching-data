@@ -1,0 +1,60 @@
+id: math.senior-high.conic
+subject: math
+education_stage: senior_high
+name: 圆锥曲线与方程
+summary: 本知识点围绕椭圆、双曲线和抛物线展开，重点是从定义建立标准方程，并结合几何性质解决轨迹和最值问题，并能在新的问题情境中说明条件、过程与结论之间的联系。
+objectives:
+- 从定义建立标准方程，并结合几何性质解决轨迹和最值问题
+- 能够识别典型条件并用规范语言说明判断依据
+prerequisites:
+- 初中阶段相关基础知识
+- 基本阅读、表达与推理能力
+common_mistakes:
+- 未先判断焦点位置就套用标准方程
+keywords:
+- 椭圆、双曲线和抛物线
+- 圆锥曲线与方程
+competency_tags:
+- 数学抽象
+- 逻辑推理
+knowledge_items:
+- id: ellipse
+  type: formula
+  name: 椭圆定义与标准方程
+  content: 到两个定点距离之和为常数的点的轨迹是椭圆。
+  review_status: self_checked
+  formulas:
+  - \frac{x^2}{a^2}+\frac{y^2}{b^2}=1
+  - a^2=b^2+c^2
+  conditions:
+  - a>b>0
+- id: hyperbola
+  type: formula
+  name: 双曲线定义与标准方程
+  content: 到两个定点距离之差的绝对值为常数的点的轨迹是双曲线。
+  review_status: self_checked
+  formulas:
+  - \frac{x^2}{a^2}-\frac{y^2}{b^2}=1
+  - c^2=a^2+b^2
+- id: parabola
+  type: formula
+  name: 抛物线定义与标准方程
+  content: 到定点与到定直线距离相等的点的轨迹是抛物线。
+  review_status: self_checked
+  formulas:
+  - y^2=2px\quad(p>0)
+- id: eccentricity
+  type: formula
+  name: 圆锥曲线离心率
+  content: 离心率刻画圆锥曲线的形状。
+  review_status: self_checked
+  formulas:
+  - e=\frac ca
+  - 0<e<1\text{（椭圆）}
+  - e>1\text{（双曲线）}
+- id: locus
+  type: method
+  name: 轨迹方程求法
+  content: 设动点坐标，根据几何条件列等式，化简后检查范围与特殊点。
+  review_status: self_checked
+review_status: self_checked

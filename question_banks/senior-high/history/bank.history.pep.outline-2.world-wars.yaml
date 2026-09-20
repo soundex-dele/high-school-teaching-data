@@ -1,0 +1,175 @@
+id: bank.history.pep.outline-2.world-wars
+subject: history
+education_stage: senior_high
+grade_scope:
+- 10
+curriculum_scopes:
+- pep-history-current
+canonical_knowledge_ids:
+- history.senior-high.world-wars
+questions:
+- id: history.pep.outline-2.world-wars.q1
+  stem: 下列哪一历史主题与材料描述最吻合：“帝国主义政治经济发展不平衡、两大军事集团对峙最终引发总体战”（ ）。
+  options:
+  - id: A
+    text: 俄国十月革命
+  - id: B
+    text: 第二次世界大战
+  - id: C
+    text: 第一次世界大战
+  - id: D
+    text: 凡尔赛—华盛顿体系
+  correct_option_id: C
+  explanation: 材料以“帝国主义政治经济发展不平衡、两大军事集团对峙最终引发总体战”为关键线索，指向“第一次世界大战”。其余选项虽属同一章，但在时段、对象或核心机制上与材料不符。
+  difficulty: basic
+  tags:
+  - 两次世界大战与国际秩序的演变
+  - 第一次世界大战
+  - 时空观念
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.world-wars
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: understand
+  reasoning_steps: 1
+  estimated_time_seconds: 75
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.outline-2.world-wars.q2
+  stem: 下列哪一历史主题与材料描述最吻合：“以战胜国利益为主导安排欧洲和殖民地，民族自决原则并未普遍落实”（ ）。
+  options:
+  - id: A
+    text: 雅尔塔体系与联合国
+  - id: B
+    text: 凡尔赛—华盛顿体系
+  - id: C
+    text: 俄国十月革命
+  - id: D
+    text: 第二次世界大战
+  correct_option_id: B
+  explanation: 材料以“以战胜国利益为主导安排欧洲和殖民地，民族自决原则并未普遍落实”为关键线索，指向“凡尔赛—华盛顿体系”。其余选项虽属同一章，但在时段、对象或核心机制上与材料不符。
+  difficulty: basic
+  tags:
+  - 两次世界大战与国际秩序的演变
+  - 凡尔赛—华盛顿体系
+  - 时空观念
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.world-wars
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: apply
+  reasoning_steps: 1
+  estimated_time_seconds: 90
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.outline-2.world-wars.q3
+  stem: 围绕“俄国十月革命”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 建立世界上第一个社会主义国家，并推动国际共产主义运动
+  - id: B
+    text: 法西斯扩张、绥靖失败与反法西斯同盟形成共同影响战争进程
+  - id: C
+    text: 国际组织吸取集体安全失败教训而建立，但大国权力结构仍深刻影响其运行
+  - id: D
+    text: 帝国主义政治经济发展不平衡、两大军事集团对峙最终引发总体战
+  correct_option_id: A
+  explanation: “建立世界上第一个社会主义国家，并推动国际共产主义运动”准确概括了“俄国十月革命”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: medium
+  tags:
+  - 两次世界大战与国际秩序的演变
+  - 俄国十月革命
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.world-wars
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 120
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.outline-2.world-wars.q4
+  stem: 围绕“第二次世界大战”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 国际组织吸取集体安全失败教训而建立，但大国权力结构仍深刻影响其运行
+  - id: B
+    text: 帝国主义政治经济发展不平衡、两大军事集团对峙最终引发总体战
+  - id: C
+    text: 以战胜国利益为主导安排欧洲和殖民地，民族自决原则并未普遍落实
+  - id: D
+    text: 法西斯扩张、绥靖失败与反法西斯同盟形成共同影响战争进程
+  correct_option_id: D
+  explanation: “法西斯扩张、绥靖失败与反法西斯同盟形成共同影响战争进程”准确概括了“第二次世界大战”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: medium
+  tags:
+  - 两次世界大战与国际秩序的演变
+  - 第二次世界大战
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.world-wars
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 150
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.outline-2.world-wars.q5
+  stem: 围绕“雅尔塔体系与联合国”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 以战胜国利益为主导安排欧洲和殖民地，民族自决原则并未普遍落实
+  - id: B
+    text: 建立世界上第一个社会主义国家，并推动国际共产主义运动
+  - id: C
+    text: 国际组织吸取集体安全失败教训而建立，但大国权力结构仍深刻影响其运行
+  - id: D
+    text: 帝国主义政治经济发展不平衡、两大军事集团对峙最终引发总体战
+  correct_option_id: C
+  explanation: “国际组织吸取集体安全失败教训而建立，但大国权力结构仍深刻影响其运行”准确概括了“雅尔塔体系与联合国”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: advanced
+  tags:
+  - 两次世界大战与国际秩序的演变
+  - 雅尔塔体系与联合国
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.world-wars
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: evaluate
+  reasoning_steps: 3
+  estimated_time_seconds: 210
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1

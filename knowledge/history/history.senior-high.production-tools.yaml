@@ -1,0 +1,47 @@
+id: history.senior-high.production-tools
+subject: history
+education_stage: senior_high
+name: 生产工具与劳作方式
+summary: 本知识点围绕工具进步与劳作变迁展开，重点是分析生产工具、能源和组织方式变化对生产关系的影响，并能在新的问题情境中说明条件、过程与结论之间的联系。
+objectives:
+- 分析生产工具、能源和组织方式变化对生产关系的影响
+- 能够识别典型条件并用规范语言说明判断依据
+prerequisites:
+- 初中阶段相关基础知识
+- 基本阅读、表达与推理能力
+common_mistakes:
+- 用技术进步单因素解释全部社会变化
+keywords:
+- 工具进步与劳作变迁
+- 生产工具与劳作方式
+competency_tags:
+- 时空观念
+- 史料实证
+- 历史解释
+knowledge_items:
+- id: topic-1
+  type: concept
+  name: 古代农业工具
+  content: 围绕“古代农业工具”梳理其时空背景、核心内容及其在“生产工具与劳作方式”历史进程中的作用。
+  review_status: self_checked
+- id: topic-2
+  type: concept
+  name: 手工业工具与分工
+  content: 围绕“手工业工具与分工”梳理其时空背景、核心内容及其在“生产工具与劳作方式”历史进程中的作用。
+  review_status: self_checked
+- id: topic-3
+  type: concept
+  name: 机器大生产
+  content: 围绕“机器大生产”梳理其时空背景、核心内容及其在“生产工具与劳作方式”历史进程中的作用。
+  review_status: self_checked
+- id: topic-4
+  type: concept
+  name: 自动化与人工智能
+  content: 围绕“自动化与人工智能”梳理其时空背景、核心内容及其在“生产工具与劳作方式”历史进程中的作用。
+  review_status: self_checked
+- id: topic-5
+  type: concept
+  name: 劳作方式和生产关系
+  content: 围绕“劳作方式和生产关系”梳理其时空背景、核心内容及其在“生产工具与劳作方式”历史进程中的作用。
+  review_status: self_checked
+review_status: self_checked

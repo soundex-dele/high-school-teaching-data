@@ -1,0 +1,175 @@
+id: bank.history.pep.outline-1.prc-socialism
+subject: history
+education_stage: senior_high
+grade_scope:
+- 10
+curriculum_scopes:
+- pep-history-current
+canonical_knowledge_ids:
+- history.senior-high.prc-socialism
+questions:
+- id: history.pep.outline-1.prc-socialism.q1
+  stem: 下列哪一历史主题与材料描述最吻合：“新国家的成立结束半殖民地半封建社会，人民成为国家主人”（ ）。
+  options:
+  - id: A
+    text: 人民政权巩固
+  - id: B
+    text: 社会主义基本制度建立
+  - id: C
+    text: 全面建设社会主义探索
+  - id: D
+    text: 中华人民共和国成立
+  correct_option_id: D
+  explanation: 材料以“新国家的成立结束半殖民地半封建社会，人民成为国家主人”为关键线索，指向“中华人民共和国成立”。其余选项虽属同一章，但在时段、对象或核心机制上与材料不符。
+  difficulty: basic
+  tags:
+  - 中华人民共和国成立和社会主义革命与建设
+  - 中华人民共和国成立
+  - 时空观念
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.prc-socialism
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: understand
+  reasoning_steps: 1
+  estimated_time_seconds: 75
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.outline-1.prc-socialism.q2
+  stem: 下列哪一历史主题与材料描述最吻合：“土地改革、抗美援朝和镇压反革命稳定了新生人民政权”（ ）。
+  options:
+  - id: A
+    text: 全面建设社会主义探索
+  - id: B
+    text: 社会主义建设成就与经验
+  - id: C
+    text: 人民政权巩固
+  - id: D
+    text: 社会主义基本制度建立
+  correct_option_id: C
+  explanation: 材料以“土地改革、抗美援朝和镇压反革命稳定了新生人民政权”为关键线索，指向“人民政权巩固”。其余选项虽属同一章，但在时段、对象或核心机制上与材料不符。
+  difficulty: basic
+  tags:
+  - 中华人民共和国成立和社会主义革命与建设
+  - 人民政权巩固
+  - 时空观念
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.prc-socialism
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: apply
+  reasoning_steps: 1
+  estimated_time_seconds: 90
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.outline-1.prc-socialism.q3
+  stem: 围绕“社会主义基本制度建立”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 新国家的成立结束半殖民地半封建社会，人民成为国家主人
+  - id: B
+    text: 三大改造基本完成，生产资料公有制占主体的经济基础建立
+  - id: C
+    text: 一五计划奠定工业化基础，后续探索既有严重曲折也有独立成果
+  - id: D
+    text: 应同时考察工业国防成就、民生进步与急躁冒进造成的教训
+  correct_option_id: B
+  explanation: “三大改造基本完成，生产资料公有制占主体的经济基础建立”准确概括了“社会主义基本制度建立”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: medium
+  tags:
+  - 中华人民共和国成立和社会主义革命与建设
+  - 社会主义基本制度建立
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.prc-socialism
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 120
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.outline-1.prc-socialism.q4
+  stem: 围绕“全面建设社会主义探索”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 一五计划奠定工业化基础，后续探索既有严重曲折也有独立成果
+  - id: B
+    text: 应同时考察工业国防成就、民生进步与急躁冒进造成的教训
+  - id: C
+    text: 新国家的成立结束半殖民地半封建社会，人民成为国家主人
+  - id: D
+    text: 土地改革、抗美援朝和镇压反革命稳定了新生人民政权
+  correct_option_id: A
+  explanation: “一五计划奠定工业化基础，后续探索既有严重曲折也有独立成果”准确概括了“全面建设社会主义探索”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: medium
+  tags:
+  - 中华人民共和国成立和社会主义革命与建设
+  - 全面建设社会主义探索
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.prc-socialism
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 150
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.outline-1.prc-socialism.q5
+  stem: 围绕“社会主义建设成就与经验”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 新国家的成立结束半殖民地半封建社会，人民成为国家主人
+  - id: B
+    text: 土地改革、抗美援朝和镇压反革命稳定了新生人民政权
+  - id: C
+    text: 三大改造基本完成，生产资料公有制占主体的经济基础建立
+  - id: D
+    text: 应同时考察工业国防成就、民生进步与急躁冒进造成的教训
+  correct_option_id: D
+  explanation: “应同时考察工业国防成就、民生进步与急躁冒进造成的教训”准确概括了“社会主义建设成就与经验”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: advanced
+  tags:
+  - 中华人民共和国成立和社会主义革命与建设
+  - 社会主义建设成就与经验
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.prc-socialism
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: evaluate
+  reasoning_steps: 3
+  estimated_time_seconds: 210
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1

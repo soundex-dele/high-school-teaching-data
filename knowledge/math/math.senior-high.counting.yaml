@@ -1,0 +1,65 @@
+id: math.senior-high.counting
+subject: math
+education_stage: senior_high
+name: 计数原理
+summary: 本知识点围绕分类、分步与排列组合展开，重点是根据事件过程选择分类或分步计数，并正确处理排列组合，并能在新的问题情境中说明条件、过程与结论之间的联系。
+objectives:
+- 根据事件过程选择分类或分步计数，并正确处理排列组合
+- 能够识别典型条件并用规范语言说明判断依据
+prerequisites:
+- 初中阶段相关基础知识
+- 基本阅读、表达与推理能力
+common_mistakes:
+- 重复计数或遗漏互斥分类
+keywords:
+- 分类、分步与排列组合
+- 计数原理
+competency_tags:
+- 数学抽象
+- 逻辑推理
+knowledge_items:
+- id: addition
+  type: theorem
+  name: 分类加法计数原理
+  content: 完成一件事的各类办法互斥时，总方法数为各类方法数之和。
+  review_status: self_checked
+  formulas:
+  - N=m_1+m_2+\cdots+m_k
+  conditions:
+  - 分类完整且互斥
+  conclusion: 各类方法数相加。
+- id: multiplication
+  type: theorem
+  name: 分步乘法计数原理
+  content: 完成一件事需要依次完成各步骤时，总方法数为各步方法数之积。
+  review_status: self_checked
+  formulas:
+  - N=m_1m_2\cdots m_k
+  conditions:
+  - 每个方案必须完成全部步骤
+  conclusion: 各步方法数相乘。
+- id: permutation
+  type: formula
+  name: 排列数
+  content: 从 n 个不同元素中取出 m 个并按顺序排列。
+  review_status: self_checked
+  formulas:
+  - A_n^m=\frac{n!}{(n-m)!}
+- id: combination
+  type: formula
+  name: 组合数
+  content: 从 n 个不同元素中取出 m 个组成一组，不计顺序。
+  review_status: self_checked
+  formulas:
+  - C_n^m=\frac{n!}{m!(n-m)!}
+- id: binomial
+  type: theorem
+  name: 二项式定理
+  content: 二项式 n 次幂按组合数展开。
+  review_status: self_checked
+  formulas:
+  - (a+b)^n=\sum_{k=0}^nC_n^ka^{n-k}b^k
+  conditions:
+  - n\in\mathbb N^*
+  conclusion: 展开式共有 n+1 项。
+review_status: self_checked

@@ -1,0 +1,170 @@
+id: bank.math.xj.required-1.inequality
+subject: math
+education_stage: senior_high
+grade_scope:
+- 10
+curriculum_scopes:
+- xj-math-current
+canonical_knowledge_ids:
+- math.senior-high.inequality
+questions:
+- id: math.xj.required-1.inequality.q1
+  stem: 不等式 x²-5x+6<0 的解集是（ ）。
+  options:
+  - id: A
+    text: '[2,3]'
+  - id: B
+    text: (-∞,3)
+  - id: C
+    text: (2,3)
+  - id: D
+    text: (-∞,2)∪(3,+∞)
+  correct_option_id: C
+  explanation: x²-5x+6=(x-2)(x-3)，开口向上，在两根之间小于 0。
+  difficulty: basic
+  tags:
+  - 一元二次函数、方程和不等式
+  - 概念与运算
+  source_type: original
+  knowledge_point_ids:
+  - math.senior-high.inequality
+  curriculum_scopes:
+  - xj-math-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: understand
+  reasoning_steps: 1
+  estimated_time_seconds: 60
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: math.xj.required-1.inequality.q2
+  stem: 若 a>b，则下列结论一定成立的是（ ）。
+  options:
+  - id: A
+    text: ac>bc
+  - id: B
+    text: a+c>b+c
+  - id: C
+    text: a²>b²
+  - id: D
+    text: 1/a<1/b
+  correct_option_id: B
+  explanation: 不等式两边同加任意实数 c，方向不变；其余结论都还需要符号条件。
+  difficulty: basic
+  tags:
+  - 一元二次函数、方程和不等式
+  - 概念与运算
+  source_type: original
+  knowledge_point_ids:
+  - math.senior-high.inequality
+  curriculum_scopes:
+  - xj-math-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: apply
+  reasoning_steps: 1
+  estimated_time_seconds: 75
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: math.xj.required-1.inequality.q3
+  stem: 关于 x 的不等式 ax>1 的解集为 x<1/a，则 a 必须满足（ ）。
+  options:
+  - id: A
+    text: a<0
+  - id: B
+    text: a>0
+  - id: C
+    text: a=0
+  - id: D
+    text: a≥0
+  correct_option_id: A
+  explanation: 除以 a 后不等号改变方向，说明 a<0；a=0 时原不等式无解。
+  difficulty: medium
+  tags:
+  - 一元二次函数、方程和不等式
+  - 计算与推理
+  source_type: original
+  knowledge_point_ids:
+  - math.senior-high.inequality
+  curriculum_scopes:
+  - xj-math-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 120
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: math.xj.required-1.inequality.q4
+  stem: 若正数 x,y 满足 xy=4，则 x+y 的最小值为（ ）。
+  options:
+  - id: A
+    text: '2'
+  - id: B
+    text: '6'
+  - id: C
+    text: '8'
+  - id: D
+    text: '4'
+  correct_option_id: D
+  explanation: 由基本不等式 x+y≥2√(xy)=4，当且仅当 x=y=2 时取等号。
+  difficulty: medium
+  tags:
+  - 一元二次函数、方程和不等式
+  - 计算与推理
+  source_type: original
+  knowledge_point_ids:
+  - math.senior-high.inequality
+  curriculum_scopes:
+  - xj-math-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 150
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: math.xj.required-1.inequality.q5
+  stem: 若对一切 x∈R 都有 x²-2mx+m+2≥0，则 m 的取值范围是（ ）。
+  options:
+  - id: A
+    text: '[-2,1]'
+  - id: B
+    text: (-∞,-1]∪[2,+∞)
+  - id: C
+    text: '[-1,2]'
+  - id: D
+    text: '[-1,1]'
+  correct_option_id: C
+  explanation: 二次项系数为正，恒非负需判别式 Δ=4m²-4(m+2)≤0，即 (m-2)(m+1)≤0。
+  difficulty: advanced
+  tags:
+  - 一元二次函数、方程和不等式
+  - 计算与推理
+  source_type: original
+  knowledge_point_ids:
+  - math.senior-high.inequality
+  curriculum_scopes:
+  - xj-math-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: evaluate
+  reasoning_steps: 3
+  estimated_time_seconds: 240
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1

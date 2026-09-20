@@ -1,0 +1,170 @@
+id: bank.math.xj.required-1.exp-log
+subject: math
+education_stage: senior_high
+grade_scope:
+- 10
+curriculum_scopes:
+- xj-math-current
+canonical_knowledge_ids:
+- math.senior-high.exp-log
+questions:
+- id: math.xj.required-1.exp-log.q1
+  stem: 计算 log₂8+log₃(1/3) 的值为（ ）。
+  options:
+  - id: A
+    text: '1'
+  - id: B
+    text: '3'
+  - id: C
+    text: '4'
+  - id: D
+    text: '2'
+  correct_option_id: D
+  explanation: log₂8=3，log₃(1/3)=-1，两者之和为 2。
+  difficulty: basic
+  tags:
+  - 幂函数、指数函数和对数函数
+  - 概念与运算
+  source_type: original
+  knowledge_point_ids:
+  - math.senior-high.exp-log
+  curriculum_scopes:
+  - xj-math-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: understand
+  reasoning_steps: 1
+  estimated_time_seconds: 60
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: math.xj.required-1.exp-log.q2
+  stem: 函数 y=logₐx 在 (0,+∞) 上单调递减，则 a 的范围是（ ）。
+  options:
+  - id: A
+    text: a<0
+  - id: B
+    text: a≠1
+  - id: C
+    text: 0<a<1
+  - id: D
+    text: a>1
+  correct_option_id: C
+  explanation: 对数函数有意义需 a>0 且 a≠1，其中 0<a<1 时单调递减。
+  difficulty: basic
+  tags:
+  - 幂函数、指数函数和对数函数
+  - 概念与运算
+  source_type: original
+  knowledge_point_ids:
+  - math.senior-high.exp-log
+  curriculum_scopes:
+  - xj-math-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: apply
+  reasoning_steps: 1
+  estimated_time_seconds: 75
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: math.xj.required-1.exp-log.q3
+  stem: 方程 2^(x+1)=8^(x-1) 的解为（ ）。
+  options:
+  - id: A
+    text: '4'
+  - id: B
+    text: '2'
+  - id: C
+    text: '1'
+  - id: D
+    text: '3'
+  correct_option_id: B
+  explanation: 把 8 写成 2³，得 x+1=3x-3，因此 x=2。
+  difficulty: medium
+  tags:
+  - 幂函数、指数函数和对数函数
+  - 计算与推理
+  source_type: original
+  knowledge_point_ids:
+  - math.senior-high.exp-log
+  curriculum_scopes:
+  - xj-math-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 120
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: math.xj.required-1.exp-log.q4
+  stem: 若 log₂a=3，logₐb=2，则 b 等于（ ）。
+  options:
+  - id: A
+    text: '64'
+  - id: B
+    text: '16'
+  - id: C
+    text: '32'
+  - id: D
+    text: '512'
+  correct_option_id: A
+  explanation: 由 log₂a=3 得 a=8；logₐb=2 得 b=a²=64。
+  difficulty: medium
+  tags:
+  - 幂函数、指数函数和对数函数
+  - 计算与推理
+  source_type: original
+  knowledge_point_ids:
+  - math.senior-high.exp-log
+  curriculum_scopes:
+  - xj-math-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 150
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: math.xj.required-1.exp-log.q5
+  stem: 设 f(x)=log₂(x-1)。若 f(x)+f(5-x)=1，则 x 的取值为（ ）。
+  options:
+  - id: A
+    text: 2 或 4
+  - id: B
+    text: 3±√2
+  - id: C
+    text: 1 或 4
+  - id: D
+    text: 2 或 3
+  correct_option_id: D
+  explanation: 定义域要求 1<x<4。合并对数得 (x-1)(4-x)=2，即 x²-5x+6=0，解得 x=2 或 x=3，均符合定义域。
+  difficulty: advanced
+  tags:
+  - 幂函数、指数函数和对数函数
+  - 计算与推理
+  source_type: original
+  knowledge_point_ids:
+  - math.senior-high.exp-log
+  curriculum_scopes:
+  - xj-math-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: evaluate
+  reasoning_steps: 3
+  estimated_time_seconds: 240
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1

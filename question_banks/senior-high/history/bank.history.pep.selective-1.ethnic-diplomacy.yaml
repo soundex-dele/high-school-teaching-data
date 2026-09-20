@@ -1,0 +1,175 @@
+id: bank.history.pep.selective-1.ethnic-diplomacy
+subject: history
+education_stage: senior_high
+grade_scope:
+- 11
+curriculum_scopes:
+- pep-history-current
+canonical_knowledge_ids:
+- history.senior-high.ethnic-diplomacy
+questions:
+- id: history.pep.selective-1.ethnic-diplomacy.q1
+  stem: 下列哪一历史主题与材料描述最吻合：“和亲、会盟、战争和互市并存，民族交往不能简化为单一冲突关系”（ ）。
+  options:
+  - id: A
+    text: 中国古代边疆治理
+  - id: B
+    text: 中国古代对外交往
+  - id: C
+    text: 近代国际法与外交制度
+  - id: D
+    text: 中国古代民族关系
+  correct_option_id: D
+  explanation: 材料以“和亲、会盟、战争和互市并存，民族交往不能简化为单一冲突关系”为关键线索，指向“中国古代民族关系”。其余选项虽属同一章，但在时段、对象或核心机制上与材料不符。
+  difficulty: basic
+  tags:
+  - 民族关系与国家关系
+  - 中国古代民族关系
+  - 时空观念
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.ethnic-diplomacy
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 11
+  question_type: single_choice
+  cognitive_level: understand
+  reasoning_steps: 1
+  estimated_time_seconds: 75
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.selective-1.ethnic-diplomacy.q2
+  stem: 下列哪一历史主题与材料描述最吻合：“羁縻、土司、改土归流等措施因时因地调整中央与边疆关系”（ ）。
+  options:
+  - id: A
+    text: 近代国际法与外交制度
+  - id: B
+    text: 当代中国民族与外交政策
+  - id: C
+    text: 中国古代边疆治理
+  - id: D
+    text: 中国古代对外交往
+  correct_option_id: C
+  explanation: 材料以“羁縻、土司、改土归流等措施因时因地调整中央与边疆关系”为关键线索，指向“中国古代边疆治理”。其余选项虽属同一章，但在时段、对象或核心机制上与材料不符。
+  difficulty: basic
+  tags:
+  - 民族关系与国家关系
+  - 中国古代边疆治理
+  - 时空观念
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.ethnic-diplomacy
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 11
+  question_type: single_choice
+  cognitive_level: apply
+  reasoning_steps: 1
+  estimated_time_seconds: 90
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.selective-1.ethnic-diplomacy.q3
+  stem: 围绕“中国古代对外交往”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 和亲、会盟、战争和互市并存，民族交往不能简化为单一冲突关系
+  - id: B
+    text: 朝贡体系具有政治礼仪与贸易功能，不能直接套用现代外交概念
+  - id: C
+    text: 从总理衙门到外交部，近代中国被迫转入条约体系并建设现代外交机构
+  - id: D
+    text: 独立自主和平外交从和平共处五项原则发展到参与全球治理
+  correct_option_id: B
+  explanation: “朝贡体系具有政治礼仪与贸易功能，不能直接套用现代外交概念”准确概括了“中国古代对外交往”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: medium
+  tags:
+  - 民族关系与国家关系
+  - 中国古代对外交往
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.ethnic-diplomacy
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 11
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 120
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.selective-1.ethnic-diplomacy.q4
+  stem: 围绕“近代国际法与外交制度”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 从总理衙门到外交部，近代中国被迫转入条约体系并建设现代外交机构
+  - id: B
+    text: 独立自主和平外交从和平共处五项原则发展到参与全球治理
+  - id: C
+    text: 和亲、会盟、战争和互市并存，民族交往不能简化为单一冲突关系
+  - id: D
+    text: 羁縻、土司、改土归流等措施因时因地调整中央与边疆关系
+  correct_option_id: A
+  explanation: “从总理衙门到外交部，近代中国被迫转入条约体系并建设现代外交机构”准确概括了“近代国际法与外交制度”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: medium
+  tags:
+  - 民族关系与国家关系
+  - 近代国际法与外交制度
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.ethnic-diplomacy
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 11
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 150
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.selective-1.ethnic-diplomacy.q5
+  stem: 围绕“当代中国民族与外交政策”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 和亲、会盟、战争和互市并存，民族交往不能简化为单一冲突关系
+  - id: B
+    text: 羁縻、土司、改土归流等措施因时因地调整中央与边疆关系
+  - id: C
+    text: 朝贡体系具有政治礼仪与贸易功能，不能直接套用现代外交概念
+  - id: D
+    text: 独立自主和平外交从和平共处五项原则发展到参与全球治理
+  correct_option_id: D
+  explanation: “独立自主和平外交从和平共处五项原则发展到参与全球治理”准确概括了“当代中国民族与外交政策”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: advanced
+  tags:
+  - 民族关系与国家关系
+  - 当代中国民族与外交政策
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.ethnic-diplomacy
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 11
+  question_type: single_choice
+  cognitive_level: evaluate
+  reasoning_steps: 3
+  estimated_time_seconds: 210
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1

@@ -1,0 +1,175 @@
+id: bank.history.pep.selective-2.commerce-trade
+subject: history
+education_stage: senior_high
+grade_scope:
+- 11
+curriculum_scopes:
+- pep-history-current
+canonical_knowledge_ids:
+- history.senior-high.commerce-trade
+questions:
+- id: history.pep.selective-2.commerce-trade.q1
+  stem: 下列哪一历史主题与材料描述最吻合：“集市、商路和货币促进区域交换，商人群体与信用方式逐渐发展”（ ）。
+  options:
+  - id: A
+    text: 古代商业贸易
+  - id: B
+    text: 世界市场形成
+  - id: C
+    text: 货币信贷与金融
+  - id: D
+    text: 现代商业经营
+  correct_option_id: A
+  explanation: 材料以“集市、商路和货币促进区域交换，商人群体与信用方式逐渐发展”为关键线索，指向“古代商业贸易”。其余选项虽属同一章，但在时段、对象或核心机制上与材料不符。
+  difficulty: basic
+  tags:
+  - 商业贸易与日常生活
+  - 古代商业贸易
+  - 时空观念
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.commerce-trade
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 11
+  question_type: single_choice
+  cognitive_level: understand
+  reasoning_steps: 1
+  estimated_time_seconds: 75
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.selective-2.commerce-trade.q2
+  stem: 下列哪一历史主题与材料描述最吻合：“新航路和工业化把各洲生产消费联系起来，殖民关系造成不平等分工”（ ）。
+  options:
+  - id: A
+    text: 货币信贷与金融
+  - id: B
+    text: 现代商业经营
+  - id: C
+    text: 商业贸易与日常生活
+  - id: D
+    text: 世界市场形成
+  correct_option_id: D
+  explanation: 材料以“新航路和工业化把各洲生产消费联系起来，殖民关系造成不平等分工”为关键线索，指向“世界市场形成”。其余选项虽属同一章，但在时段、对象或核心机制上与材料不符。
+  difficulty: basic
+  tags:
+  - 商业贸易与日常生活
+  - 世界市场形成
+  - 时空观念
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.commerce-trade
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 11
+  question_type: single_choice
+  cognitive_level: apply
+  reasoning_steps: 1
+  estimated_time_seconds: 90
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.selective-2.commerce-trade.q3
+  stem: 围绕“货币信贷与金融”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 商品丰富背后还有物流、支付、规则和信息网络，不能只看交易数量
+  - id: B
+    text: 集市、商路和货币促进区域交换，商人群体与信用方式逐渐发展
+  - id: C
+    text: 银行、证券、保险分散风险并汇集资本，也可能放大金融波动
+  - id: D
+    text: 百货公司、连锁经营到电子商务不断改变流通效率和消费体验
+  correct_option_id: C
+  explanation: “银行、证券、保险分散风险并汇集资本，也可能放大金融波动”准确概括了“货币信贷与金融”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: medium
+  tags:
+  - 商业贸易与日常生活
+  - 货币信贷与金融
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.commerce-trade
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 11
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 120
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.selective-2.commerce-trade.q4
+  stem: 围绕“现代商业经营”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 新航路和工业化把各洲生产消费联系起来，殖民关系造成不平等分工
+  - id: B
+    text: 百货公司、连锁经营到电子商务不断改变流通效率和消费体验
+  - id: C
+    text: 商品丰富背后还有物流、支付、规则和信息网络，不能只看交易数量
+  - id: D
+    text: 集市、商路和货币促进区域交换，商人群体与信用方式逐渐发展
+  correct_option_id: B
+  explanation: “百货公司、连锁经营到电子商务不断改变流通效率和消费体验”准确概括了“现代商业经营”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: medium
+  tags:
+  - 商业贸易与日常生活
+  - 现代商业经营
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.commerce-trade
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 11
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 150
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.selective-2.commerce-trade.q5
+  stem: 围绕“商业贸易与日常生活”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 商品丰富背后还有物流、支付、规则和信息网络，不能只看交易数量
+  - id: B
+    text: 集市、商路和货币促进区域交换，商人群体与信用方式逐渐发展
+  - id: C
+    text: 新航路和工业化把各洲生产消费联系起来，殖民关系造成不平等分工
+  - id: D
+    text: 银行、证券、保险分散风险并汇集资本，也可能放大金融波动
+  correct_option_id: A
+  explanation: “商品丰富背后还有物流、支付、规则和信息网络，不能只看交易数量”准确概括了“商业贸易与日常生活”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: advanced
+  tags:
+  - 商业贸易与日常生活
+  - 商业贸易与日常生活
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.commerce-trade
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 11
+  question_type: single_choice
+  cognitive_level: evaluate
+  reasoning_steps: 3
+  estimated_time_seconds: 210
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1

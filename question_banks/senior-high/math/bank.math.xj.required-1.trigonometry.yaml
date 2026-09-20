@@ -1,0 +1,170 @@
+id: bank.math.xj.required-1.trigonometry
+subject: math
+education_stage: senior_high
+grade_scope:
+- 10
+curriculum_scopes:
+- xj-math-current
+canonical_knowledge_ids:
+- math.senior-high.trigonometry
+questions:
+- id: math.xj.required-1.trigonometry.q1
+  stem: 角 150° 的弧度数是（ ）。
+  options:
+  - id: A
+    text: 5π/6
+  - id: B
+    text: 3π/4
+  - id: C
+    text: 2π/3
+  - id: D
+    text: 7π/6
+  correct_option_id: A
+  explanation: 150°×π/180°=5π/6。
+  difficulty: basic
+  tags:
+  - 三角函数
+  - 概念与运算
+  source_type: original
+  knowledge_point_ids:
+  - math.senior-high.trigonometry
+  curriculum_scopes:
+  - xj-math-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: understand
+  reasoning_steps: 1
+  estimated_time_seconds: 60
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: math.xj.required-1.trigonometry.q2
+  stem: 若 sin α=3/5，且 α 为第二象限角，则 cos α 等于（ ）。
+  options:
+  - id: A
+    text: 4/5
+  - id: B
+    text: 3/4
+  - id: C
+    text: -3/4
+  - id: D
+    text: -4/5
+  correct_option_id: D
+  explanation: 由平方关系得 |cos α|=4/5，第二象限余弦为负。
+  difficulty: basic
+  tags:
+  - 三角函数
+  - 概念与运算
+  source_type: original
+  knowledge_point_ids:
+  - math.senior-high.trigonometry
+  curriculum_scopes:
+  - xj-math-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: apply
+  reasoning_steps: 1
+  estimated_time_seconds: 75
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: math.xj.required-1.trigonometry.q3
+  stem: 函数 y=2sin(2x+π/3) 的最小正周期为（ ）。
+  options:
+  - id: A
+    text: π/2
+  - id: B
+    text: 4π
+  - id: C
+    text: π
+  - id: D
+    text: 2π
+  correct_option_id: C
+  explanation: sin(ωx+φ) 的周期为 2π/|ω|，这里 ω=2，所以周期为 π。
+  difficulty: medium
+  tags:
+  - 三角函数
+  - 计算与推理
+  source_type: original
+  knowledge_point_ids:
+  - math.senior-high.trigonometry
+  curriculum_scopes:
+  - xj-math-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 120
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: math.xj.required-1.trigonometry.q4
+  stem: 要把 y=sin 2x 的图象向左平移 π/6，所得函数为（ ）。
+  options:
+  - id: A
+    text: y=sin(2x-π/3)
+  - id: B
+    text: y=sin(2x+π/3)
+  - id: C
+    text: y=sin(2x+π/6)
+  - id: D
+    text: y=sin(2x-π/6)
+  correct_option_id: B
+  explanation: 横向左移 π/6 应将 x 换为 x+π/6，故相位增加 2×π/6=π/3。
+  difficulty: medium
+  tags:
+  - 三角函数
+  - 计算与推理
+  source_type: original
+  knowledge_point_ids:
+  - math.senior-high.trigonometry
+  curriculum_scopes:
+  - xj-math-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 150
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: math.xj.required-1.trigonometry.q5
+  stem: 在△ABC中，a=√3，b=1，A=60°，则角 B 的可能值个数为（ ）。
+  options:
+  - id: A
+    text: '1'
+  - id: B
+    text: '0'
+  - id: C
+    text: '2'
+  - id: D
+    text: '3'
+  correct_option_id: A
+  explanation: 由正弦定理 sin B=b sin A/a=1/2。B 可为 30° 或 150°，但 A+B<180° 排除 150°，故只有一个。
+  difficulty: advanced
+  tags:
+  - 三角函数
+  - 计算与推理
+  source_type: original
+  knowledge_point_ids:
+  - math.senior-high.trigonometry
+  curriculum_scopes:
+  - xj-math-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: evaluate
+  reasoning_steps: 3
+  estimated_time_seconds: 240
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1

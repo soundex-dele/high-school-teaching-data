@@ -1,0 +1,175 @@
+id: bank.history.pep.outline-2.capitalist-system
+subject: history
+education_stage: senior_high
+grade_scope:
+- 10
+curriculum_scopes:
+- pep-history-current
+canonical_knowledge_ids:
+- history.senior-high.capitalist-system
+questions:
+- id: history.pep.outline-2.capitalist-system.q1
+  stem: 下列哪一历史主题与材料描述最吻合：“以人文主义反对神学束缚，肯定人的价值但主要影响社会上层”（ ）。
+  options:
+  - id: A
+    text: 文艺复兴与宗教改革
+  - id: B
+    text: 近代科学与启蒙运动
+  - id: C
+    text: 英国资产阶级革命
+  - id: D
+    text: 美国独立与共和制度
+  correct_option_id: A
+  explanation: 材料以“以人文主义反对神学束缚，肯定人的价值但主要影响社会上层”为关键线索，指向“文艺复兴与宗教改革”。其余选项虽属同一章，但在时段、对象或核心机制上与材料不符。
+  difficulty: basic
+  tags:
+  - 资本主义制度的确立
+  - 文艺复兴与宗教改革
+  - 时空观念
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.capitalist-system
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: understand
+  reasoning_steps: 1
+  estimated_time_seconds: 75
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.outline-2.capitalist-system.q2
+  stem: 下列哪一历史主题与材料描述最吻合：“挑战教会权威并促进民族国家发展，新教伦理影响社会生活”（ ）。
+  options:
+  - id: A
+    text: 英国资产阶级革命
+  - id: B
+    text: 美国独立与共和制度
+  - id: C
+    text: 法国大革命与拿破仑时代
+  - id: D
+    text: 近代科学与启蒙运动
+  correct_option_id: D
+  explanation: 材料以“挑战教会权威并促进民族国家发展，新教伦理影响社会生活”为关键线索，指向“近代科学与启蒙运动”。其余选项虽属同一章，但在时段、对象或核心机制上与材料不符。
+  difficulty: basic
+  tags:
+  - 资本主义制度的确立
+  - 近代科学与启蒙运动
+  - 时空观念
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.capitalist-system
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: apply
+  reasoning_steps: 1
+  estimated_time_seconds: 90
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.outline-2.capitalist-system.q3
+  stem: 围绕“英国资产阶级革命”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 废除封建特权和传播自由平等观念，革命进程却经历共和、帝制反复
+  - id: B
+    text: 以人文主义反对神学束缚，肯定人的价值但主要影响社会上层
+  - id: C
+    text: 议会限制王权，逐渐形成君主立宪制度而非彻底废除君主
+  - id: D
+    text: 摆脱殖民统治后通过宪法建立联邦共和制，并实行分权制衡
+  correct_option_id: C
+  explanation: “议会限制王权，逐渐形成君主立宪制度而非彻底废除君主”准确概括了“英国资产阶级革命”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: medium
+  tags:
+  - 资本主义制度的确立
+  - 英国资产阶级革命
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.capitalist-system
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 120
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.outline-2.capitalist-system.q4
+  stem: 围绕“美国独立与共和制度”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 挑战教会权威并促进民族国家发展，新教伦理影响社会生活
+  - id: B
+    text: 摆脱殖民统治后通过宪法建立联邦共和制，并实行分权制衡
+  - id: C
+    text: 废除封建特权和传播自由平等观念，革命进程却经历共和、帝制反复
+  - id: D
+    text: 以人文主义反对神学束缚，肯定人的价值但主要影响社会上层
+  correct_option_id: B
+  explanation: “摆脱殖民统治后通过宪法建立联邦共和制，并实行分权制衡”准确概括了“美国独立与共和制度”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: medium
+  tags:
+  - 资本主义制度的确立
+  - 美国独立与共和制度
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.capitalist-system
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 150
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.outline-2.capitalist-system.q5
+  stem: 围绕“法国大革命与拿破仑时代”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 废除封建特权和传播自由平等观念，革命进程却经历共和、帝制反复
+  - id: B
+    text: 以人文主义反对神学束缚，肯定人的价值但主要影响社会上层
+  - id: C
+    text: 挑战教会权威并促进民族国家发展，新教伦理影响社会生活
+  - id: D
+    text: 议会限制王权，逐渐形成君主立宪制度而非彻底废除君主
+  correct_option_id: A
+  explanation: “废除封建特权和传播自由平等观念，革命进程却经历共和、帝制反复”准确概括了“法国大革命与拿破仑时代”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: advanced
+  tags:
+  - 资本主义制度的确立
+  - 法国大革命与拿破仑时代
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.capitalist-system
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: evaluate
+  reasoning_steps: 3
+  estimated_time_seconds: 210
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1

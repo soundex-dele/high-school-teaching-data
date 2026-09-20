@@ -1,0 +1,175 @@
+id: bank.history.pep.selective-3.population-culture
+subject: history
+education_stage: senior_high
+grade_scope:
+- 12
+curriculum_scopes:
+- pep-history-current
+canonical_knowledge_ids:
+- history.senior-high.population-culture
+questions:
+- id: history.pep.selective-3.population-culture.q1
+  stem: 下列哪一历史主题与材料描述最吻合：“游牧与农耕人口移动推动技术、语言和制度交流，也伴随冲突”（ ）。
+  options:
+  - id: A
+    text: 印欧人迁徙
+  - id: B
+    text: 近代跨洲人口迁徙
+  - id: C
+    text: 华工与华人社会
+  - id: D
+    text: 古代人口迁徙
+  correct_option_id: D
+  explanation: 材料以“游牧与农耕人口移动推动技术、语言和制度交流，也伴随冲突”为关键线索，指向“古代人口迁徙”。其余选项虽属同一章，但在时段、对象或核心机制上与材料不符。
+  difficulty: basic
+  tags:
+  - 人口迁徙、文化交融与认同
+  - 古代人口迁徙
+  - 时空观念
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.population-culture
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 12
+  question_type: single_choice
+  cognitive_level: understand
+  reasoning_steps: 1
+  estimated_time_seconds: 75
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.selective-3.population-culture.q2
+  stem: 下列哪一历史主题与材料描述最吻合：“族群扩散影响欧亚语言分布，但不是单向替代所有当地文化”（ ）。
+  options:
+  - id: A
+    text: 华工与华人社会
+  - id: B
+    text: 文化交融与身份认同
+  - id: C
+    text: 印欧人迁徙
+  - id: D
+    text: 近代跨洲人口迁徙
+  correct_option_id: C
+  explanation: 材料以“族群扩散影响欧亚语言分布，但不是单向替代所有当地文化”为关键线索，指向“印欧人迁徙”。其余选项虽属同一章，但在时段、对象或核心机制上与材料不符。
+  difficulty: basic
+  tags:
+  - 人口迁徙、文化交融与认同
+  - 印欧人迁徙
+  - 时空观念
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.population-culture
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 12
+  question_type: single_choice
+  cognitive_level: apply
+  reasoning_steps: 1
+  estimated_time_seconds: 90
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.selective-3.population-culture.q3
+  stem: 围绕“近代跨洲人口迁徙”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 游牧与农耕人口移动推动技术、语言和制度交流，也伴随冲突
+  - id: B
+    text: 殖民、奴隶贸易和工业化造成跨洲流动，改变美洲人口结构
+  - id: C
+    text: 契约劳工在海外形成社群并连接中国与世界，同时经历歧视和抗争
+  - id: D
+    text: 移民常在保留传统与适应当地之间形成复合身份，而非完全同化
+  correct_option_id: B
+  explanation: “殖民、奴隶贸易和工业化造成跨洲流动，改变美洲人口结构”准确概括了“近代跨洲人口迁徙”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: medium
+  tags:
+  - 人口迁徙、文化交融与认同
+  - 近代跨洲人口迁徙
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.population-culture
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 12
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 120
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.selective-3.population-culture.q4
+  stem: 围绕“华工与华人社会”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 契约劳工在海外形成社群并连接中国与世界，同时经历歧视和抗争
+  - id: B
+    text: 移民常在保留传统与适应当地之间形成复合身份，而非完全同化
+  - id: C
+    text: 游牧与农耕人口移动推动技术、语言和制度交流，也伴随冲突
+  - id: D
+    text: 族群扩散影响欧亚语言分布，但不是单向替代所有当地文化
+  correct_option_id: A
+  explanation: “契约劳工在海外形成社群并连接中国与世界，同时经历歧视和抗争”准确概括了“华工与华人社会”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: medium
+  tags:
+  - 人口迁徙、文化交融与认同
+  - 华工与华人社会
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.population-culture
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 12
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 150
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.selective-3.population-culture.q5
+  stem: 围绕“文化交融与身份认同”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 游牧与农耕人口移动推动技术、语言和制度交流，也伴随冲突
+  - id: B
+    text: 族群扩散影响欧亚语言分布，但不是单向替代所有当地文化
+  - id: C
+    text: 殖民、奴隶贸易和工业化造成跨洲流动，改变美洲人口结构
+  - id: D
+    text: 移民常在保留传统与适应当地之间形成复合身份，而非完全同化
+  correct_option_id: D
+  explanation: “移民常在保留传统与适应当地之间形成复合身份，而非完全同化”准确概括了“文化交融与身份认同”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: advanced
+  tags:
+  - 人口迁徙、文化交融与认同
+  - 文化交融与身份认同
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.population-culture
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 12
+  question_type: single_choice
+  cognitive_level: evaluate
+  reasoning_steps: 3
+  estimated_time_seconds: 210
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1

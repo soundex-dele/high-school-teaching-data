@@ -1,0 +1,175 @@
+id: bank.history.pep.selective-3.civilization-origins
+subject: history
+education_stage: senior_high
+grade_scope:
+- 12
+curriculum_scopes:
+- pep-history-current
+canonical_knowledge_ids:
+- history.senior-high.civilization-origins
+questions:
+- id: history.pep.selective-3.civilization-origins.q1
+  stem: 下列哪一历史主题与材料描述最吻合：“多区域考古遗存相互联系，说明中华文明由多元汇聚为共同体”（ ）。
+  options:
+  - id: A
+    text: 中华文化的多民族交融
+  - id: B
+    text: 中外文化交流
+  - id: C
+    text: 中华文化的起源
+  - id: D
+    text: 儒家思想发展
+  correct_option_id: C
+  explanation: 材料以“多区域考古遗存相互联系，说明中华文明由多元汇聚为共同体”为关键线索，指向“中华文化的起源”。其余选项虽属同一章，但在时段、对象或核心机制上与材料不符。
+  difficulty: basic
+  tags:
+  - 源远流长的中华文化
+  - 中华文化的起源
+  - 时空观念
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.civilization-origins
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 12
+  question_type: single_choice
+  cognitive_level: understand
+  reasoning_steps: 1
+  estimated_time_seconds: 75
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.selective-3.civilization-origins.q2
+  stem: 下列哪一历史主题与材料描述最吻合：“儒、道等思想在争鸣和历代诠释中发展，持续影响伦理政治”（ ）。
+  options:
+  - id: A
+    text: 中华文化的连续性与包容性
+  - id: B
+    text: 儒家思想发展
+  - id: C
+    text: 中华文化的多民族交融
+  - id: D
+    text: 中外文化交流
+  correct_option_id: B
+  explanation: 材料以“儒、道等思想在争鸣和历代诠释中发展，持续影响伦理政治”为关键线索，指向“儒家思想发展”。其余选项虽属同一章，但在时段、对象或核心机制上与材料不符。
+  difficulty: basic
+  tags:
+  - 源远流长的中华文化
+  - 儒家思想发展
+  - 时空观念
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.civilization-origins
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 12
+  question_type: single_choice
+  cognitive_level: apply
+  reasoning_steps: 1
+  estimated_time_seconds: 90
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.selective-3.civilization-origins.q3
+  stem: 围绕“中华文化的多民族交融”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 佛教中国化、各民族文化互鉴说明传统通过吸收转化保持活力
+  - id: B
+    text: 典籍、制度、技术经陆海通道外传，同时域外知识也传入中国
+  - id: C
+    text: 连续性、创新性、统一性、包容性与和平性需结合交流和变革共同理解
+  - id: D
+    text: 多区域考古遗存相互联系，说明中华文明由多元汇聚为共同体
+  correct_option_id: A
+  explanation: “佛教中国化、各民族文化互鉴说明传统通过吸收转化保持活力”准确概括了“中华文化的多民族交融”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: medium
+  tags:
+  - 源远流长的中华文化
+  - 中华文化的多民族交融
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.civilization-origins
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 12
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 120
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.selective-3.civilization-origins.q4
+  stem: 围绕“中外文化交流”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 连续性、创新性、统一性、包容性与和平性需结合交流和变革共同理解
+  - id: B
+    text: 多区域考古遗存相互联系，说明中华文明由多元汇聚为共同体
+  - id: C
+    text: 儒、道等思想在争鸣和历代诠释中发展，持续影响伦理政治
+  - id: D
+    text: 典籍、制度、技术经陆海通道外传，同时域外知识也传入中国
+  correct_option_id: D
+  explanation: “典籍、制度、技术经陆海通道外传，同时域外知识也传入中国”准确概括了“中外文化交流”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: medium
+  tags:
+  - 源远流长的中华文化
+  - 中外文化交流
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.civilization-origins
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 12
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 150
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.selective-3.civilization-origins.q5
+  stem: 围绕“中华文化的连续性与包容性”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 儒、道等思想在争鸣和历代诠释中发展，持续影响伦理政治
+  - id: B
+    text: 佛教中国化、各民族文化互鉴说明传统通过吸收转化保持活力
+  - id: C
+    text: 连续性、创新性、统一性、包容性与和平性需结合交流和变革共同理解
+  - id: D
+    text: 多区域考古遗存相互联系，说明中华文明由多元汇聚为共同体
+  correct_option_id: C
+  explanation: “连续性、创新性、统一性、包容性与和平性需结合交流和变革共同理解”准确概括了“中华文化的连续性与包容性”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: advanced
+  tags:
+  - 源远流长的中华文化
+  - 中华文化的连续性与包容性
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.civilization-origins
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 12
+  question_type: single_choice
+  cognitive_level: evaluate
+  reasoning_steps: 3
+  estimated_time_seconds: 210
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1

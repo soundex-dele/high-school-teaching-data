@@ -1,0 +1,170 @@
+id: bank.math.xj.selective-1.conic
+subject: math
+education_stage: senior_high
+grade_scope:
+- 11
+curriculum_scopes:
+- xj-math-current
+canonical_knowledge_ids:
+- math.senior-high.conic
+questions:
+- id: math.xj.selective-1.conic.q1
+  stem: 椭圆 x²/9+y²/4=1 的焦距为（ ）。
+  options:
+  - id: A
+    text: 2√5
+  - id: B
+    text: √5
+  - id: C
+    text: '5'
+  - id: D
+    text: '10'
+  correct_option_id: A
+  explanation: c²=a²-b²=9-4=5，两焦点距离为 2c=2√5。
+  difficulty: basic
+  tags:
+  - 圆锥曲线与方程
+  - 概念与运算
+  source_type: original
+  knowledge_point_ids:
+  - math.senior-high.conic
+  curriculum_scopes:
+  - xj-math-current
+  education_stage: senior_high
+  grade_scope:
+  - 11
+  question_type: single_choice
+  cognitive_level: understand
+  reasoning_steps: 1
+  estimated_time_seconds: 60
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: math.xj.selective-1.conic.q2
+  stem: 双曲线 x²/16-y²/9=1 的渐近线方程为（ ）。
+  options:
+  - id: A
+    text: y=±4x/3
+  - id: B
+    text: y=±5x/4
+  - id: C
+    text: y=±x
+  - id: D
+    text: y=±3x/4
+  correct_option_id: D
+  explanation: 标准双曲线 x²/a²-y²/b²=1 的渐近线为 y=±(b/a)x。
+  difficulty: basic
+  tags:
+  - 圆锥曲线与方程
+  - 概念与运算
+  source_type: original
+  knowledge_point_ids:
+  - math.senior-high.conic
+  curriculum_scopes:
+  - xj-math-current
+  education_stage: senior_high
+  grade_scope:
+  - 11
+  question_type: single_choice
+  cognitive_level: apply
+  reasoning_steps: 1
+  estimated_time_seconds: 75
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: math.xj.selective-1.conic.q3
+  stem: 抛物线 y²=8x 的焦点坐标是（ ）。
+  options:
+  - id: A
+    text: (0,2)
+  - id: B
+    text: (4,0)
+  - id: C
+    text: (2,0)
+  - id: D
+    text: (1,0)
+  correct_option_id: C
+  explanation: 与 y²=4px 对比得 p=2，焦点为 (p,0)=(2,0)。
+  difficulty: medium
+  tags:
+  - 圆锥曲线与方程
+  - 计算与推理
+  source_type: original
+  knowledge_point_ids:
+  - math.senior-high.conic
+  curriculum_scopes:
+  - xj-math-current
+  education_stage: senior_high
+  grade_scope:
+  - 11
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 120
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: math.xj.selective-1.conic.q4
+  stem: 椭圆上一点 P 到两焦点的距离分别为 3 和 5，则该椭圆长轴长为（ ）。
+  options:
+  - id: A
+    text: '10'
+  - id: B
+    text: '8'
+  - id: C
+    text: '4'
+  - id: D
+    text: '5'
+  correct_option_id: B
+  explanation: 椭圆定义给出 PF₁+PF₂=2a，故长轴长 2a=3+5=8。
+  difficulty: medium
+  tags:
+  - 圆锥曲线与方程
+  - 计算与推理
+  source_type: original
+  knowledge_point_ids:
+  - math.senior-high.conic
+  curriculum_scopes:
+  - xj-math-current
+  education_stage: senior_high
+  grade_scope:
+  - 11
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 150
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: math.xj.selective-1.conic.q5
+  stem: 动点 P 到点 F(1,0) 的距离等于到直线 x=-1 的距离，则 P 的轨迹为（ ）。
+  options:
+  - id: A
+    text: 开口向右的抛物线
+  - id: B
+    text: 焦点在 x 轴上的椭圆
+  - id: C
+    text: 焦点在 x 轴上的双曲线
+  - id: D
+    text: 圆心在原点的圆
+  correct_option_id: A
+  explanation: 到定点与定直线距离相等是抛物线定义；焦点在准线右侧，故开口向右。
+  difficulty: advanced
+  tags:
+  - 圆锥曲线与方程
+  - 计算与推理
+  source_type: original
+  knowledge_point_ids:
+  - math.senior-high.conic
+  curriculum_scopes:
+  - xj-math-current
+  education_stage: senior_high
+  grade_scope:
+  - 11
+  question_type: single_choice
+  cognitive_level: evaluate
+  reasoning_steps: 3
+  estimated_time_seconds: 240
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1

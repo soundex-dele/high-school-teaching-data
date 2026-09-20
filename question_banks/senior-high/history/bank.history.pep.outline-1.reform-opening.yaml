@@ -1,0 +1,175 @@
+id: bank.history.pep.outline-1.reform-opening
+subject: history
+education_stage: senior_high
+grade_scope:
+- 10
+curriculum_scopes:
+- pep-history-current
+canonical_knowledge_ids:
+- history.senior-high.reform-opening
+questions:
+- id: history.pep.outline-1.reform-opening.q1
+  stem: 下列哪一历史主题与材料描述最吻合：“思想路线得到重新确立，党和国家工作中心转向经济建设”（ ）。
+  options:
+  - id: A
+    text: 社会主义市场经济体制
+  - id: B
+    text: 十一届三中全会
+  - id: C
+    text: 农村与城市经济体制改革
+  - id: D
+    text: 对外开放格局
+  correct_option_id: B
+  explanation: 材料以“思想路线得到重新确立，党和国家工作中心转向经济建设”为关键线索，指向“十一届三中全会”。其余选项虽属同一章，但在时段、对象或核心机制上与材料不符。
+  difficulty: basic
+  tags:
+  - 改革开放与社会主义现代化建设新时期
+  - 十一届三中全会
+  - 时空观念
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.reform-opening
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: understand
+  reasoning_steps: 1
+  estimated_time_seconds: 75
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.outline-1.reform-opening.q2
+  stem: 下列哪一历史主题与材料描述最吻合：“从包产到户到乡镇企业发展，农民生产积极性和农村活力提高”（ ）。
+  options:
+  - id: A
+    text: 农村与城市经济体制改革
+  - id: B
+    text: 对外开放格局
+  - id: C
+    text: 社会主义市场经济体制
+  - id: D
+    text: 新时代中国特色社会主义
+  correct_option_id: A
+  explanation: 材料以“从包产到户到乡镇企业发展，农民生产积极性和农村活力提高”为关键线索，指向“农村与城市经济体制改革”。其余选项虽属同一章，但在时段、对象或核心机制上与材料不符。
+  difficulty: basic
+  tags:
+  - 改革开放与社会主义现代化建设新时期
+  - 农村与城市经济体制改革
+  - 时空观念
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.reform-opening
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: apply
+  reasoning_steps: 1
+  estimated_time_seconds: 90
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.outline-1.reform-opening.q3
+  stem: 围绕“对外开放格局”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 市场在资源配置中的作用逐步增强，同时坚持社会主义基本制度
+  - id: B
+    text: 脱贫攻坚、科技创新与国家治理现代化体现道路在新时代的持续发展
+  - id: C
+    text: 思想路线得到重新确立，党和国家工作中心转向经济建设
+  - id: D
+    text: 经济特区到沿海开放城市再到内地，形成多层次开放格局
+  correct_option_id: D
+  explanation: “经济特区到沿海开放城市再到内地，形成多层次开放格局”准确概括了“对外开放格局”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: medium
+  tags:
+  - 改革开放与社会主义现代化建设新时期
+  - 对外开放格局
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.reform-opening
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 120
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.outline-1.reform-opening.q4
+  stem: 围绕“社会主义市场经济体制”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 思想路线得到重新确立，党和国家工作中心转向经济建设
+  - id: B
+    text: 从包产到户到乡镇企业发展，农民生产积极性和农村活力提高
+  - id: C
+    text: 市场在资源配置中的作用逐步增强，同时坚持社会主义基本制度
+  - id: D
+    text: 脱贫攻坚、科技创新与国家治理现代化体现道路在新时代的持续发展
+  correct_option_id: C
+  explanation: “市场在资源配置中的作用逐步增强，同时坚持社会主义基本制度”准确概括了“社会主义市场经济体制”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: medium
+  tags:
+  - 改革开放与社会主义现代化建设新时期
+  - 社会主义市场经济体制
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.reform-opening
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 150
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.outline-1.reform-opening.q5
+  stem: 围绕“新时代中国特色社会主义”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 经济特区到沿海开放城市再到内地，形成多层次开放格局
+  - id: B
+    text: 脱贫攻坚、科技创新与国家治理现代化体现道路在新时代的持续发展
+  - id: C
+    text: 思想路线得到重新确立，党和国家工作中心转向经济建设
+  - id: D
+    text: 从包产到户到乡镇企业发展，农民生产积极性和农村活力提高
+  correct_option_id: B
+  explanation: “脱贫攻坚、科技创新与国家治理现代化体现道路在新时代的持续发展”准确概括了“新时代中国特色社会主义”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: advanced
+  tags:
+  - 改革开放与社会主义现代化建设新时期
+  - 新时代中国特色社会主义
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.reform-opening
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: evaluate
+  reasoning_steps: 3
+  estimated_time_seconds: 210
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1

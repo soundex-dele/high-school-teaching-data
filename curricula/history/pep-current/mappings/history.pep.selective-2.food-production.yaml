@@ -1,0 +1,16 @@
+id: history.pep.selective-2.food-production
+canonical_id: history.senior-high.food-production
+curriculum_id: pep-history-current
+subject: history
+education_stage: senior_high
+grade_scope:
+- 11
+semester_scope: second
+display_name: 食物生产与社会生活
+reference:
+  publisher: 人民教育出版社
+  edition_scope: 现行普通高中教科书
+  chapter: 选择性必修2 经济与社会生活·食物生产与社会生活
+question_bank_ids:
+- bank.history.pep.selective-2.food-production
+review_status: self_checked

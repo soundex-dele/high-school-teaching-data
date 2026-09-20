@@ -1,0 +1,175 @@
+id: bank.history.pep.selective-2.transport
+subject: history
+education_stage: senior_high
+grade_scope:
+- 11
+curriculum_scopes:
+- pep-history-current
+canonical_knowledge_ids:
+- history.senior-high.transport
+questions:
+- id: history.pep.selective-2.transport.q1
+  stem: 下列哪一历史主题与材料描述最吻合：“驿道、车马和运河服务军事行政与贸易，通行能力受地形和政权影响”（ ）。
+  options:
+  - id: A
+    text: 古代水路与海路
+  - id: B
+    text: 铁路与轮船
+  - id: C
+    text: 汽车航空与高速交通
+  - id: D
+    text: 古代陆路交通
+  correct_option_id: D
+  explanation: 材料以“驿道、车马和运河服务军事行政与贸易，通行能力受地形和政权影响”为关键线索，指向“古代陆路交通”。其余选项虽属同一章，但在时段、对象或核心机制上与材料不符。
+  difficulty: basic
+  tags:
+  - 交通与社会变迁
+  - 古代陆路交通
+  - 时空观念
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.transport
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 11
+  question_type: single_choice
+  cognitive_level: understand
+  reasoning_steps: 1
+  estimated_time_seconds: 75
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.selective-2.transport.q2
+  stem: 下列哪一历史主题与材料描述最吻合：“帆船与港口连接区域市场，航海技术扩大跨海交往范围”（ ）。
+  options:
+  - id: A
+    text: 汽车航空与高速交通
+  - id: B
+    text: 交通对社会变迁的影响
+  - id: C
+    text: 古代水路与海路
+  - id: D
+    text: 铁路与轮船
+  correct_option_id: C
+  explanation: 材料以“帆船与港口连接区域市场，航海技术扩大跨海交往范围”为关键线索，指向“古代水路与海路”。其余选项虽属同一章，但在时段、对象或核心机制上与材料不符。
+  difficulty: basic
+  tags:
+  - 交通与社会变迁
+  - 古代水路与海路
+  - 时空观念
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.transport
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 11
+  question_type: single_choice
+  cognitive_level: apply
+  reasoning_steps: 1
+  estimated_time_seconds: 90
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.selective-2.transport.q3
+  stem: 围绕“铁路与轮船”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 驿道、车马和运河服务军事行政与贸易，通行能力受地形和政权影响
+  - id: B
+    text: 铁路压缩旅行时间并重组资源和城市布局，也是国家能力的重要体现
+  - id: C
+    text: 汽车、航空和高速铁路形成综合网络，但也产生能源与环境成本
+  - id: D
+    text: 交通改善会改变区位优势、人口流动和文化交流，而不只是提高速度
+  correct_option_id: B
+  explanation: “铁路压缩旅行时间并重组资源和城市布局，也是国家能力的重要体现”准确概括了“铁路与轮船”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: medium
+  tags:
+  - 交通与社会变迁
+  - 铁路与轮船
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.transport
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 11
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 120
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.selective-2.transport.q4
+  stem: 围绕“汽车航空与高速交通”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 汽车、航空和高速铁路形成综合网络，但也产生能源与环境成本
+  - id: B
+    text: 交通改善会改变区位优势、人口流动和文化交流，而不只是提高速度
+  - id: C
+    text: 驿道、车马和运河服务军事行政与贸易，通行能力受地形和政权影响
+  - id: D
+    text: 帆船与港口连接区域市场，航海技术扩大跨海交往范围
+  correct_option_id: A
+  explanation: “汽车、航空和高速铁路形成综合网络，但也产生能源与环境成本”准确概括了“汽车航空与高速交通”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: medium
+  tags:
+  - 交通与社会变迁
+  - 汽车航空与高速交通
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.transport
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 11
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 150
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.selective-2.transport.q5
+  stem: 围绕“交通对社会变迁的影响”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 驿道、车马和运河服务军事行政与贸易，通行能力受地形和政权影响
+  - id: B
+    text: 帆船与港口连接区域市场，航海技术扩大跨海交往范围
+  - id: C
+    text: 铁路压缩旅行时间并重组资源和城市布局，也是国家能力的重要体现
+  - id: D
+    text: 交通改善会改变区位优势、人口流动和文化交流，而不只是提高速度
+  correct_option_id: D
+  explanation: “交通改善会改变区位优势、人口流动和文化交流，而不只是提高速度”准确概括了“交通对社会变迁的影响”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: advanced
+  tags:
+  - 交通与社会变迁
+  - 交通对社会变迁的影响
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.transport
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 11
+  question_type: single_choice
+  cognitive_level: evaluate
+  reasoning_steps: 3
+  estimated_time_seconds: 210
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1

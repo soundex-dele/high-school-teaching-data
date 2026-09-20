@@ -1,0 +1,62 @@
+id: math.senior-high.trigonometry
+subject: math
+education_stage: senior_high
+name: 三角函数
+summary: 本知识点围绕任意角三角函数展开，重点是用单位圆理解三角函数，掌握图象、性质和基本恒等变换，并能在新的问题情境中说明条件、过程与结论之间的联系。
+objectives:
+- 用单位圆理解三角函数，掌握图象、性质和基本恒等变换
+- 能够识别典型条件并用规范语言说明判断依据
+prerequisites:
+- 初中阶段相关基础知识
+- 基本阅读、表达与推理能力
+common_mistakes:
+- 角度制与弧度制混用或漏写周期
+keywords:
+- 任意角三角函数
+- 三角函数
+competency_tags:
+- 数学抽象
+- 逻辑推理
+knowledge_items:
+- id: radian
+  type: definition
+  name: 弧度制
+  content: 圆心角的弧度数等于所对弧长与半径之比。
+  review_status: self_checked
+  formulas:
+  - \alpha=\frac lr
+- id: unit-circle
+  type: definition
+  name: 任意角三角函数
+  content: 单位圆上终边交点的坐标给出余弦和正弦。
+  review_status: self_checked
+  formulas:
+  - \cos\alpha=x
+  - \sin\alpha=y
+  - \tan\alpha=\frac yx
+- id: basic-identity
+  type: theorem
+  name: 同角三角函数基本关系
+  content: 正弦平方与余弦平方之和恒为 1。
+  review_status: self_checked
+  formulas:
+  - \sin^2\alpha+\cos^2\alpha=1
+  conditions: []
+  conclusion: 恒等式对任意有定义的角成立。
+- id: periodicity
+  type: property
+  name: 三角函数的周期性
+  content: 正弦和余弦的最小正周期为 2π，正切的最小正周期为 π。
+  review_status: self_checked
+  formulas:
+  - \sin(x+2\pi)=\sin x
+  - \tan(x+\pi)=\tan x
+- id: addition
+  type: formula
+  name: 两角和与差公式
+  content: 把复合角的三角函数转化为单角三角函数。
+  review_status: self_checked
+  formulas:
+  - \sin(\alpha+\beta)=\sin\alpha\cos\beta+\cos\alpha\sin\beta
+  - \cos(\alpha+\beta)=\cos\alpha\cos\beta-\sin\alpha\sin\beta
+review_status: self_checked

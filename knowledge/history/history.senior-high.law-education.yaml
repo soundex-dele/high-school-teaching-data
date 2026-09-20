@@ -1,0 +1,47 @@
+id: history.senior-high.law-education
+subject: history
+education_stage: senior_high
+name: 法律与教化
+summary: 本知识点围绕法律体系与社会教化展开，重点是比较法律和教化在国家治理中的作用及互动，并能在新的问题情境中说明条件、过程与结论之间的联系。
+objectives:
+- 比较法律和教化在国家治理中的作用及互动
+- 能够识别典型条件并用规范语言说明判断依据
+prerequisites:
+- 初中阶段相关基础知识
+- 基本阅读、表达与推理能力
+common_mistakes:
+- 把法律与教化理解为彼此排斥
+keywords:
+- 法律体系与社会教化
+- 法律与教化
+competency_tags:
+- 时空观念
+- 史料实证
+- 历史解释
+knowledge_items:
+- id: topic-1
+  type: institution
+  name: 先秦秦汉法律与教化
+  content: 围绕“先秦秦汉法律与教化”梳理其时空背景、核心内容及其在“法律与教化”历史进程中的作用。
+  review_status: self_checked
+- id: topic-2
+  type: institution
+  name: 魏晋隋唐法律体系
+  content: 围绕“魏晋隋唐法律体系”梳理其时空背景、核心内容及其在“法律与教化”历史进程中的作用。
+  review_status: self_checked
+- id: topic-3
+  type: institution
+  name: 宋元明清法律教化
+  content: 围绕“宋元明清法律教化”梳理其时空背景、核心内容及其在“法律与教化”历史进程中的作用。
+  review_status: self_checked
+- id: topic-4
+  type: institution
+  name: 近代西方法律制度
+  content: 围绕“近代西方法律制度”梳理其时空背景、核心内容及其在“法律与教化”历史进程中的作用。
+  review_status: self_checked
+- id: topic-5
+  type: concept
+  name: 当代中国法治与精神文明
+  content: 围绕“当代中国法治与精神文明”梳理其时空背景、核心内容及其在“法律与教化”历史进程中的作用。
+  review_status: self_checked
+review_status: self_checked

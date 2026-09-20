@@ -1,0 +1,16 @@
+id: math.xj.selective-1.line-circle
+canonical_id: math.senior-high.line-circle
+curriculum_id: xj-math-current
+subject: math
+education_stage: senior_high
+grade_scope:
+- 11
+semester_scope: first
+display_name: 直线和圆的方程
+reference:
+  publisher: 湖南教育出版社
+  edition_scope: 现行普通高中教科书
+  chapter: 选择性必修第一册·直线和圆的方程
+question_bank_ids:
+- bank.math.xj.selective-1.line-circle
+review_status: self_checked

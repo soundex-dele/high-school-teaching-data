@@ -1,0 +1,47 @@
+id: history.senior-high.global-world
+subject: history
+education_stage: senior_high
+name: 走向整体的世界
+summary: 本知识点围绕新航路与全球联系展开，重点是分析新航路开辟、早期殖民扩张和世界联系增强的多重影响，并能在新的问题情境中说明条件、过程与结论之间的联系。
+objectives:
+- 分析新航路开辟、早期殖民扩张和世界联系增强的多重影响
+- 能够识别典型条件并用规范语言说明判断依据
+prerequisites:
+- 初中阶段相关基础知识
+- 基本阅读、表达与推理能力
+common_mistakes:
+- 只从欧洲受益角度评价全球联系
+keywords:
+- 新航路与全球联系
+- 走向整体的世界
+competency_tags:
+- 时空观念
+- 史料实证
+- 历史解释
+knowledge_items:
+- id: topic-1
+  type: concept
+  name: 新航路开辟动因
+  content: 围绕“新航路开辟动因”梳理其时空背景、核心内容及其在“走向整体的世界”历史进程中的作用。
+  review_status: self_checked
+- id: topic-2
+  type: concept
+  name: 主要航海活动
+  content: 围绕“主要航海活动”梳理其时空背景、核心内容及其在“走向整体的世界”历史进程中的作用。
+  review_status: self_checked
+- id: topic-3
+  type: concept
+  name: 人口迁移与物种交换
+  content: 围绕“人口迁移与物种交换”梳理其时空背景、核心内容及其在“走向整体的世界”历史进程中的作用。
+  review_status: self_checked
+- id: topic-4
+  type: process
+  name: 早期殖民扩张
+  content: 围绕“早期殖民扩张”梳理其时空背景、核心内容及其在“走向整体的世界”历史进程中的作用。
+  review_status: self_checked
+- id: topic-5
+  type: process
+  name: 世界市场初步形成
+  content: 围绕“世界市场初步形成”梳理其时空背景、核心内容及其在“走向整体的世界”历史进程中的作用。
+  review_status: self_checked
+review_status: self_checked

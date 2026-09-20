@@ -1,0 +1,47 @@
+id: history.senior-high.grassroots-social
+subject: history
+education_stage: senior_high
+name: 基层治理与社会保障
+summary: 本知识点围绕基层组织与社会保障展开，重点是比较基层治理和社会救济、保障制度的历史演进，并能在新的问题情境中说明条件、过程与结论之间的联系。
+objectives:
+- 比较基层治理和社会救济、保障制度的历史演进
+- 能够识别典型条件并用规范语言说明判断依据
+prerequisites:
+- 初中阶段相关基础知识
+- 基本阅读、表达与推理能力
+common_mistakes:
+- 把传统救济与现代社会保障完全等同
+keywords:
+- 基层组织与社会保障
+- 基层治理与社会保障
+competency_tags:
+- 时空观念
+- 史料实证
+- 历史解释
+knowledge_items:
+- id: topic-1
+  type: concept
+  name: 中国古代基层组织
+  content: 围绕“中国古代基层组织”梳理其时空背景、核心内容及其在“基层治理与社会保障”历史进程中的作用。
+  review_status: self_checked
+- id: topic-2
+  type: concept
+  name: 中国古代社会救济
+  content: 围绕“中国古代社会救济”梳理其时空背景、核心内容及其在“基层治理与社会保障”历史进程中的作用。
+  review_status: self_checked
+- id: topic-3
+  type: concept
+  name: 西方基层治理
+  content: 围绕“西方基层治理”梳理其时空背景、核心内容及其在“基层治理与社会保障”历史进程中的作用。
+  review_status: self_checked
+- id: topic-4
+  type: institution
+  name: 现代社会保障制度
+  content: 围绕“现代社会保障制度”梳理其时空背景、核心内容及其在“基层治理与社会保障”历史进程中的作用。
+  review_status: self_checked
+- id: topic-5
+  type: concept
+  name: 当代中国基层治理
+  content: 围绕“当代中国基层治理”梳理其时空背景、核心内容及其在“基层治理与社会保障”历史进程中的作用。
+  review_status: self_checked
+review_status: self_checked

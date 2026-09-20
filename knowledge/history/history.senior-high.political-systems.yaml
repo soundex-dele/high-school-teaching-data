@@ -1,0 +1,47 @@
+id: history.senior-high.political-systems
+subject: history
+education_stage: senior_high
+name: 政治制度
+summary: 本知识点围绕中外政治制度演进展开，重点是比较政治制度形成、运行和变革，认识制度与国情的关系，并能在新的问题情境中说明条件、过程与结论之间的联系。
+objectives:
+- 比较政治制度形成、运行和变革，认识制度与国情的关系
+- 能够识别典型条件并用规范语言说明判断依据
+prerequisites:
+- 初中阶段相关基础知识
+- 基本阅读、表达与推理能力
+common_mistakes:
+- 脱离时代背景简单比较制度优劣
+keywords:
+- 中外政治制度演进
+- 政治制度
+competency_tags:
+- 时空观念
+- 史料实证
+- 历史解释
+knowledge_items:
+- id: topic-1
+  type: institution
+  name: 先秦到秦汉政治制度
+  content: 围绕“先秦到秦汉政治制度”梳理其时空背景、核心内容及其在“政治制度”历史进程中的作用。
+  review_status: self_checked
+- id: topic-2
+  type: institution
+  name: 隋唐到明清政治制度
+  content: 围绕“隋唐到明清政治制度”梳理其时空背景、核心内容及其在“政治制度”历史进程中的作用。
+  review_status: self_checked
+- id: topic-3
+  type: institution
+  name: 古希腊罗马政治制度
+  content: 围绕“古希腊罗马政治制度”梳理其时空背景、核心内容及其在“政治制度”历史进程中的作用。
+  review_status: self_checked
+- id: topic-4
+  type: institution
+  name: 近代西方政治制度
+  content: 围绕“近代西方政治制度”梳理其时空背景、核心内容及其在“政治制度”历史进程中的作用。
+  review_status: self_checked
+- id: topic-5
+  type: institution
+  name: 近现代中国政治制度
+  content: 围绕“近现代中国政治制度”梳理其时空背景、核心内容及其在“政治制度”历史进程中的作用。
+  review_status: self_checked
+review_status: self_checked

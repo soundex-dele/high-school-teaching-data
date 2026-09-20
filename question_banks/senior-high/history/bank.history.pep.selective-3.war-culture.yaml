@@ -1,0 +1,175 @@
+id: bank.history.pep.selective-3.war-culture
+subject: history
+education_stage: senior_high
+grade_scope:
+- 12
+curriculum_scopes:
+- pep-history-current
+canonical_knowledge_ids:
+- history.senior-high.war-culture
+questions:
+- id: history.pep.selective-3.war-culture.q1
+  stem: 下列哪一历史主题与材料描述最吻合：“帝国征服破坏城市人口，也可能带来语言、宗教和制度跨区域传播”（ ）。
+  options:
+  - id: A
+    text: 古代战争与区域文化
+  - id: B
+    text: 蒙古西征
+  - id: C
+    text: 近代殖民战争
+  - id: D
+    text: 两次世界大战中的文化
+  correct_option_id: A
+  explanation: 材料以“帝国征服破坏城市人口，也可能带来语言、宗教和制度跨区域传播”为关键线索，指向“古代战争与区域文化”。其余选项虽属同一章，但在时段、对象或核心机制上与材料不符。
+  difficulty: basic
+  tags:
+  - 战争与文化交锋
+  - 古代战争与区域文化
+  - 时空观念
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.war-culture
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 12
+  question_type: single_choice
+  cognitive_level: understand
+  reasoning_steps: 1
+  estimated_time_seconds: 75
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.selective-3.war-culture.q2
+  stem: 下列哪一历史主题与材料描述最吻合：“欧亚征战造成毁灭，同时驿站网络促进人员技术和知识远距离移动”（ ）。
+  options:
+  - id: A
+    text: 近代殖民战争
+  - id: B
+    text: 两次世界大战中的文化
+  - id: C
+    text: 战争后的文化重构
+  - id: D
+    text: 蒙古西征
+  correct_option_id: D
+  explanation: 材料以“欧亚征战造成毁灭，同时驿站网络促进人员技术和知识远距离移动”为关键线索，指向“蒙古西征”。其余选项虽属同一章，但在时段、对象或核心机制上与材料不符。
+  difficulty: basic
+  tags:
+  - 战争与文化交锋
+  - 蒙古西征
+  - 时空观念
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.war-culture
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 12
+  question_type: single_choice
+  cognitive_level: apply
+  reasoning_steps: 1
+  estimated_time_seconds: 90
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.selective-3.war-culture.q3
+  stem: 围绕“近代殖民战争”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 战后记忆、审判与和解共同塑造认同，文化影响不是胜者单向灌输
+  - id: B
+    text: 帝国征服破坏城市人口，也可能带来语言、宗教和制度跨区域传播
+  - id: C
+    text: 殖民者以武力推行制度文化，被征服者通过抵抗和改造保持主体性
+  - id: D
+    text: 总体战摧毁文化遗产并迫使知识人才迁移，也催生国际保护规则
+  correct_option_id: C
+  explanation: “殖民者以武力推行制度文化，被征服者通过抵抗和改造保持主体性”准确概括了“近代殖民战争”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: medium
+  tags:
+  - 战争与文化交锋
+  - 近代殖民战争
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.war-culture
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 12
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 120
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.selective-3.war-culture.q4
+  stem: 围绕“两次世界大战中的文化”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 欧亚征战造成毁灭，同时驿站网络促进人员技术和知识远距离移动
+  - id: B
+    text: 总体战摧毁文化遗产并迫使知识人才迁移，也催生国际保护规则
+  - id: C
+    text: 战后记忆、审判与和解共同塑造认同，文化影响不是胜者单向灌输
+  - id: D
+    text: 帝国征服破坏城市人口，也可能带来语言、宗教和制度跨区域传播
+  correct_option_id: B
+  explanation: “总体战摧毁文化遗产并迫使知识人才迁移，也催生国际保护规则”准确概括了“两次世界大战中的文化”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: medium
+  tags:
+  - 战争与文化交锋
+  - 两次世界大战中的文化
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.war-culture
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 12
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 150
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.selective-3.war-culture.q5
+  stem: 围绕“战争后的文化重构”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 战后记忆、审判与和解共同塑造认同，文化影响不是胜者单向灌输
+  - id: B
+    text: 帝国征服破坏城市人口，也可能带来语言、宗教和制度跨区域传播
+  - id: C
+    text: 欧亚征战造成毁灭，同时驿站网络促进人员技术和知识远距离移动
+  - id: D
+    text: 殖民者以武力推行制度文化，被征服者通过抵抗和改造保持主体性
+  correct_option_id: A
+  explanation: “战后记忆、审判与和解共同塑造认同，文化影响不是胜者单向灌输”准确概括了“战争后的文化重构”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: advanced
+  tags:
+  - 战争与文化交锋
+  - 战争后的文化重构
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.war-culture
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 12
+  question_type: single_choice
+  cognitive_level: evaluate
+  reasoning_steps: 3
+  estimated_time_seconds: 210
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1

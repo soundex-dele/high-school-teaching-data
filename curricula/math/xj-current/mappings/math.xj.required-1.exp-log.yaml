@@ -1,0 +1,16 @@
+id: math.xj.required-1.exp-log
+canonical_id: math.senior-high.exp-log
+curriculum_id: xj-math-current
+subject: math
+education_stage: senior_high
+grade_scope:
+- 10
+semester_scope: first
+display_name: 幂函数、指数函数和对数函数
+reference:
+  publisher: 湖南教育出版社
+  edition_scope: 现行普通高中教科书
+  chapter: 必修第一册·幂函数、指数函数和对数函数
+question_bank_ids:
+- bank.math.xj.required-1.exp-log
+review_status: self_checked

@@ -1,0 +1,47 @@
+id: history.senior-high.medicine-health
+subject: history
+education_stage: senior_high
+name: 医疗与公共卫生
+summary: 本知识点围绕医学、疫病与公共卫生展开，重点是比较医学发展和公共卫生体系对人类健康及社会治理的作用，并能在新的问题情境中说明条件、过程与结论之间的联系。
+objectives:
+- 比较医学发展和公共卫生体系对人类健康及社会治理的作用
+- 能够识别典型条件并用规范语言说明判断依据
+prerequisites:
+- 初中阶段相关基础知识
+- 基本阅读、表达与推理能力
+common_mistakes:
+- 用今天的医学知识苛求历史医疗实践
+keywords:
+- 医学、疫病与公共卫生
+- 医疗与公共卫生
+competency_tags:
+- 时空观念
+- 史料实证
+- 历史解释
+knowledge_items:
+- id: topic-1
+  type: impact
+  name: 传统医学成就
+  content: 围绕“传统医学成就”梳理其时空背景、核心内容及其在“医疗与公共卫生”历史进程中的作用。
+  review_status: self_checked
+- id: topic-2
+  type: process
+  name: 近代西医发展
+  content: 围绕“近代西医发展”梳理其时空背景、核心内容及其在“医疗与公共卫生”历史进程中的作用。
+  review_status: self_checked
+- id: topic-3
+  type: concept
+  name: 疫病与社会
+  content: 围绕“疫病与社会”梳理其时空背景、核心内容及其在“医疗与公共卫生”历史进程中的作用。
+  review_status: self_checked
+- id: topic-4
+  type: institution
+  name: 公共卫生体系
+  content: 围绕“公共卫生体系”梳理其时空背景、核心内容及其在“医疗与公共卫生”历史进程中的作用。
+  review_status: self_checked
+- id: topic-5
+  type: concept
+  name: 现代医疗保障
+  content: 围绕“现代医疗保障”梳理其时空背景、核心内容及其在“医疗与公共卫生”历史进程中的作用。
+  review_status: self_checked
+review_status: self_checked

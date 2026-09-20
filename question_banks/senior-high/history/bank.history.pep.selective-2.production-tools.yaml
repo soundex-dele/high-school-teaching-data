@@ -1,0 +1,175 @@
+id: bank.history.pep.selective-2.production-tools
+subject: history
+education_stage: senior_high
+grade_scope:
+- 11
+curriculum_scopes:
+- pep-history-current
+canonical_knowledge_ids:
+- history.senior-high.production-tools
+questions:
+- id: history.pep.selective-2.production-tools.q1
+  stem: 下列哪一历史主题与材料描述最吻合：“石器到铁制农具提高效率，畜力和水利配合推动精耕农业”（ ）。
+  options:
+  - id: A
+    text: 手工业工具与分工
+  - id: B
+    text: 机器大生产
+  - id: C
+    text: 自动化与人工智能
+  - id: D
+    text: 古代农业工具
+  correct_option_id: D
+  explanation: 材料以“石器到铁制农具提高效率，畜力和水利配合推动精耕农业”为关键线索，指向“古代农业工具”。其余选项虽属同一章，但在时段、对象或核心机制上与材料不符。
+  difficulty: basic
+  tags:
+  - 生产工具与劳作方式
+  - 古代农业工具
+  - 时空观念
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.production-tools
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 11
+  question_type: single_choice
+  cognitive_level: understand
+  reasoning_steps: 1
+  estimated_time_seconds: 75
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.selective-2.production-tools.q2
+  stem: 下列哪一历史主题与材料描述最吻合：“家庭手工业、作坊与工场并存，分工深化但动力仍以人力为主”（ ）。
+  options:
+  - id: A
+    text: 自动化与人工智能
+  - id: B
+    text: 劳作方式和生产关系
+  - id: C
+    text: 手工业工具与分工
+  - id: D
+    text: 机器大生产
+  correct_option_id: C
+  explanation: 材料以“家庭手工业、作坊与工场并存，分工深化但动力仍以人力为主”为关键线索，指向“手工业工具与分工”。其余选项虽属同一章，但在时段、对象或核心机制上与材料不符。
+  difficulty: basic
+  tags:
+  - 生产工具与劳作方式
+  - 手工业工具与分工
+  - 时空观念
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.production-tools
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 11
+  question_type: single_choice
+  cognitive_level: apply
+  reasoning_steps: 1
+  estimated_time_seconds: 90
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.selective-2.production-tools.q3
+  stem: 围绕“机器大生产”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 石器到铁制农具提高效率，畜力和水利配合推动精耕农业
+  - id: B
+    text: 蒸汽机、电力和内燃机使生产从手工转向机器大工业
+  - id: C
+    text: 流水线、数字控制和人工智能提升标准化与柔性生产能力
+  - id: D
+    text: 工具变化与资本、劳动组织相互作用，技术并非社会变迁的唯一原因
+  correct_option_id: B
+  explanation: “蒸汽机、电力和内燃机使生产从手工转向机器大工业”准确概括了“机器大生产”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: medium
+  tags:
+  - 生产工具与劳作方式
+  - 机器大生产
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.production-tools
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 11
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 120
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.selective-2.production-tools.q4
+  stem: 围绕“自动化与人工智能”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 流水线、数字控制和人工智能提升标准化与柔性生产能力
+  - id: B
+    text: 工具变化与资本、劳动组织相互作用，技术并非社会变迁的唯一原因
+  - id: C
+    text: 石器到铁制农具提高效率，畜力和水利配合推动精耕农业
+  - id: D
+    text: 家庭手工业、作坊与工场并存，分工深化但动力仍以人力为主
+  correct_option_id: A
+  explanation: “流水线、数字控制和人工智能提升标准化与柔性生产能力”准确概括了“自动化与人工智能”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: medium
+  tags:
+  - 生产工具与劳作方式
+  - 自动化与人工智能
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.production-tools
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 11
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 150
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.selective-2.production-tools.q5
+  stem: 围绕“劳作方式和生产关系”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 石器到铁制农具提高效率，畜力和水利配合推动精耕农业
+  - id: B
+    text: 家庭手工业、作坊与工场并存，分工深化但动力仍以人力为主
+  - id: C
+    text: 蒸汽机、电力和内燃机使生产从手工转向机器大工业
+  - id: D
+    text: 工具变化与资本、劳动组织相互作用，技术并非社会变迁的唯一原因
+  correct_option_id: D
+  explanation: “工具变化与资本、劳动组织相互作用，技术并非社会变迁的唯一原因”准确概括了“劳作方式和生产关系”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: advanced
+  tags:
+  - 生产工具与劳作方式
+  - 劳作方式和生产关系
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.production-tools
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 11
+  question_type: single_choice
+  cognitive_level: evaluate
+  reasoning_steps: 3
+  estimated_time_seconds: 210
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1

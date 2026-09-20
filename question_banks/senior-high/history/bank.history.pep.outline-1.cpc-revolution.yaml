@@ -1,0 +1,175 @@
+id: bank.history.pep.outline-1.cpc-revolution
+subject: history
+education_stage: senior_high
+grade_scope:
+- 10
+curriculum_scopes:
+- pep-history-current
+canonical_knowledge_ids:
+- history.senior-high.cpc-revolution
+questions:
+- id: history.pep.outline-1.cpc-revolution.q1
+  stem: 下列哪一历史主题与材料描述最吻合：“青年学生的爱国斗争推动马克思主义传播，并促进工人阶级登上政治舞台”（ ）。
+  options:
+  - id: A
+    text: 中国共产党成立
+  - id: B
+    text: 国共合作与国民革命
+  - id: C
+    text: 南昌起义与秋收起义
+  - id: D
+    text: 五四运动
+  correct_option_id: D
+  explanation: 材料以“青年学生的爱国斗争推动马克思主义传播，并促进工人阶级登上政治舞台”为关键线索，指向“五四运动”。其余选项虽属同一章，但在时段、对象或核心机制上与材料不符。
+  difficulty: basic
+  tags:
+  - 中国共产党成立与新民主主义革命兴起
+  - 五四运动
+  - 时空观念
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.cpc-revolution
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: understand
+  reasoning_steps: 1
+  estimated_time_seconds: 75
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.outline-1.cpc-revolution.q2
+  stem: 下列哪一历史主题与材料描述最吻合：“新的无产阶级政党诞生，使中国革命有了明确纲领和领导核心”（ ）。
+  options:
+  - id: A
+    text: 南昌起义与秋收起义
+  - id: B
+    text: 工农武装割据道路
+  - id: C
+    text: 中国共产党成立
+  - id: D
+    text: 国共合作与国民革命
+  correct_option_id: C
+  explanation: 材料以“新的无产阶级政党诞生，使中国革命有了明确纲领和领导核心”为关键线索，指向“中国共产党成立”。其余选项虽属同一章，但在时段、对象或核心机制上与材料不符。
+  difficulty: basic
+  tags:
+  - 中国共产党成立与新民主主义革命兴起
+  - 中国共产党成立
+  - 时空观念
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.cpc-revolution
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: apply
+  reasoning_steps: 1
+  estimated_time_seconds: 90
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.outline-1.cpc-revolution.q3
+  stem: 围绕“国共合作与国民革命”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 青年学生的爱国斗争推动马克思主义传播，并促进工人阶级登上政治舞台
+  - id: B
+    text: 国共合作推动反帝反军阀运动，北伐战争基本推翻北洋军阀统治
+  - id: C
+    text: 城市起义受挫后创建农村革命根据地，探索新的革命重心
+  - id: D
+    text: 把武装斗争、土地革命和根据地建设结合起来，形成适合中国国情的道路
+  correct_option_id: B
+  explanation: “国共合作推动反帝反军阀运动，北伐战争基本推翻北洋军阀统治”准确概括了“国共合作与国民革命”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: medium
+  tags:
+  - 中国共产党成立与新民主主义革命兴起
+  - 国共合作与国民革命
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.cpc-revolution
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 120
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.outline-1.cpc-revolution.q4
+  stem: 围绕“南昌起义与秋收起义”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 城市起义受挫后创建农村革命根据地，探索新的革命重心
+  - id: B
+    text: 把武装斗争、土地革命和根据地建设结合起来，形成适合中国国情的道路
+  - id: C
+    text: 青年学生的爱国斗争推动马克思主义传播，并促进工人阶级登上政治舞台
+  - id: D
+    text: 新的无产阶级政党诞生，使中国革命有了明确纲领和领导核心
+  correct_option_id: A
+  explanation: “城市起义受挫后创建农村革命根据地，探索新的革命重心”准确概括了“南昌起义与秋收起义”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: medium
+  tags:
+  - 中国共产党成立与新民主主义革命兴起
+  - 南昌起义与秋收起义
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.cpc-revolution
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 150
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.outline-1.cpc-revolution.q5
+  stem: 围绕“工农武装割据道路”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 青年学生的爱国斗争推动马克思主义传播，并促进工人阶级登上政治舞台
+  - id: B
+    text: 新的无产阶级政党诞生，使中国革命有了明确纲领和领导核心
+  - id: C
+    text: 国共合作推动反帝反军阀运动，北伐战争基本推翻北洋军阀统治
+  - id: D
+    text: 把武装斗争、土地革命和根据地建设结合起来，形成适合中国国情的道路
+  correct_option_id: D
+  explanation: “把武装斗争、土地革命和根据地建设结合起来，形成适合中国国情的道路”准确概括了“工农武装割据道路”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: advanced
+  tags:
+  - 中国共产党成立与新民主主义革命兴起
+  - 工农武装割据道路
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.cpc-revolution
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: evaluate
+  reasoning_steps: 3
+  estimated_time_seconds: 210
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1

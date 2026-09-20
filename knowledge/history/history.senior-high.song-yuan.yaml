@@ -1,0 +1,47 @@
+id: history.senior-high.song-yuan
+subject: history
+education_stage: senior_high
+name: 辽宋夏金多民族政权的并立与元朝的统一
+summary: 本知识点围绕多民族政权并立与统一展开，重点是从政治、经济和文化互动理解宋元时期统一趋势与社会变化，并能在新的问题情境中说明条件、过程与结论之间的联系。
+objectives:
+- 从政治、经济和文化互动理解宋元时期统一趋势与社会变化
+- 能够识别典型条件并用规范语言说明判断依据
+prerequisites:
+- 初中阶段相关基础知识
+- 基本阅读、表达与推理能力
+common_mistakes:
+- 只用单一政权视角解释多民族互动
+keywords:
+- 多民族政权并立与统一
+- 辽宋夏金多民族政权的并立与元朝的统一
+competency_tags:
+- 时空观念
+- 史料实证
+- 历史解释
+knowledge_items:
+- id: topic-1
+  type: concept
+  name: 辽宋夏金政权并立
+  content: 围绕“辽宋夏金政权并立”梳理其时空背景、核心内容及其在“辽宋夏金多民族政权的并立与元朝的统一”历史进程中的作用。
+  review_status: self_checked
+- id: topic-2
+  type: concept
+  name: 宋代中央集权强化
+  content: 围绕“宋代中央集权强化”梳理其时空背景、核心内容及其在“辽宋夏金多民族政权的并立与元朝的统一”历史进程中的作用。
+  review_status: self_checked
+- id: topic-3
+  type: impact
+  name: 宋元经济与社会变化
+  content: 围绕“宋元经济与社会变化”梳理其时空背景、核心内容及其在“辽宋夏金多民族政权的并立与元朝的统一”历史进程中的作用。
+  review_status: self_checked
+- id: topic-4
+  type: concept
+  name: 宋元科技文化
+  content: 围绕“宋元科技文化”梳理其时空背景、核心内容及其在“辽宋夏金多民族政权的并立与元朝的统一”历史进程中的作用。
+  review_status: self_checked
+- id: topic-5
+  type: institution
+  name: 元朝统一与行省制度
+  content: 围绕“元朝统一与行省制度”梳理其时空背景、核心内容及其在“辽宋夏金多民族政权的并立与元朝的统一”历史进程中的作用。
+  review_status: self_checked
+review_status: self_checked

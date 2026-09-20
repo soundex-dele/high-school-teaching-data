@@ -1,0 +1,16 @@
+id: history.pep.outline-2.industrial-marxism
+canonical_id: history.senior-high.industrial-marxism
+curriculum_id: pep-history-current
+subject: history
+education_stage: senior_high
+grade_scope:
+- 10
+semester_scope: second
+display_name: 工业革命与马克思主义的诞生
+reference:
+  publisher: 人民教育出版社
+  edition_scope: 现行普通高中教科书
+  chapter: 中外历史纲要（下）·工业革命与马克思主义的诞生
+question_bank_ids:
+- bank.history.pep.outline-2.industrial-marxism
+review_status: self_checked

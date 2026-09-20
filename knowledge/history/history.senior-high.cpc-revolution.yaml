@@ -1,0 +1,47 @@
+id: history.senior-high.cpc-revolution
+subject: history
+education_stage: senior_high
+name: 中国共产党成立与新民主主义革命兴起
+summary: 本知识点围绕中国共产党与革命道路探索展开，重点是理解中国共产党成立、国民革命和革命道路探索之间的联系，并能在新的问题情境中说明条件、过程与结论之间的联系。
+objectives:
+- 理解中国共产党成立、国民革命和革命道路探索之间的联系
+- 能够识别典型条件并用规范语言说明判断依据
+prerequisites:
+- 初中阶段相关基础知识
+- 基本阅读、表达与推理能力
+common_mistakes:
+- 把革命道路形成看成一次性完成
+keywords:
+- 中国共产党与革命道路探索
+- 中国共产党成立与新民主主义革命兴起
+competency_tags:
+- 时空观念
+- 史料实证
+- 历史解释
+knowledge_items:
+- id: topic-1
+  type: event
+  name: 五四运动
+  content: 围绕“五四运动”梳理其时空背景、核心内容及其在“中国共产党成立与新民主主义革命兴起”历史进程中的作用。
+  review_status: self_checked
+- id: topic-2
+  type: concept
+  name: 中国共产党成立
+  content: 围绕“中国共产党成立”梳理其时空背景、核心内容及其在“中国共产党成立与新民主主义革命兴起”历史进程中的作用。
+  review_status: self_checked
+- id: topic-3
+  type: event
+  name: 国共合作与国民革命
+  content: 围绕“国共合作与国民革命”梳理其时空背景、核心内容及其在“中国共产党成立与新民主主义革命兴起”历史进程中的作用。
+  review_status: self_checked
+- id: topic-4
+  type: event
+  name: 南昌起义与秋收起义
+  content: 围绕“南昌起义与秋收起义”梳理其时空背景、核心内容及其在“中国共产党成立与新民主主义革命兴起”历史进程中的作用。
+  review_status: self_checked
+- id: topic-5
+  type: concept
+  name: 工农武装割据道路
+  content: 围绕“工农武装割据道路”梳理其时空背景、核心内容及其在“中国共产党成立与新民主主义革命兴起”历史进程中的作用。
+  review_status: self_checked
+review_status: self_checked

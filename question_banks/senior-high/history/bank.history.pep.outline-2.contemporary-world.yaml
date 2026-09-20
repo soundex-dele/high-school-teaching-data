@@ -1,0 +1,175 @@
+id: bank.history.pep.outline-2.contemporary-world
+subject: history
+education_stage: senior_high
+grade_scope:
+- 10
+curriculum_scopes:
+- pep-history-current
+canonical_knowledge_ids:
+- history.senior-high.contemporary-world
+questions:
+- id: history.pep.outline-2.contemporary-world.q1
+  stem: 下列哪一历史主题与材料描述最吻合：“美国仍具优势，欧盟、中国、俄罗斯及新兴国家的影响同时上升”（ ）。
+  options:
+  - id: A
+    text: 世界多极化趋势
+  - id: B
+    text: 经济全球化
+  - id: C
+    text: 社会信息化与文化多样性
+  - id: D
+    text: 全球治理体系
+  correct_option_id: A
+  explanation: 材料以“美国仍具优势，欧盟、中国、俄罗斯及新兴国家的影响同时上升”为关键线索，指向“世界多极化趋势”。其余选项虽属同一章，但在时段、对象或核心机制上与材料不符。
+  difficulty: basic
+  tags:
+  - 当代世界发展的特点与主要趋势
+  - 世界多极化趋势
+  - 时空观念
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.contemporary-world
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: understand
+  reasoning_steps: 1
+  estimated_time_seconds: 75
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.outline-2.contemporary-world.q2
+  stem: 下列哪一历史主题与材料描述最吻合：“资本、技术和生产跨国配置加深依存，也放大金融和供应链风险”（ ）。
+  options:
+  - id: A
+    text: 社会信息化与文化多样性
+  - id: B
+    text: 全球治理体系
+  - id: C
+    text: 人类面临的共同挑战
+  - id: D
+    text: 经济全球化
+  correct_option_id: D
+  explanation: 材料以“资本、技术和生产跨国配置加深依存，也放大金融和供应链风险”为关键线索，指向“经济全球化”。其余选项虽属同一章，但在时段、对象或核心机制上与材料不符。
+  difficulty: basic
+  tags:
+  - 当代世界发展的特点与主要趋势
+  - 经济全球化
+  - 时空观念
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.contemporary-world
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: apply
+  reasoning_steps: 1
+  estimated_time_seconds: 90
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.outline-2.contemporary-world.q3
+  stem: 围绕“社会信息化与文化多样性”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 气候变化、疫情和恐怖主义无法由单一国家解决，需要合作而非零和竞争
+  - id: B
+    text: 美国仍具优势，欧盟、中国、俄罗斯及新兴国家的影响同时上升
+  - id: C
+    text: 互联网加速知识传播与文化交流，同时带来数字鸿沟和信息安全问题
+  - id: D
+    text: 联合国及区域组织处理跨国议题，但治理能力与代表性仍需改革
+  correct_option_id: C
+  explanation: “互联网加速知识传播与文化交流，同时带来数字鸿沟和信息安全问题”准确概括了“社会信息化与文化多样性”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: medium
+  tags:
+  - 当代世界发展的特点与主要趋势
+  - 社会信息化与文化多样性
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.contemporary-world
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 120
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.outline-2.contemporary-world.q4
+  stem: 围绕“全球治理体系”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 资本、技术和生产跨国配置加深依存，也放大金融和供应链风险
+  - id: B
+    text: 联合国及区域组织处理跨国议题，但治理能力与代表性仍需改革
+  - id: C
+    text: 气候变化、疫情和恐怖主义无法由单一国家解决，需要合作而非零和竞争
+  - id: D
+    text: 美国仍具优势，欧盟、中国、俄罗斯及新兴国家的影响同时上升
+  correct_option_id: B
+  explanation: “联合国及区域组织处理跨国议题，但治理能力与代表性仍需改革”准确概括了“全球治理体系”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: medium
+  tags:
+  - 当代世界发展的特点与主要趋势
+  - 全球治理体系
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.contemporary-world
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 150
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.outline-2.contemporary-world.q5
+  stem: 围绕“人类面临的共同挑战”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 气候变化、疫情和恐怖主义无法由单一国家解决，需要合作而非零和竞争
+  - id: B
+    text: 美国仍具优势，欧盟、中国、俄罗斯及新兴国家的影响同时上升
+  - id: C
+    text: 资本、技术和生产跨国配置加深依存，也放大金融和供应链风险
+  - id: D
+    text: 互联网加速知识传播与文化交流，同时带来数字鸿沟和信息安全问题
+  correct_option_id: A
+  explanation: “气候变化、疫情和恐怖主义无法由单一国家解决，需要合作而非零和竞争”准确概括了“人类面临的共同挑战”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: advanced
+  tags:
+  - 当代世界发展的特点与主要趋势
+  - 人类面临的共同挑战
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.contemporary-world
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: evaluate
+  reasoning_steps: 3
+  estimated_time_seconds: 210
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1

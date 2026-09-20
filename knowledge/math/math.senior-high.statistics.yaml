@@ -1,0 +1,53 @@
+id: math.senior-high.statistics
+subject: math
+education_stage: senior_high
+name: 统计
+summary: 本知识点围绕数据分析与统计量展开，重点是根据数据特征选择抽样和统计图表，用数字特征解释总体，并能在新的问题情境中说明条件、过程与结论之间的联系。
+objectives:
+- 根据数据特征选择抽样和统计图表，用数字特征解释总体
+- 能够识别典型条件并用规范语言说明判断依据
+prerequisites:
+- 初中阶段相关基础知识
+- 基本阅读、表达与推理能力
+common_mistakes:
+- 用样本结论替代总体结论而不说明随机性
+keywords:
+- 数据分析与统计量
+- 统计
+competency_tags:
+- 数学抽象
+- 逻辑推理
+knowledge_items:
+- id: sampling
+  type: method
+  name: 随机抽样
+  content: 简单随机抽样、分层随机抽样等方法用于获得具有代表性的样本。
+  review_status: self_checked
+- id: mean
+  type: formula
+  name: 平均数
+  content: 平均数刻画一组数据的集中位置。
+  review_status: self_checked
+  formulas:
+  - \bar x=\frac1n\sum_{i=1}^n x_i
+- id: variance
+  type: formula
+  name: 方差与标准差
+  content: 方差和标准差刻画数据相对平均数的离散程度。
+  review_status: self_checked
+  formulas:
+  - s^2=\frac1n\sum_{i=1}^n(x_i-\bar x)^2
+  - s=\sqrt{s^2}
+- id: percentile
+  type: definition
+  name: 百分位数
+  content: 第 p 百分位数把按大小排列的数据划分，使约 p% 的数据不超过该值。
+  review_status: self_checked
+- id: correlation
+  type: concept
+  name: 相关关系
+  content: 散点图和相关系数描述两个变量线性相关的方向与强弱，但相关不等于因果。
+  review_status: self_checked
+  formulas:
+  - -1\le r\le1
+review_status: self_checked

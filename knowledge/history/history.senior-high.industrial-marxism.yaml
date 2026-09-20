@@ -1,0 +1,47 @@
+id: history.senior-high.industrial-marxism
+subject: history
+education_stage: senior_high
+name: 工业革命与马克思主义的诞生
+summary: 本知识点围绕工业化、社会转型与马克思主义展开，重点是分析工业革命对生产、阶级和世界格局的影响及马克思主义产生背景，并能在新的问题情境中说明条件、过程与结论之间的联系。
+objectives:
+- 分析工业革命对生产、阶级和世界格局的影响及马克思主义产生背景
+- 能够识别典型条件并用规范语言说明判断依据
+prerequisites:
+- 初中阶段相关基础知识
+- 基本阅读、表达与推理能力
+common_mistakes:
+- 只关注技术发明而忽略社会关系变化
+keywords:
+- 工业化、社会转型与马克思主义
+- 工业革命与马克思主义的诞生
+competency_tags:
+- 时空观念
+- 史料实证
+- 历史解释
+knowledge_items:
+- id: topic-1
+  type: event
+  name: 第一次工业革命
+  content: 围绕“第一次工业革命”梳理其时空背景、核心内容及其在“工业革命与马克思主义的诞生”历史进程中的作用。
+  review_status: self_checked
+- id: topic-2
+  type: event
+  name: 第二次工业革命
+  content: 围绕“第二次工业革命”梳理其时空背景、核心内容及其在“工业革命与马克思主义的诞生”历史进程中的作用。
+  review_status: self_checked
+- id: topic-3
+  type: impact
+  name: 工业社会生活变化
+  content: 围绕“工业社会生活变化”梳理其时空背景、核心内容及其在“工业革命与马克思主义的诞生”历史进程中的作用。
+  review_status: self_checked
+- id: topic-4
+  type: event
+  name: 工人运动发展
+  content: 围绕“工人运动发展”梳理其时空背景、核心内容及其在“工业革命与马克思主义的诞生”历史进程中的作用。
+  review_status: self_checked
+- id: topic-5
+  type: concept
+  name: 马克思主义诞生
+  content: 围绕“马克思主义诞生”梳理其时空背景、核心内容及其在“工业革命与马克思主义的诞生”历史进程中的作用。
+  review_status: self_checked
+review_status: self_checked

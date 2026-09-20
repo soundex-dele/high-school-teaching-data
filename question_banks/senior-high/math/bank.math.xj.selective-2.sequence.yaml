@@ -1,0 +1,170 @@
+id: bank.math.xj.selective-2.sequence
+subject: math
+education_stage: senior_high
+grade_scope:
+- 11
+curriculum_scopes:
+- xj-math-current
+canonical_knowledge_ids:
+- math.senior-high.sequence
+questions:
+- id: math.xj.selective-2.sequence.q1
+  stem: 等差数列 {aₙ} 中，a₁=2，公差 d=3，则 a₅=（ ）。
+  options:
+  - id: A
+    text: '17'
+  - id: B
+    text: '20'
+  - id: C
+    text: '14'
+  - id: D
+    text: '11'
+  correct_option_id: C
+  explanation: a₅=a₁+4d=2+12=14。
+  difficulty: basic
+  tags:
+  - 数列
+  - 概念与运算
+  source_type: original
+  knowledge_point_ids:
+  - math.senior-high.sequence
+  curriculum_scopes:
+  - xj-math-current
+  education_stage: senior_high
+  grade_scope:
+  - 11
+  question_type: single_choice
+  cognitive_level: understand
+  reasoning_steps: 1
+  estimated_time_seconds: 60
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: math.xj.selective-2.sequence.q2
+  stem: 等比数列 2,6,18,… 的第 5 项为（ ）。
+  options:
+  - id: A
+    text: '486'
+  - id: B
+    text: '162'
+  - id: C
+    text: '54'
+  - id: D
+    text: '108'
+  correct_option_id: B
+  explanation: 公比为 3，第 5 项 a₅=2×3⁴=162。
+  difficulty: basic
+  tags:
+  - 数列
+  - 概念与运算
+  source_type: original
+  knowledge_point_ids:
+  - math.senior-high.sequence
+  curriculum_scopes:
+  - xj-math-current
+  education_stage: senior_high
+  grade_scope:
+  - 11
+  question_type: single_choice
+  cognitive_level: apply
+  reasoning_steps: 1
+  estimated_time_seconds: 75
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: math.xj.selective-2.sequence.q3
+  stem: 等差数列 {aₙ} 中，a₃+a₇=20，则 a₅=（ ）。
+  options:
+  - id: A
+    text: '10'
+  - id: B
+    text: '5'
+  - id: C
+    text: '15'
+  - id: D
+    text: '20'
+  correct_option_id: A
+  explanation: 等差数列等距离项之和为中间项的 2 倍，故 2a₅=20。
+  difficulty: medium
+  tags:
+  - 数列
+  - 计算与推理
+  source_type: original
+  knowledge_point_ids:
+  - math.senior-high.sequence
+  curriculum_scopes:
+  - xj-math-current
+  education_stage: senior_high
+  grade_scope:
+  - 11
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 120
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: math.xj.selective-2.sequence.q4
+  stem: 数列 {aₙ} 满足 a₁=1，aₙ₊₁=2aₙ+1，则 a₃=（ ）。
+  options:
+  - id: A
+    text: '3'
+  - id: B
+    text: '5'
+  - id: C
+    text: '9'
+  - id: D
+    text: '7'
+  correct_option_id: D
+  explanation: a₂=2×1+1=3，a₃=2×3+1=7。
+  difficulty: medium
+  tags:
+  - 数列
+  - 计算与推理
+  source_type: original
+  knowledge_point_ids:
+  - math.senior-high.sequence
+  curriculum_scopes:
+  - xj-math-current
+  education_stage: senior_high
+  grade_scope:
+  - 11
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 150
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: math.xj.selective-2.sequence.q5
+  stem: 等比数列 {aₙ} 的前 n 项和为 Sₙ=3·2ⁿ-3，则 aₙ 等于（ ）。
+  options:
+  - id: A
+    text: 2ⁿ-1
+  - id: B
+    text: 6·2ⁿ⁻¹
+  - id: C
+    text: 3·2ⁿ⁻¹
+  - id: D
+    text: 3·2ⁿ
+  correct_option_id: C
+  explanation: n≥2 时 aₙ=Sₙ-Sₙ₋₁=3·2ⁿ⁻¹；代入 n=1 也得到 3。
+  difficulty: advanced
+  tags:
+  - 数列
+  - 计算与推理
+  source_type: original
+  knowledge_point_ids:
+  - math.senior-high.sequence
+  curriculum_scopes:
+  - xj-math-current
+  education_stage: senior_high
+  grade_scope:
+  - 11
+  question_type: single_choice
+  cognitive_level: evaluate
+  reasoning_steps: 3
+  estimated_time_seconds: 240
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1

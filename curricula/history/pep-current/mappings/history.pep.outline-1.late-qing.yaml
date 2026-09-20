@@ -1,0 +1,16 @@
+id: history.pep.outline-1.late-qing
+canonical_id: history.senior-high.late-qing
+curriculum_id: pep-history-current
+subject: history
+education_stage: senior_high
+grade_scope:
+- 10
+semester_scope: first
+display_name: 晚清时期的内忧外患与救亡图存
+reference:
+  publisher: 人民教育出版社
+  edition_scope: 现行普通高中教科书
+  chapter: 中外历史纲要（上）·晚清时期的内忧外患与救亡图存
+question_bank_ids:
+- bank.history.pep.outline-1.late-qing
+review_status: self_checked

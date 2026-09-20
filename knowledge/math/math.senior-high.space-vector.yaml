@@ -1,0 +1,54 @@
+id: math.senior-high.space-vector
+subject: math
+education_stage: senior_high
+name: 空间向量与立体几何
+summary: 本知识点围绕空间向量及坐标方法展开，重点是建立空间直角坐标系，用向量表示位置关系并计算角与距离，并能在新的问题情境中说明条件、过程与结论之间的联系。
+objectives:
+- 建立空间直角坐标系，用向量表示位置关系并计算角与距离
+- 能够识别典型条件并用规范语言说明判断依据
+prerequisites:
+- 初中阶段相关基础知识
+- 基本阅读、表达与推理能力
+common_mistakes:
+- 法向量方向选取错误或忽略夹角范围
+keywords:
+- 空间向量及坐标方法
+- 空间向量与立体几何
+competency_tags:
+- 数学抽象
+- 逻辑推理
+knowledge_items:
+- id: coordinates
+  type: formula
+  name: 空间向量坐标
+  content: 在空间直角坐标系中用三个坐标表示向量。
+  review_status: self_checked
+  formulas:
+  - \vec a=(x,y,z)
+- id: dot-product
+  type: formula
+  name: 空间向量数量积
+  content: 坐标乘积之和等于向量数量积。
+  review_status: self_checked
+  formulas:
+  - \vec a\cdot\vec b=x_1x_2+y_1y_2+z_1z_2
+- id: direction-normal
+  type: method
+  name: 方向向量与法向量
+  content: 用直线方向向量和平面法向量把空间位置关系转化为向量关系。
+  review_status: self_checked
+- id: line-plane-angle
+  type: formula
+  name: 直线与平面所成角
+  content: 直线方向向量与平面法向量的夹角可求线面角。
+  review_status: self_checked
+  formulas:
+  - \sin\theta=\frac{|\vec a\cdot\vec n|}{|\vec a||\vec n|}
+- id: point-plane-distance
+  type: formula
+  name: 点到平面的距离
+  content: 点到平面的距离可由平面一般方程直接计算。
+  review_status: self_checked
+  formulas:
+  - d=\frac{|Ax_0+By_0+Cz_0+D|}{\sqrt{A^2+B^2+C^2}}
+review_status: self_checked

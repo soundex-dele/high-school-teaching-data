@@ -1,0 +1,16 @@
+id: history.pep.outline-1.origins-qin-han
+canonical_id: history.senior-high.origins-qin-han
+curriculum_id: pep-history-current
+subject: history
+education_stage: senior_high
+grade_scope:
+- 10
+semester_scope: first
+display_name: 从中华文明起源到秦汉统一多民族封建国家的建立与巩固
+reference:
+  publisher: 人民教育出版社
+  edition_scope: 现行普通高中教科书
+  chapter: 中外历史纲要（上）·从中华文明起源到秦汉统一多民族封建国家的建立与巩固
+question_bank_ids:
+- bank.history.pep.outline-1.origins-qin-han
+review_status: self_checked

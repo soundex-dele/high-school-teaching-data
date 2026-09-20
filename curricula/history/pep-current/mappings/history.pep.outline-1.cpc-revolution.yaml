@@ -1,0 +1,16 @@
+id: history.pep.outline-1.cpc-revolution
+canonical_id: history.senior-high.cpc-revolution
+curriculum_id: pep-history-current
+subject: history
+education_stage: senior_high
+grade_scope:
+- 10
+semester_scope: first
+display_name: 中国共产党成立与新民主主义革命兴起
+reference:
+  publisher: 人民教育出版社
+  edition_scope: 现行普通高中教科书
+  chapter: 中外历史纲要（上）·中国共产党成立与新民主主义革命兴起
+question_bank_ids:
+- bank.history.pep.outline-1.cpc-revolution
+review_status: self_checked

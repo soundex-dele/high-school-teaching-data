@@ -1,0 +1,170 @@
+id: bank.math.xj.selective-2.derivative
+subject: math
+education_stage: senior_high
+grade_scope:
+- 11
+curriculum_scopes:
+- xj-math-current
+canonical_knowledge_ids:
+- math.senior-high.derivative
+questions:
+- id: math.xj.selective-2.derivative.q1
+  stem: 函数 f(x)=x³-2x 的导函数为（ ）。
+  options:
+  - id: A
+    text: 3x²-2
+  - id: B
+    text: x²-2
+  - id: C
+    text: 3x²
+  - id: D
+    text: 3x-2
+  correct_option_id: A
+  explanation: 由幂函数求导公式和线性运算，f'(x)=3x²-2。
+  difficulty: basic
+  tags:
+  - 一元函数的导数及其应用
+  - 概念与运算
+  source_type: original
+  knowledge_point_ids:
+  - math.senior-high.derivative
+  curriculum_scopes:
+  - xj-math-current
+  education_stage: senior_high
+  grade_scope:
+  - 11
+  question_type: single_choice
+  cognitive_level: understand
+  reasoning_steps: 1
+  estimated_time_seconds: 60
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: math.xj.selective-2.derivative.q2
+  stem: 曲线 y=x² 在点 (1,1) 处的切线斜率为（ ）。
+  options:
+  - id: A
+    text: '1'
+  - id: B
+    text: '-1'
+  - id: C
+    text: '-2'
+  - id: D
+    text: '2'
+  correct_option_id: D
+  explanation: y'=2x，在 x=1 处导数为 2，即切线斜率为 2。
+  difficulty: basic
+  tags:
+  - 一元函数的导数及其应用
+  - 概念与运算
+  source_type: original
+  knowledge_point_ids:
+  - math.senior-high.derivative
+  curriculum_scopes:
+  - xj-math-current
+  education_stage: senior_high
+  grade_scope:
+  - 11
+  question_type: single_choice
+  cognitive_level: apply
+  reasoning_steps: 1
+  estimated_time_seconds: 75
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: math.xj.selective-2.derivative.q3
+  stem: 函数 f(x)=x³-3x 在区间 (-1,1) 上（ ）。
+  options:
+  - id: A
+    text: 先增后减
+  - id: B
+    text: 先减后增
+  - id: C
+    text: 单调递减
+  - id: D
+    text: 单调递增
+  correct_option_id: C
+  explanation: f'(x)=3x²-3<0 在 (-1,1) 内成立，因此严格递减。
+  difficulty: medium
+  tags:
+  - 一元函数的导数及其应用
+  - 计算与推理
+  source_type: original
+  knowledge_point_ids:
+  - math.senior-high.derivative
+  curriculum_scopes:
+  - xj-math-current
+  education_stage: senior_high
+  grade_scope:
+  - 11
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 120
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: math.xj.selective-2.derivative.q4
+  stem: 若函数 f 在 x=0 处有 f'(0)=0，则下列判断一定正确的是（ ）。
+  options:
+  - id: A
+    text: f 在 0 两侧单调性改变
+  - id: B
+    text: x=0 是驻点
+  - id: C
+    text: x=0 是极大值点
+  - id: D
+    text: x=0 是极小值点
+  correct_option_id: B
+  explanation: 导数为 0 只能说明该点是驻点；是否为极值还要考察导数变号等条件。
+  difficulty: medium
+  tags:
+  - 一元函数的导数及其应用
+  - 计算与推理
+  source_type: original
+  knowledge_point_ids:
+  - math.senior-high.derivative
+  curriculum_scopes:
+  - xj-math-current
+  education_stage: senior_high
+  grade_scope:
+  - 11
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 150
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: math.xj.selective-2.derivative.q5
+  stem: 用长为 12 的铁丝围成矩形，则矩形面积的最大值为（ ）。
+  options:
+  - id: A
+    text: '9'
+  - id: B
+    text: '6'
+  - id: C
+    text: '8'
+  - id: D
+    text: '12'
+  correct_option_id: A
+  explanation: 设一边为 x，另一边为 6-x，面积 S=x(6-x)，在 x=3 时取最大值 9。
+  difficulty: advanced
+  tags:
+  - 一元函数的导数及其应用
+  - 计算与推理
+  source_type: original
+  knowledge_point_ids:
+  - math.senior-high.derivative
+  curriculum_scopes:
+  - xj-math-current
+  education_stage: senior_high
+  grade_scope:
+  - 11
+  question_type: single_choice
+  cognitive_level: evaluate
+  reasoning_steps: 3
+  estimated_time_seconds: 240
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1

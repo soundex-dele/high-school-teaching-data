@@ -1,0 +1,47 @@
+id: history.senior-high.population-culture
+subject: history
+education_stage: senior_high
+name: 人口迁徙、文化交融与认同
+summary: 本知识点围绕迁徙、交融与文化认同展开，重点是分析人口迁徙对文化传播、族群交融和认同建构的影响，并能在新的问题情境中说明条件、过程与结论之间的联系。
+objectives:
+- 分析人口迁徙对文化传播、族群交融和认同建构的影响
+- 能够识别典型条件并用规范语言说明判断依据
+prerequisites:
+- 初中阶段相关基础知识
+- 基本阅读、表达与推理能力
+common_mistakes:
+- 把文化交融理解为原有文化完全消失
+keywords:
+- 迁徙、交融与文化认同
+- 人口迁徙、文化交融与认同
+competency_tags:
+- 时空观念
+- 史料实证
+- 历史解释
+knowledge_items:
+- id: topic-1
+  type: process
+  name: 古代人口迁徙
+  content: 围绕“古代人口迁徙”梳理其时空背景、核心内容及其在“人口迁徙、文化交融与认同”历史进程中的作用。
+  review_status: self_checked
+- id: topic-2
+  type: process
+  name: 印欧人迁徙
+  content: 围绕“印欧人迁徙”梳理其时空背景、核心内容及其在“人口迁徙、文化交融与认同”历史进程中的作用。
+  review_status: self_checked
+- id: topic-3
+  type: process
+  name: 近代跨洲人口迁徙
+  content: 围绕“近代跨洲人口迁徙”梳理其时空背景、核心内容及其在“人口迁徙、文化交融与认同”历史进程中的作用。
+  review_status: self_checked
+- id: topic-4
+  type: concept
+  name: 华工与华人社会
+  content: 围绕“华工与华人社会”梳理其时空背景、核心内容及其在“人口迁徙、文化交融与认同”历史进程中的作用。
+  review_status: self_checked
+- id: topic-5
+  type: process
+  name: 文化交融与身份认同
+  content: 围绕“文化交融与身份认同”梳理其时空背景、核心内容及其在“人口迁徙、文化交融与认同”历史进程中的作用。
+  review_status: self_checked
+review_status: self_checked

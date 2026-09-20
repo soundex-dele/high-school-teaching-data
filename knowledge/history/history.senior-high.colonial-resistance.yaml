@@ -1,0 +1,47 @@
+id: history.senior-high.colonial-resistance
+subject: history
+education_stage: senior_high
+name: 世界殖民体系与亚非拉民族独立运动
+summary: 本知识点围绕殖民扩张与民族抗争展开，重点是理解世界殖民体系形成及亚非拉人民争取民族独立的实践，并能在新的问题情境中说明条件、过程与结论之间的联系。
+objectives:
+- 理解世界殖民体系形成及亚非拉人民争取民族独立的实践
+- 能够识别典型条件并用规范语言说明判断依据
+prerequisites:
+- 初中阶段相关基础知识
+- 基本阅读、表达与推理能力
+common_mistakes:
+- 把各地民族运动视为同一模式
+keywords:
+- 殖民扩张与民族抗争
+- 世界殖民体系与亚非拉民族独立运动
+competency_tags:
+- 时空观念
+- 史料实证
+- 历史解释
+knowledge_items:
+- id: topic-1
+  type: event
+  name: 拉丁美洲独立运动
+  content: 围绕“拉丁美洲独立运动”梳理其时空背景、核心内容及其在“世界殖民体系与亚非拉民族独立运动”历史进程中的作用。
+  review_status: self_checked
+- id: topic-2
+  type: institution
+  name: 亚洲殖民体系形成
+  content: 围绕“亚洲殖民体系形成”梳理其时空背景、核心内容及其在“世界殖民体系与亚非拉民族独立运动”历史进程中的作用。
+  review_status: self_checked
+- id: topic-3
+  type: concept
+  name: 非洲被瓜分
+  content: 围绕“非洲被瓜分”梳理其时空背景、核心内容及其在“世界殖民体系与亚非拉民族独立运动”历史进程中的作用。
+  review_status: self_checked
+- id: topic-4
+  type: concept
+  name: 亚洲觉醒
+  content: 围绕“亚洲觉醒”梳理其时空背景、核心内容及其在“世界殖民体系与亚非拉民族独立运动”历史进程中的作用。
+  review_status: self_checked
+- id: topic-5
+  type: institution
+  name: 世界殖民体系形成与反抗
+  content: 围绕“世界殖民体系形成与反抗”梳理其时空背景、核心内容及其在“世界殖民体系与亚非拉民族独立运动”历史进程中的作用。
+  review_status: self_checked
+review_status: self_checked

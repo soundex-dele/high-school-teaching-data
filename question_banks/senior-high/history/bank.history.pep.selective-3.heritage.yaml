@@ -1,0 +1,175 @@
+id: bank.history.pep.selective-3.heritage
+subject: history
+education_stage: senior_high
+grade_scope:
+- 12
+curriculum_scopes:
+- pep-history-current
+canonical_knowledge_ids:
+- history.senior-high.heritage
+questions:
+- id: history.pep.selective-3.heritage.q1
+  stem: 下列哪一历史主题与材料描述最吻合：“官学、私学到现代学校扩大知识传播，但教育机会始终受制度影响”（ ）。
+  options:
+  - id: A
+    text: 博物馆发展
+  - id: B
+    text: 世界文化遗产保护
+  - id: C
+    text: 学校教育与文化传承
+  - id: D
+    text: 印刷书籍与图书馆
+  correct_option_id: C
+  explanation: 材料以“官学、私学到现代学校扩大知识传播，但教育机会始终受制度影响”为关键线索，指向“学校教育与文化传承”。其余选项虽属同一章，但在时段、对象或核心机制上与材料不符。
+  difficulty: basic
+  tags:
+  - 文化传承的多种载体及其发展
+  - 学校教育与文化传承
+  - 时空观念
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.heritage
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 12
+  question_type: single_choice
+  cognitive_level: understand
+  reasoning_steps: 1
+  estimated_time_seconds: 75
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.selective-3.heritage.q2
+  stem: 下列哪一历史主题与材料描述最吻合：“印刷降低复制成本，图书馆保存和开放文献，推动知识公共化”（ ）。
+  options:
+  - id: A
+    text: 非物质文化遗产传承
+  - id: B
+    text: 印刷书籍与图书馆
+  - id: C
+    text: 博物馆发展
+  - id: D
+    text: 世界文化遗产保护
+  correct_option_id: B
+  explanation: 材料以“印刷降低复制成本，图书馆保存和开放文献，推动知识公共化”为关键线索，指向“印刷书籍与图书馆”。其余选项虽属同一章，但在时段、对象或核心机制上与材料不符。
+  difficulty: basic
+  tags:
+  - 文化传承的多种载体及其发展
+  - 印刷书籍与图书馆
+  - 时空观念
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.heritage
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 12
+  question_type: single_choice
+  cognitive_level: apply
+  reasoning_steps: 1
+  estimated_time_seconds: 90
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.selective-3.heritage.q3
+  stem: 围绕“博物馆发展”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 收藏从宫廷私人走向公共展示，博物馆兼具研究教育与身份叙事功能
+  - id: B
+    text: 真实性、完整性和社区参与需要与旅游开发协调，保护不等于封闭
+  - id: C
+    text: 传承依赖实践者和生活语境，简单录制或商业包装不能替代活态延续
+  - id: D
+    text: 官学、私学到现代学校扩大知识传播，但教育机会始终受制度影响
+  correct_option_id: A
+  explanation: “收藏从宫廷私人走向公共展示，博物馆兼具研究教育与身份叙事功能”准确概括了“博物馆发展”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: medium
+  tags:
+  - 文化传承的多种载体及其发展
+  - 博物馆发展
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.heritage
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 12
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 120
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.selective-3.heritage.q4
+  stem: 围绕“世界文化遗产保护”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 传承依赖实践者和生活语境，简单录制或商业包装不能替代活态延续
+  - id: B
+    text: 官学、私学到现代学校扩大知识传播，但教育机会始终受制度影响
+  - id: C
+    text: 印刷降低复制成本，图书馆保存和开放文献，推动知识公共化
+  - id: D
+    text: 真实性、完整性和社区参与需要与旅游开发协调，保护不等于封闭
+  correct_option_id: D
+  explanation: “真实性、完整性和社区参与需要与旅游开发协调，保护不等于封闭”准确概括了“世界文化遗产保护”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: medium
+  tags:
+  - 文化传承的多种载体及其发展
+  - 世界文化遗产保护
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.heritage
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 12
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 150
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.selective-3.heritage.q5
+  stem: 围绕“非物质文化遗产传承”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 印刷降低复制成本，图书馆保存和开放文献，推动知识公共化
+  - id: B
+    text: 收藏从宫廷私人走向公共展示，博物馆兼具研究教育与身份叙事功能
+  - id: C
+    text: 传承依赖实践者和生活语境，简单录制或商业包装不能替代活态延续
+  - id: D
+    text: 官学、私学到现代学校扩大知识传播，但教育机会始终受制度影响
+  correct_option_id: C
+  explanation: “传承依赖实践者和生活语境，简单录制或商业包装不能替代活态延续”准确概括了“非物质文化遗产传承”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: advanced
+  tags:
+  - 文化传承的多种载体及其发展
+  - 非物质文化遗产传承
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.heritage
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 12
+  question_type: single_choice
+  cognitive_level: evaluate
+  reasoning_steps: 3
+  estimated_time_seconds: 210
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1

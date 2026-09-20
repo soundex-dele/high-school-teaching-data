@@ -1,0 +1,170 @@
+id: bank.math.xj.required-2.solid-geometry
+subject: math
+education_stage: senior_high
+grade_scope:
+- 10
+curriculum_scopes:
+- xj-math-current
+canonical_knowledge_ids:
+- math.senior-high.solid-geometry
+questions:
+- id: math.xj.required-2.solid-geometry.q1
+  stem: 若直线 l 垂直于平面 α 内两条相交直线，则（ ）。
+  options:
+  - id: A
+    text: l∥α
+  - id: B
+    text: l 与 α 斜交
+  - id: C
+    text: l⊥α
+  - id: D
+    text: l⊂α
+  correct_option_id: C
+  explanation: 一条直线垂直于平面内两条相交直线，是直线与平面垂直的判定条件。
+  difficulty: basic
+  tags:
+  - 立体几何初步
+  - 概念与运算
+  source_type: original
+  knowledge_point_ids:
+  - math.senior-high.solid-geometry
+  curriculum_scopes:
+  - xj-math-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: understand
+  reasoning_steps: 1
+  estimated_time_seconds: 60
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: math.xj.required-2.solid-geometry.q2
+  stem: 一个正方体的棱长为 2，则其体积为（ ）。
+  options:
+  - id: A
+    text: '12'
+  - id: B
+    text: '8'
+  - id: C
+    text: '4'
+  - id: D
+    text: '6'
+  correct_option_id: B
+  explanation: 正方体体积为棱长的三次方，即 2³=8。
+  difficulty: basic
+  tags:
+  - 立体几何初步
+  - 概念与运算
+  source_type: original
+  knowledge_point_ids:
+  - math.senior-high.solid-geometry
+  curriculum_scopes:
+  - xj-math-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: apply
+  reasoning_steps: 1
+  estimated_time_seconds: 75
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: math.xj.required-2.solid-geometry.q3
+  stem: 若平面 α∥平面 β，直线 l⊂α，则 l 与 β 的位置关系是（ ）。
+  options:
+  - id: A
+    text: 一定平行
+  - id: B
+    text: 一定垂直
+  - id: C
+    text: 相交或平行
+  - id: D
+    text: 可能在 β 内
+  correct_option_id: A
+  explanation: 两个平行平面没有公共点，α 内任一直线与 β 无公共点，因此 l∥β。
+  difficulty: medium
+  tags:
+  - 立体几何初步
+  - 计算与推理
+  source_type: original
+  knowledge_point_ids:
+  - math.senior-high.solid-geometry
+  curriculum_scopes:
+  - xj-math-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 120
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: math.xj.required-2.solid-geometry.q4
+  stem: 圆锥的底面半径为 3，高为 4，则其侧面积为（ ）。
+  options:
+  - id: A
+    text: 12π
+  - id: B
+    text: 20π
+  - id: C
+    text: 24π
+  - id: D
+    text: 15π
+  correct_option_id: D
+  explanation: 母线长为 √(3²+4²)=5，侧面积 πrl=π×3×5=15π。
+  difficulty: medium
+  tags:
+  - 立体几何初步
+  - 计算与推理
+  source_type: original
+  knowledge_point_ids:
+  - math.senior-high.solid-geometry
+  curriculum_scopes:
+  - xj-math-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 150
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: math.xj.required-2.solid-geometry.q5
+  stem: 在正方体 ABCD-A₁B₁C₁D₁ 中，与直线 AC₁ 异面的棱共有（ ）。
+  options:
+  - id: A
+    text: 4 条
+  - id: B
+    text: 8 条
+  - id: C
+    text: 6 条
+  - id: D
+    text: 2 条
+  correct_option_id: C
+  explanation: 与 AC₁ 相交的棱有 6 条，平行棱不存在；12 条棱中余下 6 条与其异面。
+  difficulty: advanced
+  tags:
+  - 立体几何初步
+  - 计算与推理
+  source_type: original
+  knowledge_point_ids:
+  - math.senior-high.solid-geometry
+  curriculum_scopes:
+  - xj-math-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: evaluate
+  reasoning_steps: 3
+  estimated_time_seconds: 240
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1

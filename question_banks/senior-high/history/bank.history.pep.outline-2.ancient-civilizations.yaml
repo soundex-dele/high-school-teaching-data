@@ -1,0 +1,175 @@
+id: bank.history.pep.outline-2.ancient-civilizations
+subject: history
+education_stage: senior_high
+grade_scope:
+- 10
+curriculum_scopes:
+- pep-history-current
+canonical_knowledge_ids:
+- history.senior-high.ancient-civilizations
+questions:
+- id: history.pep.outline-2.ancient-civilizations.q1
+  stem: 下列哪一历史主题与材料描述最吻合：“大河灌溉农业、楔形文字和城邦发展，后来形成跨区域帝国”（ ）。
+  options:
+  - id: A
+    text: 古代帝国扩张
+  - id: B
+    text: 西亚与埃及文明
+  - id: C
+    text: 古代印度文明
+  - id: D
+    text: 古代希腊文明
+  correct_option_id: B
+  explanation: 材料以“大河灌溉农业、楔形文字和城邦发展，后来形成跨区域帝国”为关键线索，指向“西亚与埃及文明”。其余选项虽属同一章，但在时段、对象或核心机制上与材料不符。
+  difficulty: basic
+  tags:
+  - 古代文明的产生与发展
+  - 西亚与埃及文明
+  - 时空观念
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.ancient-civilizations
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: understand
+  reasoning_steps: 1
+  estimated_time_seconds: 75
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.outline-2.ancient-civilizations.q2
+  stem: 下列哪一历史主题与材料描述最吻合：“种姓制度影响社会结构，佛教产生并向亚洲多地传播”（ ）。
+  options:
+  - id: A
+    text: 古代印度文明
+  - id: B
+    text: 古代希腊文明
+  - id: C
+    text: 古代帝国扩张
+  - id: D
+    text: 文明交流与区域联系
+  correct_option_id: A
+  explanation: 材料以“种姓制度影响社会结构，佛教产生并向亚洲多地传播”为关键线索，指向“古代印度文明”。其余选项虽属同一章，但在时段、对象或核心机制上与材料不符。
+  difficulty: basic
+  tags:
+  - 古代文明的产生与发展
+  - 古代印度文明
+  - 时空观念
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.ancient-civilizations
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: apply
+  reasoning_steps: 1
+  estimated_time_seconds: 90
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.outline-2.ancient-civilizations.q3
+  stem: 围绕“古代希腊文明”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 通过战争和交通整合广大地区，法律与行政制度促进文明传播
+  - id: B
+    text: 各文明独立起源又通过战争、贸易和迁徙交往，不能用单一路径解释
+  - id: C
+    text: 大河灌溉农业、楔形文字和城邦发展，后来形成跨区域帝国
+  - id: D
+    text: 城邦公民政治与人文思想发展，但奴隶、妇女和外邦人没有公民权
+  correct_option_id: D
+  explanation: “城邦公民政治与人文思想发展，但奴隶、妇女和外邦人没有公民权”准确概括了“古代希腊文明”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: medium
+  tags:
+  - 古代文明的产生与发展
+  - 古代希腊文明
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.ancient-civilizations
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 120
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.outline-2.ancient-civilizations.q4
+  stem: 围绕“古代帝国扩张”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 大河灌溉农业、楔形文字和城邦发展，后来形成跨区域帝国
+  - id: B
+    text: 种姓制度影响社会结构，佛教产生并向亚洲多地传播
+  - id: C
+    text: 通过战争和交通整合广大地区，法律与行政制度促进文明传播
+  - id: D
+    text: 各文明独立起源又通过战争、贸易和迁徙交往，不能用单一路径解释
+  correct_option_id: C
+  explanation: “通过战争和交通整合广大地区，法律与行政制度促进文明传播”准确概括了“古代帝国扩张”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: medium
+  tags:
+  - 古代文明的产生与发展
+  - 古代帝国扩张
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.ancient-civilizations
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 150
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.outline-2.ancient-civilizations.q5
+  stem: 围绕“文明交流与区域联系”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 城邦公民政治与人文思想发展，但奴隶、妇女和外邦人没有公民权
+  - id: B
+    text: 各文明独立起源又通过战争、贸易和迁徙交往，不能用单一路径解释
+  - id: C
+    text: 大河灌溉农业、楔形文字和城邦发展，后来形成跨区域帝国
+  - id: D
+    text: 种姓制度影响社会结构，佛教产生并向亚洲多地传播
+  correct_option_id: B
+  explanation: “各文明独立起源又通过战争、贸易和迁徙交往，不能用单一路径解释”准确概括了“文明交流与区域联系”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: advanced
+  tags:
+  - 古代文明的产生与发展
+  - 文明交流与区域联系
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.ancient-civilizations
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 10
+  question_type: single_choice
+  cognitive_level: evaluate
+  reasoning_steps: 3
+  estimated_time_seconds: 210
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1

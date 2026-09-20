@@ -1,0 +1,57 @@
+id: math.senior-high.complex
+subject: math
+education_stage: senior_high
+name: 复数
+summary: 本知识点围绕复数概念与运算展开，重点是理解复数的代数形式及几何意义，正确完成四则运算，并能在新的问题情境中说明条件、过程与结论之间的联系。
+objectives:
+- 理解复数的代数形式及几何意义，正确完成四则运算
+- 能够识别典型条件并用规范语言说明判断依据
+prerequisites:
+- 初中阶段相关基础知识
+- 基本阅读、表达与推理能力
+common_mistakes:
+- 把虚数单位当作普通未知数而错误处理平方
+keywords:
+- 复数概念与运算
+- 复数
+competency_tags:
+- 数学抽象
+- 逻辑推理
+knowledge_items:
+- id: algebraic-form
+  type: definition
+  name: 复数的代数形式
+  content: 实部与虚部共同确定复数。
+  review_status: self_checked
+  formulas:
+  - z=a+bi
+  - i^2=-1
+- id: equality
+  type: theorem
+  name: 复数相等
+  content: 两个复数相等当且仅当其实部与虚部分别相等。
+  review_status: self_checked
+  formulas:
+  - a+bi=c+di\iff a=c,\ b=d
+  conditions: []
+  conclusion: 实部、虚部分别相等。
+- id: operations
+  type: formula
+  name: 复数四则运算
+  content: 加减按实部、虚部分别运算，乘除利用 i²=-1 和共轭复数化简。
+  review_status: self_checked
+- id: conjugate-modulus
+  type: formula
+  name: 共轭复数与复数模
+  content: 共轭复数改变虚部符号，模表示复平面中点到原点的距离。
+  review_status: self_checked
+  formulas:
+  - \bar z=a-bi
+  - '|z|=\sqrt{a^2+b^2}'
+  - z\bar z=|z|^2
+- id: complex-plane
+  type: model
+  name: 复数的几何意义
+  content: 复数 a+bi 与复平面上的点 (a,b) 或从原点出发的向量对应。
+  review_status: self_checked
+review_status: self_checked

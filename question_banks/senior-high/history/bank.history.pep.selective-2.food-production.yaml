@@ -1,0 +1,175 @@
+id: bank.history.pep.selective-2.food-production
+subject: history
+education_stage: senior_high
+grade_scope:
+- 11
+curriculum_scopes:
+- pep-history-current
+canonical_knowledge_ids:
+- history.senior-high.food-production
+questions:
+- id: history.pep.selective-2.food-production.q1
+  stem: 下列哪一历史主题与材料描述最吻合：“人类驯化动植物并定居，剩余产品、分工和社会分化随之出现”（ ）。
+  options:
+  - id: A
+    text: 农业与畜牧业起源
+  - id: B
+    text: 不同区域食物生产
+  - id: C
+    text: 美洲作物全球传播
+  - id: D
+    text: 现代农业与食品工业
+  correct_option_id: A
+  explanation: 材料以“人类驯化动植物并定居，剩余产品、分工和社会分化随之出现”为关键线索，指向“农业与畜牧业起源”。其余选项虽属同一章，但在时段、对象或核心机制上与材料不符。
+  difficulty: basic
+  tags:
+  - 食物生产与社会生活
+  - 农业与畜牧业起源
+  - 时空观念
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.food-production
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 11
+  question_type: single_choice
+  cognitive_level: understand
+  reasoning_steps: 1
+  estimated_time_seconds: 75
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.selective-2.food-production.q2
+  stem: 下列哪一历史主题与材料描述最吻合：“西亚小麦、中国水稻和中南美洲玉米体现农业起源的多中心特征”（ ）。
+  options:
+  - id: A
+    text: 美洲作物全球传播
+  - id: B
+    text: 现代农业与食品工业
+  - id: C
+    text: 食物生产的社会影响
+  - id: D
+    text: 不同区域食物生产
+  correct_option_id: D
+  explanation: 材料以“西亚小麦、中国水稻和中南美洲玉米体现农业起源的多中心特征”为关键线索，指向“不同区域食物生产”。其余选项虽属同一章，但在时段、对象或核心机制上与材料不符。
+  difficulty: basic
+  tags:
+  - 食物生产与社会生活
+  - 不同区域食物生产
+  - 时空观念
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.food-production
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 11
+  question_type: single_choice
+  cognitive_level: apply
+  reasoning_steps: 1
+  estimated_time_seconds: 90
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.selective-2.food-production.q3
+  stem: 围绕“美洲作物全球传播”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 食物增产不能单独保证安全，分配、价格、战争和气候同样影响获得
+  - id: B
+    text: 人类驯化动植物并定居，剩余产品、分工和社会分化随之出现
+  - id: C
+    text: 新航路后玉米、马铃薯等跨洲传播，改变人口承载力与饮食结构
+  - id: D
+    text: 机械化、化肥和冷链提高产量与供应稳定性，也带来生态和安全议题
+  correct_option_id: C
+  explanation: “新航路后玉米、马铃薯等跨洲传播，改变人口承载力与饮食结构”准确概括了“美洲作物全球传播”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: medium
+  tags:
+  - 食物生产与社会生活
+  - 美洲作物全球传播
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.food-production
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 11
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 120
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.selective-2.food-production.q4
+  stem: 围绕“现代农业与食品工业”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 西亚小麦、中国水稻和中南美洲玉米体现农业起源的多中心特征
+  - id: B
+    text: 机械化、化肥和冷链提高产量与供应稳定性，也带来生态和安全议题
+  - id: C
+    text: 食物增产不能单独保证安全，分配、价格、战争和气候同样影响获得
+  - id: D
+    text: 人类驯化动植物并定居，剩余产品、分工和社会分化随之出现
+  correct_option_id: B
+  explanation: “机械化、化肥和冷链提高产量与供应稳定性，也带来生态和安全议题”准确概括了“现代农业与食品工业”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: medium
+  tags:
+  - 食物生产与社会生活
+  - 现代农业与食品工业
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.food-production
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 11
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 150
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.selective-2.food-production.q5
+  stem: 围绕“食物生产的社会影响”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 食物增产不能单独保证安全，分配、价格、战争和气候同样影响获得
+  - id: B
+    text: 人类驯化动植物并定居，剩余产品、分工和社会分化随之出现
+  - id: C
+    text: 西亚小麦、中国水稻和中南美洲玉米体现农业起源的多中心特征
+  - id: D
+    text: 新航路后玉米、马铃薯等跨洲传播，改变人口承载力与饮食结构
+  correct_option_id: A
+  explanation: “食物增产不能单独保证安全，分配、价格、战争和气候同样影响获得”准确概括了“食物生产的社会影响”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: advanced
+  tags:
+  - 食物生产与社会生活
+  - 食物生产的社会影响
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.food-production
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 11
+  question_type: single_choice
+  cognitive_level: evaluate
+  reasoning_steps: 3
+  estimated_time_seconds: 210
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1

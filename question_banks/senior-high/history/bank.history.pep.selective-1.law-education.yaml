@@ -1,0 +1,175 @@
+id: bank.history.pep.selective-1.law-education
+subject: history
+education_stage: senior_high
+grade_scope:
+- 11
+curriculum_scopes:
+- pep-history-current
+canonical_knowledge_ids:
+- history.senior-high.law-education
+questions:
+- id: history.pep.selective-1.law-education.q1
+  stem: 下列哪一历史主题与材料描述最吻合：“秦重刑法，汉以后儒家伦理逐渐进入法律，礼法结合趋势形成”（ ）。
+  options:
+  - id: A
+    text: 先秦秦汉法律与教化
+  - id: B
+    text: 魏晋隋唐法律体系
+  - id: C
+    text: 宋元明清法律教化
+  - id: D
+    text: 近代西方法律制度
+  correct_option_id: A
+  explanation: 材料以“秦重刑法，汉以后儒家伦理逐渐进入法律，礼法结合趋势形成”为关键线索，指向“先秦秦汉法律与教化”。其余选项虽属同一章，但在时段、对象或核心机制上与材料不符。
+  difficulty: basic
+  tags:
+  - 法律与教化
+  - 先秦秦汉法律与教化
+  - 时空观念
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.law-education
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 11
+  question_type: single_choice
+  cognitive_level: understand
+  reasoning_steps: 1
+  estimated_time_seconds: 75
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.selective-1.law-education.q2
+  stem: 下列哪一历史主题与材料描述最吻合：“法典体系成熟并影响周边国家，法律确认等级秩序也规范社会生活”（ ）。
+  options:
+  - id: A
+    text: 宋元明清法律教化
+  - id: B
+    text: 近代西方法律制度
+  - id: C
+    text: 当代中国法治与精神文明
+  - id: D
+    text: 魏晋隋唐法律体系
+  correct_option_id: D
+  explanation: 材料以“法典体系成熟并影响周边国家，法律确认等级秩序也规范社会生活”为关键线索，指向“魏晋隋唐法律体系”。其余选项虽属同一章，但在时段、对象或核心机制上与材料不符。
+  difficulty: basic
+  tags:
+  - 法律与教化
+  - 魏晋隋唐法律体系
+  - 时空观念
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.law-education
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 11
+  question_type: single_choice
+  cognitive_level: apply
+  reasoning_steps: 1
+  estimated_time_seconds: 90
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.selective-1.law-education.q3
+  stem: 围绕“宋元明清法律教化”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 宪法法律体系与社会主义核心价值观建设相结合，体现依法治国与以德治国
+  - id: B
+    text: 秦重刑法，汉以后儒家伦理逐渐进入法律，礼法结合趋势形成
+  - id: C
+    text: 乡约、家训与法律相互配合，基层教化并不等同于国家强制
+  - id: D
+    text: 从习惯法、罗马法到近代法典和判例体系，形成不同法律传统
+  correct_option_id: C
+  explanation: “乡约、家训与法律相互配合，基层教化并不等同于国家强制”准确概括了“宋元明清法律教化”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: medium
+  tags:
+  - 法律与教化
+  - 宋元明清法律教化
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.law-education
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 11
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 120
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.selective-1.law-education.q4
+  stem: 围绕“近代西方法律制度”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 法典体系成熟并影响周边国家，法律确认等级秩序也规范社会生活
+  - id: B
+    text: 从习惯法、罗马法到近代法典和判例体系，形成不同法律传统
+  - id: C
+    text: 宪法法律体系与社会主义核心价值观建设相结合，体现依法治国与以德治国
+  - id: D
+    text: 秦重刑法，汉以后儒家伦理逐渐进入法律，礼法结合趋势形成
+  correct_option_id: B
+  explanation: “从习惯法、罗马法到近代法典和判例体系，形成不同法律传统”准确概括了“近代西方法律制度”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: medium
+  tags:
+  - 法律与教化
+  - 近代西方法律制度
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.law-education
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 11
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 150
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.selective-1.law-education.q5
+  stem: 围绕“当代中国法治与精神文明”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 宪法法律体系与社会主义核心价值观建设相结合，体现依法治国与以德治国
+  - id: B
+    text: 秦重刑法，汉以后儒家伦理逐渐进入法律，礼法结合趋势形成
+  - id: C
+    text: 法典体系成熟并影响周边国家，法律确认等级秩序也规范社会生活
+  - id: D
+    text: 乡约、家训与法律相互配合，基层教化并不等同于国家强制
+  correct_option_id: A
+  explanation: “宪法法律体系与社会主义核心价值观建设相结合，体现依法治国与以德治国”准确概括了“当代中国法治与精神文明”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: advanced
+  tags:
+  - 法律与教化
+  - 当代中国法治与精神文明
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.law-education
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 11
+  question_type: single_choice
+  cognitive_level: evaluate
+  reasoning_steps: 3
+  estimated_time_seconds: 210
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1

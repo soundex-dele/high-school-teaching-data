@@ -1,0 +1,47 @@
+id: history.senior-high.three-kingdoms-sui-tang
+subject: history
+education_stage: senior_high
+name: 三国两晋南北朝的民族交融与隋唐统一多民族封建国家的发展
+summary: 本知识点围绕分裂交融与隋唐发展展开，重点是分析政权更替、民族交融、制度创新和开放交流对隋唐发展的影响，并能在新的问题情境中说明条件、过程与结论之间的联系。
+objectives:
+- 分析政权更替、民族交融、制度创新和开放交流对隋唐发展的影响
+- 能够识别典型条件并用规范语言说明判断依据
+prerequisites:
+- 初中阶段相关基础知识
+- 基本阅读、表达与推理能力
+common_mistakes:
+- 把分裂时期简单理解为社会完全停滞
+keywords:
+- 分裂交融与隋唐发展
+- 三国两晋南北朝的民族交融与隋唐统一多民族封建国家的发展
+competency_tags:
+- 时空观念
+- 史料实证
+- 历史解释
+knowledge_items:
+- id: topic-1
+  type: concept
+  name: 三国两晋南北朝政权更替
+  content: 围绕“三国两晋南北朝政权更替”梳理其时空背景、核心内容及其在“三国两晋南北朝的民族交融与隋唐统一多民族封建国家的发展”历史进程中的作用。
+  review_status: self_checked
+- id: topic-2
+  type: process
+  name: 北方民族交融
+  content: 围绕“北方民族交融”梳理其时空背景、核心内容及其在“三国两晋南北朝的民族交融与隋唐统一多民族封建国家的发展”历史进程中的作用。
+  review_status: self_checked
+- id: topic-3
+  type: institution
+  name: 隋朝统一与制度建设
+  content: 围绕“隋朝统一与制度建设”梳理其时空背景、核心内容及其在“三国两晋南北朝的民族交融与隋唐统一多民族封建国家的发展”历史进程中的作用。
+  review_status: self_checked
+- id: topic-4
+  type: process
+  name: 唐朝政治与经济发展
+  content: 围绕“唐朝政治与经济发展”梳理其时空背景、核心内容及其在“三国两晋南北朝的民族交融与隋唐统一多民族封建国家的发展”历史进程中的作用。
+  review_status: self_checked
+- id: topic-5
+  type: concept
+  name: 隋唐中外文化交流
+  content: 围绕“隋唐中外文化交流”梳理其时空背景、核心内容及其在“三国两晋南北朝的民族交融与隋唐统一多民族封建国家的发展”历史进程中的作用。
+  review_status: self_checked
+review_status: self_checked

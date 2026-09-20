@@ -1,0 +1,61 @@
+id: math.senior-high.derivative
+subject: math
+education_stage: senior_high
+name: 一元函数的导数及其应用
+summary: 本知识点围绕导数与函数变化展开，重点是理解导数的几何意义，用导数研究单调性、极值和实际优化，并能在新的问题情境中说明条件、过程与结论之间的联系。
+objectives:
+- 理解导数的几何意义，用导数研究单调性、极值和实际优化
+- 能够识别典型条件并用规范语言说明判断依据
+prerequisites:
+- 初中阶段相关基础知识
+- 基本阅读、表达与推理能力
+common_mistakes:
+- 把导数为零直接等同于取得极值
+keywords:
+- 导数与函数变化
+- 一元函数的导数及其应用
+competency_tags:
+- 数学抽象
+- 逻辑推理
+knowledge_items:
+- id: definition
+  type: definition
+  name: 导数的定义
+  content: 导数是函数增量与自变量增量之比的极限。
+  review_status: self_checked
+  formulas:
+  - f'(x_0)=\lim_{\Delta x\to0}\frac{f(x_0+\Delta x)-f(x_0)}{\Delta x}
+- id: basic
+  type: formula
+  name: 基本初等函数的导数
+  content: 掌握幂函数、指数函数、对数函数和三角函数的常用导数。
+  review_status: self_checked
+  formulas:
+  - (x^n)'=nx^{n-1}
+  - (e^x)'=e^x
+  - (\ln x)'=\frac1x
+- id: rules
+  type: formula
+  name: 导数运算法则
+  content: 和差、积、商与复合函数按相应法则求导。
+  review_status: self_checked
+  formulas:
+  - (uv)'=u'v+uv'
+  - (\frac uv)'=\frac{u'v-uv'}{v^2}
+- id: monotonicity
+  type: theorem
+  name: 导数与单调性
+  content: 在区间内导数保持正或负可判定函数递增或递减。
+  review_status: self_checked
+  formulas:
+  - f'(x)>0
+  - f'(x)<0
+  conditions:
+  - 函数在区间内可导
+  conclusion: 导数为正时递增，导数为负时递减。
+- id: extrema
+  type: method
+  name: 用导数求极值与最值
+  content: 先找临界点，再检查导数符号变化，并结合端点比较函数值。
+  review_status: self_checked
+review_status: self_checked

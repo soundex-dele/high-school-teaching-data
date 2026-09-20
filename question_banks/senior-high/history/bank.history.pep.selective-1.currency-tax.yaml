@@ -1,0 +1,175 @@
+id: bank.history.pep.selective-1.currency-tax
+subject: history
+education_stage: senior_high
+grade_scope:
+- 11
+curriculum_scopes:
+- pep-history-current
+canonical_knowledge_ids:
+- history.senior-high.currency-tax
+questions:
+- id: history.pep.selective-1.currency-tax.q1
+  stem: 下列哪一历史主题与材料描述最吻合：“由天然货币到金属铸币、纸币，币制统一与信用问题长期并存”（ ）。
+  options:
+  - id: A
+    text: 中国古代货币演进
+  - id: B
+    text: 世界货币体系
+  - id: C
+    text: 中国古代赋役制度
+  - id: D
+    text: 近代关税与个人所得税
+  correct_option_id: A
+  explanation: 材料以“由天然货币到金属铸币、纸币，币制统一与信用问题长期并存”为关键线索，指向“中国古代货币演进”。其余选项虽属同一章，但在时段、对象或核心机制上与材料不符。
+  difficulty: basic
+  tags:
+  - 货币与赋税制度
+  - 中国古代货币演进
+  - 时空观念
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.currency-tax
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 11
+  question_type: single_choice
+  cognitive_level: understand
+  reasoning_steps: 1
+  estimated_time_seconds: 75
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.selective-1.currency-tax.q2
+  stem: 下列哪一历史主题与材料描述最吻合：“金银本位、信用货币到国际货币协调，反映贸易和国家信用变化”（ ）。
+  options:
+  - id: A
+    text: 中国古代赋役制度
+  - id: B
+    text: 近代关税与个人所得税
+  - id: C
+    text: 货币赋税与国家治理
+  - id: D
+    text: 世界货币体系
+  correct_option_id: D
+  explanation: 材料以“金银本位、信用货币到国际货币协调，反映贸易和国家信用变化”为关键线索，指向“世界货币体系”。其余选项虽属同一章，但在时段、对象或核心机制上与材料不符。
+  difficulty: basic
+  tags:
+  - 货币与赋税制度
+  - 世界货币体系
+  - 时空观念
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.currency-tax
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 11
+  question_type: single_choice
+  cognitive_level: apply
+  reasoning_steps: 1
+  estimated_time_seconds: 90
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.selective-1.currency-tax.q3
+  stem: 围绕“中国古代赋役制度”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 关税自主逐步恢复，个人所得税等现代税种服务财政与收入调节
+  - id: B
+    text: 由天然货币到金属铸币、纸币，币制统一与信用问题长期并存
+  - id: C
+    text: 从人头税、土地税到折银征收，征税依据和国家控制方式不断调整
+  - id: D
+    text: 废除人头税并把赋役并入田地，有助于减轻国家对人口的直接控制
+  correct_option_id: C
+  explanation: “从人头税、土地税到折银征收，征税依据和国家控制方式不断调整”准确概括了“中国古代赋役制度”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: medium
+  tags:
+  - 货币与赋税制度
+  - 中国古代赋役制度
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.currency-tax
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 11
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 120
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.selective-1.currency-tax.q4
+  stem: 围绕“近代关税与个人所得税”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 金银本位、信用货币到国际货币协调，反映贸易和国家信用变化
+  - id: B
+    text: 废除人头税并把赋役并入田地，有助于减轻国家对人口的直接控制
+  - id: C
+    text: 关税自主逐步恢复，个人所得税等现代税种服务财政与收入调节
+  - id: D
+    text: 由天然货币到金属铸币、纸币，币制统一与信用问题长期并存
+  correct_option_id: B
+  explanation: “废除人头税并把赋役并入田地，有助于减轻国家对人口的直接控制”准确概括了“近代关税与个人所得税”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: medium
+  tags:
+  - 货币与赋税制度
+  - 近代关税与个人所得税
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.currency-tax
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 11
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 150
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.selective-1.currency-tax.q5
+  stem: 围绕“货币赋税与国家治理”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 关税自主逐步恢复，个人所得税等现代税种服务财政与收入调节
+  - id: B
+    text: 由天然货币到金属铸币、纸币，币制统一与信用问题长期并存
+  - id: C
+    text: 金银本位、信用货币到国际货币协调，反映贸易和国家信用变化
+  - id: D
+    text: 从人头税、土地税到折银征收，征税依据和国家控制方式不断调整
+  correct_option_id: A
+  explanation: “关税自主逐步恢复，个人所得税等现代税种服务财政与收入调节”准确概括了“货币赋税与国家治理”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: advanced
+  tags:
+  - 货币与赋税制度
+  - 货币赋税与国家治理
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.currency-tax
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 11
+  question_type: single_choice
+  cognitive_level: evaluate
+  reasoning_steps: 3
+  estimated_time_seconds: 210
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1

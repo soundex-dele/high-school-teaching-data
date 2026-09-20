@@ -1,0 +1,47 @@
+id: history.senior-high.ancient-civilizations
+subject: history
+education_stage: senior_high
+name: 古代文明的产生与发展
+summary: 本知识点围绕多元古代文明展开，重点是比较不同自然和社会条件下古代文明及帝国的发展，并能在新的问题情境中说明条件、过程与结论之间的联系。
+objectives:
+- 比较不同自然和社会条件下古代文明及帝国的发展
+- 能够识别典型条件并用规范语言说明判断依据
+prerequisites:
+- 初中阶段相关基础知识
+- 基本阅读、表达与推理能力
+common_mistakes:
+- 用单线进化模式评价所有文明
+keywords:
+- 多元古代文明
+- 古代文明的产生与发展
+competency_tags:
+- 时空观念
+- 史料实证
+- 历史解释
+knowledge_items:
+- id: topic-1
+  type: concept
+  name: 西亚与埃及文明
+  content: 围绕“西亚与埃及文明”梳理其时空背景、核心内容及其在“古代文明的产生与发展”历史进程中的作用。
+  review_status: self_checked
+- id: topic-2
+  type: concept
+  name: 古代印度文明
+  content: 围绕“古代印度文明”梳理其时空背景、核心内容及其在“古代文明的产生与发展”历史进程中的作用。
+  review_status: self_checked
+- id: topic-3
+  type: concept
+  name: 古代希腊文明
+  content: 围绕“古代希腊文明”梳理其时空背景、核心内容及其在“古代文明的产生与发展”历史进程中的作用。
+  review_status: self_checked
+- id: topic-4
+  type: process
+  name: 古代帝国扩张
+  content: 围绕“古代帝国扩张”梳理其时空背景、核心内容及其在“古代文明的产生与发展”历史进程中的作用。
+  review_status: self_checked
+- id: topic-5
+  type: concept
+  name: 文明交流与区域联系
+  content: 围绕“文明交流与区域联系”梳理其时空背景、核心内容及其在“古代文明的产生与发展”历史进程中的作用。
+  review_status: self_checked
+review_status: self_checked

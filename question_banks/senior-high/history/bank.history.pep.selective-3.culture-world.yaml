@@ -1,0 +1,175 @@
+id: bank.history.pep.selective-3.culture-world
+subject: history
+education_stage: senior_high
+grade_scope:
+- 12
+curriculum_scopes:
+- pep-history-current
+canonical_knowledge_ids:
+- history.senior-high.culture-world
+questions:
+- id: history.pep.selective-3.culture-world.q1
+  stem: 下列哪一历史主题与材料描述最吻合：“两河、埃及、希伯来等传统在宗教、文字和法律方面影响深远”（ ）。
+  options:
+  - id: A
+    text: 南亚文化
+  - id: B
+    text: 东亚文化
+  - id: C
+    text: 西亚北非文化
+  - id: D
+    text: 欧洲文化
+  correct_option_id: C
+  explanation: 材料以“两河、埃及、希伯来等传统在宗教、文字和法律方面影响深远”为关键线索，指向“西亚北非文化”。其余选项虽属同一章，但在时段、对象或核心机制上与材料不符。
+  difficulty: basic
+  tags:
+  - 丰富多样的世界文化
+  - 西亚北非文化
+  - 时空观念
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.culture-world
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 12
+  question_type: single_choice
+  cognitive_level: understand
+  reasoning_steps: 1
+  estimated_time_seconds: 75
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.selective-3.culture-world.q2
+  stem: 下列哪一历史主题与材料描述最吻合：“希腊罗马传统、基督教与近代人文主义共同塑造但并未抹平区域差异”（ ）。
+  options:
+  - id: A
+    text: 美洲文化
+  - id: B
+    text: 欧洲文化
+  - id: C
+    text: 南亚文化
+  - id: D
+    text: 东亚文化
+  correct_option_id: B
+  explanation: 材料以“希腊罗马传统、基督教与近代人文主义共同塑造但并未抹平区域差异”为关键线索，指向“欧洲文化”。其余选项虽属同一章，但在时段、对象或核心机制上与材料不符。
+  difficulty: basic
+  tags:
+  - 丰富多样的世界文化
+  - 欧洲文化
+  - 时空观念
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.culture-world
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 12
+  question_type: single_choice
+  cognitive_level: apply
+  reasoning_steps: 1
+  estimated_time_seconds: 90
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.selective-3.culture-world.q3
+  stem: 围绕“南亚文化”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 印度宗教、文学和数学成就广泛传播，并与本地社会结构相互作用
+  - id: B
+    text: 中华文化辐射朝鲜、日本、越南，各地吸收后形成自身制度文化
+  - id: C
+    text: 玛雅历法、阿兹特克城市和印加道路显示美洲文明独立发展的创造力
+  - id: D
+    text: 两河、埃及、希伯来等传统在宗教、文字和法律方面影响深远
+  correct_option_id: A
+  explanation: “印度宗教、文学和数学成就广泛传播，并与本地社会结构相互作用”准确概括了“南亚文化”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: medium
+  tags:
+  - 丰富多样的世界文化
+  - 南亚文化
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.culture-world
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 12
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 120
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.selective-3.culture-world.q4
+  stem: 围绕“东亚文化”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 玛雅历法、阿兹特克城市和印加道路显示美洲文明独立发展的创造力
+  - id: B
+    text: 两河、埃及、希伯来等传统在宗教、文字和法律方面影响深远
+  - id: C
+    text: 希腊罗马传统、基督教与近代人文主义共同塑造但并未抹平区域差异
+  - id: D
+    text: 中华文化辐射朝鲜、日本、越南，各地吸收后形成自身制度文化
+  correct_option_id: D
+  explanation: “中华文化辐射朝鲜、日本、越南，各地吸收后形成自身制度文化”准确概括了“东亚文化”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: medium
+  tags:
+  - 丰富多样的世界文化
+  - 东亚文化
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.culture-world
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 12
+  question_type: single_choice
+  cognitive_level: analyze
+  reasoning_steps: 2
+  estimated_time_seconds: 150
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1
+- id: history.pep.selective-3.culture-world.q5
+  stem: 围绕“美洲文化”作历史解释，下列论述最准确的是（ ）。
+  options:
+  - id: A
+    text: 希腊罗马传统、基督教与近代人文主义共同塑造但并未抹平区域差异
+  - id: B
+    text: 印度宗教、文学和数学成就广泛传播，并与本地社会结构相互作用
+  - id: C
+    text: 玛雅历法、阿兹特克城市和印加道路显示美洲文明独立发展的创造力
+  - id: D
+    text: 两河、埃及、希伯来等传统在宗教、文字和法律方面影响深远
+  correct_option_id: C
+  explanation: “玛雅历法、阿兹特克城市和印加道路显示美洲文明独立发展的创造力”准确概括了“美洲文化”的时空背景、核心机制或历史影响；其余论述分别对应本章其他主题，不能替代该主题的解释。
+  difficulty: advanced
+  tags:
+  - 丰富多样的世界文化
+  - 美洲文化
+  - 史料实证
+  source_type: original
+  knowledge_point_ids:
+  - history.senior-high.culture-world
+  curriculum_scopes:
+  - pep-history-current
+  education_stage: senior_high
+  grade_scope:
+  - 12
+  question_type: single_choice
+  cognitive_level: evaluate
+  reasoning_steps: 3
+  estimated_time_seconds: 210
+  review_status: self_checked
+  authoring_method: human_ai_assisted
+  version: 1

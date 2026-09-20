@@ -1,0 +1,47 @@
+id: history.senior-high.civilization-origins
+subject: history
+education_stage: senior_high
+name: 源远流长的中华文化
+summary: 本知识点围绕中华文化的形成与特征展开，重点是从连续性、包容性和多民族互动理解中华文化发展，并能在新的问题情境中说明条件、过程与结论之间的联系。
+objectives:
+- 从连续性、包容性和多民族互动理解中华文化发展
+- 能够识别典型条件并用规范语言说明判断依据
+prerequisites:
+- 初中阶段相关基础知识
+- 基本阅读、表达与推理能力
+common_mistakes:
+- 把中华文化理解为封闭不变的单一传统
+keywords:
+- 中华文化的形成与特征
+- 源远流长的中华文化
+competency_tags:
+- 时空观念
+- 史料实证
+- 历史解释
+knowledge_items:
+- id: topic-1
+  type: concept
+  name: 中华文化的起源
+  content: 围绕“中华文化的起源”梳理其时空背景、核心内容及其在“源远流长的中华文化”历史进程中的作用。
+  review_status: self_checked
+- id: topic-2
+  type: process
+  name: 儒家思想发展
+  content: 围绕“儒家思想发展”梳理其时空背景、核心内容及其在“源远流长的中华文化”历史进程中的作用。
+  review_status: self_checked
+- id: topic-3
+  type: process
+  name: 中华文化的多民族交融
+  content: 围绕“中华文化的多民族交融”梳理其时空背景、核心内容及其在“源远流长的中华文化”历史进程中的作用。
+  review_status: self_checked
+- id: topic-4
+  type: concept
+  name: 中外文化交流
+  content: 围绕“中外文化交流”梳理其时空背景、核心内容及其在“源远流长的中华文化”历史进程中的作用。
+  review_status: self_checked
+- id: topic-5
+  type: concept
+  name: 中华文化的连续性与包容性
+  content: 围绕“中华文化的连续性与包容性”梳理其时空背景、核心内容及其在“源远流长的中华文化”历史进程中的作用。
+  review_status: self_checked
+review_status: self_checked
